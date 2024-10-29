@@ -1,0 +1,2030 @@
+Name,Nationality,Club,Preferred Positions,Age,Special,GK diving,GK handling,GK kicking,GK positioning,GK reflexes,Overall,Potential,Value,Wage
+M. Neuer,Germany,FC Bayern Munich,GK ,31,1493,91.0,90.0,95.0,91.0,89.0,92,92,61000000.0,230000.0
+De Gea,Spain,Manchester United,GK ,26,1458,90.0,85.0,87.0,86.0,90.0,90,92,64500000.0,215000.0
+G. Buffon,Italy,Juventus,GK ,39,1335,89.0,88.0,74.0,90.0,84.0,89,89,4500000.0,110000.0
+T. Courtois,Belgium,Chelsea,GK ,25,1282,85.0,91.0,69.0,86.0,88.0,89,92,59000000.0,190000.0
+H. Lloris,France,Tottenham Hotspur,GK ,30,1318,88.0,86.0,68.0,82.0,90.0,88,88,38000000.0,165000.0
+J. Oblak,Slovenia,Atlético Madrid,GK ,24,1290,84.0,90.0,77.0,87.0,84.0,88,93,57000000.0,82000.0
+S. Handanovič,Slovenia,Inter,GK ,32,1264,87.0,86.0,69.0,87.0,87.0,87,87,29000000.0,91000.0
+P. Čech,Czech Republic,Arsenal,GK ,35,1206,82.0,87.0,76.0,83.0,81.0,86,86,10500000.0,92000.0
+S. Ruffier,France,AS Saint-Étienne,GK ,30,1257,82.0,84.0,77.0,85.0,87.0,85,85,24500000.0,49000.0
+M. ter Stegen,Germany,FC Barcelona,GK ,25,1274,84.0,83.0,87.0,81.0,86.0,85,89,35500000.0,155000.0
+B. Leno,Germany,Bayer 04 Leverkusen,GK ,25,1247,85.0,84.0,74.0,85.0,83.0,85,88,34000000.0,61000.0
+D. Subašić,Croatia,AS Monaco,GK ,32,1305,84.0,79.0,79.0,85.0,87.0,85,85,22000000.0,46000.0
+K. Navas,Costa Rica,Real Madrid CF,GK ,30,1301,87.0,82.0,72.0,80.0,85.0,85,85,24500000.0,165000.0
+R. Fährmann,Germany,FC Schalke 04,GK ,28,1190,83.0,86.0,52.0,85.0,87.0,84,85,25000000.0,54000.0
+Sergio Asenjo,Spain,Villarreal CF,GK ,28,1341,86.0,83.0,76.0,82.0,85.0,84,85,25000000.0,46000.0
+R. Bürki,Switzerland,Borussia Dortmund,GK ,26,1257,84.0,82.0,73.0,80.0,85.0,84,86,26000000.0,69000.0
+T. Horn,Germany,1. FC Köln,GK ,24,1260,83.0,81.0,83.0,82.0,86.0,84,90,31000000.0,39000.0
+Y. Sommer,Switzerland,Borussia Mönchengladbach,GK ,28,1299,81.0,82.0,83.0,80.0,83.0,83,84,21000000.0,39000.0
+Rui Patrício,Portugal,Sporting CP,GK ,29,1350,85.0,81.0,80.0,79.0,82.0,83,83,17500000.0,19000.0
+K. Schmeichel,Denmark,Leicester City,GK ,30,1355,83.0,82.0,82.0,80.0,86.0,83,84,19000000.0,65000.0
+Casillas,Spain,FC Porto,GK ,36,1293,86.0,74.0,58.0,80.0,85.0,83,83,3500000.0,10000.0
+José Reina,Spain,Napoli,GK ,34,1291,80.0,83.0,82.0,82.0,82.0,83,83,10500000.0,59000.0
+Diego López,Spain,RCD Espanyol,GK ,35,1200,77.0,84.0,76.0,83.0,80.0,83,83,6000000.0,19000.0
+Ederson,Brazil,Manchester City,GK ,23,1320,81.0,76.0,82.0,78.0,87.0,83,89,26000000.0,87000.0
+G. Rulli,Argentina,Real Sociedad,GK ,25,1284,85.0,79.0,75.0,82.0,86.0,83,89,25500000.0,28000.0
+M. Perin,Italy,Genoa,GK ,24,1246,80.0,85.0,71.0,78.0,90.0,83,88,25000000.0,28000.0
+A. Lopes,Portugal,Olympique Lyonnais,GK ,26,1317,86.0,81.0,71.0,79.0,85.0,83,86,22500000.0,60000.0
+F. Muslera,Uruguay,Galatasaray SK,GK ,31,1370,81.0,75.0,75.0,83.0,85.0,82,82,13500000.0,57000.0
+O. Karnezis,Greece,Watford,GK ,31,1212,80.0,83.0,70.0,80.0,84.0,82,82,13500000.0,30000.0
+W. Szczęsny,Poland,Juventus,GK ,27,1250,83.0,77.0,74.0,78.0,87.0,82,84,18000000.0,90000.0
+K. Trapp,Germany,Paris Saint-Germain,GK ,26,1194,80.0,78.0,79.0,84.0,84.0,82,84,18500000.0,71000.0
+J. Hart,England,West Ham United,GK ,30,1318,83.0,78.0,75.0,81.0,83.0,82,82,14000000.0,110000.0
+C. Bravo,Chile,Manchester City,GK ,34,1464,80.0,80.0,87.0,77.0,81.0,82,82,9000000.0,110000.0
+R. Jarstein,Norway,Hertha BSC Berlin,GK ,32,1185,78.0,81.0,72.0,87.0,85.0,82,82,12500000.0,30000.0
+B. Costil,France,Girondins de Bordeaux,GK ,29,1171,82.0,80.0,78.0,82.0,84.0,82,82,15000000.0,46000.0
+A. Consigli,Italy,Sassuolo,GK ,30,1182,82.0,83.0,72.0,81.0,84.0,82,82,14000000.0,52000.0
+A. Begović,Bosnia Herzegovina,Bournemouth,GK ,30,1233,81.0,81.0,73.0,79.0,82.0,82,82,14000000.0,64000.0
+S. Mandanda,France,Olympique de Marseille,GK ,32,1217,86.0,78.0,77.0,77.0,85.0,82,82,12500000.0,31000.0
+E. Viviano,Italy,Sampdoria,GK ,31,1162,81.0,84.0,79.0,78.0,83.0,82,82,13500000.0,37000.0
+Sergio Rico,Spain,Sevilla FC,GK ,23,1225,79.0,80.0,78.0,82.0,83.0,82,87,21500000.0,16000.0
+G. Donnarumma,Italy,Milan,GK ,18,1266,88.0,78.0,72.0,78.0,88.0,82,94,28500000.0,35000.0
+O. Baumann,Germany,TSG 1899 Hoffenheim,GK ,27,1209,82.0,82.0,64.0,81.0,84.0,82,84,18000000.0,37000.0
+L. Hrádecký,Finland,Eintracht Frankfurt,GK ,27,1122,79.0,77.0,73.0,79.0,85.0,81,83,14500000.0,28000.0
+Adán,Spain,Real Betis Balompié,GK ,30,1273,80.0,83.0,72.0,81.0,82.0,81,81,11500000.0,24000.0
+Moyá,Spain,Atlético Madrid,GK ,33,1184,85.0,78.0,82.0,81.0,79.0,81,81,9000000.0,46000.0
+C. Carrasso,France,Galatasaray SK,GK ,35,1175,78.0,79.0,81.0,79.0,81.0,81,81,4200000.0,34000.0
+T. Heaton,England,Burnley,GK ,31,1271,80.0,79.0,76.0,80.0,83.0,81,81,11000000.0,51000.0
+S. Mignolet,Belgium,Liverpool,GK ,29,1266,80.0,76.0,65.0,78.0,84.0,81,81,12000000.0,91000.0
+J. Butland,England,Stoke City,GK ,24,1225,81.0,83.0,72.0,78.0,85.0,81,87,18000000.0,50000.0
+J. Cillessen,Netherlands,FC Barcelona,GK ,28,1287,79.0,83.0,74.0,81.0,77.0,81,83,15000000.0,125000.0
+S. Romero,Argentina,Manchester United,GK ,30,1251,78.0,76.0,81.0,78.0,82.0,80,80,9500000.0,97000.0
+Kiko Casilla,Spain,Real Madrid CF,GK ,30,1281,75.0,83.0,80.0,82.0,77.0,80,80,9500000.0,120000.0
+Júlio César,Brazil,SL Benfica,GK ,37,1263,83.0,77.0,62.0,77.0,81.0,80,80,1000000.0,8000.0
+C. Kameni,Cameroon,Fenerbahçe SK,GK ,33,1236,84.0,82.0,74.0,76.0,80.0,80,80,7500000.0,59000.0
+F. Marchetti,Italy,Lazio,GK ,34,1259,80.0,78.0,66.0,78.0,84.0,80,80,6000000.0,44000.0
+V. Enyeama,Nigeria,LOSC Lille,GK ,34,1373,76.0,76.0,72.0,77.0,84.0,80,80,6000000.0,40000.0
+A. Mirante,Italy,Bologna,GK ,33,1194,82.0,80.0,64.0,78.0,82.0,80,80,7500000.0,48000.0
+B. Foster,England,West Bromwich Albion,GK ,34,1241,79.0,79.0,73.0,77.0,84.0,80,80,6000000.0,60000.0
+L. Fabiański,Poland,Swansea City,GK ,32,1206,77.0,84.0,70.0,78.0,84.0,80,80,8500000.0,60000.0
+L. Karius,Germany,Liverpool,GK ,24,1203,84.0,74.0,74.0,76.0,85.0,80,84,14000000.0,71000.0
+Arrizabalaga,Spain,Athletic Club de Bilbao,GK ,22,1207,78.0,81.0,75.0,76.0,83.0,80,87,15500000.0,20000.0
+Alisson,Brazil,Roma,GK ,24,1194,75.0,76.0,70.0,78.0,86.0,80,84,14000000.0,45000.0
+Neto,Brazil,Valencia CF,GK ,27,1275,84.0,80.0,74.0,74.0,83.0,80,80,10000000.0,30000.0
+Roberto,Spain,Málaga CF,GK ,31,1292,80.0,72.0,74.0,78.0,82.0,79,79,7500000.0,28000.0
+Fabricio,Spain,Beşiktaş JK,GK ,29,1358,78.0,80.0,79.0,77.0,79.0,79,80,10000000.0,48000.0
+D. Ospina,Colombia,Arsenal,GK ,28,1159,83.0,71.0,78.0,77.0,84.0,79,79,9000000.0,91000.0
+J. Zoet,Netherlands,PSV,GK ,26,1276,80.0,76.0,77.0,78.0,82.0,79,82,11000000.0,17000.0
+M. Hitz,Switzerland,FC Augsburg,GK ,29,1195,82.0,75.0,73.0,79.0,82.0,79,79,8500000.0,27000.0
+V. Babacan,Turkey,İstanbul Başakşehir FK,GK ,28,1228,80.0,77.0,68.0,81.0,80.0,79,80,10000000.0,28000.0
+R. Zieler,Germany,VfB Stuttgart,GK ,28,1155,79.0,80.0,70.0,77.0,79.0,79,80,10000000.0,27000.0
+G. Ochoa,Mexico,Standard de Liège,GK ,31,1206,76.0,69.0,78.0,78.0,87.0,79,79,7500000.0,18000.0
+M. Vorm,Netherlands,Tottenham Hotspur,GK ,33,1302,78.0,76.0,72.0,75.0,83.0,79,79,6500000.0,74000.0
+A. Pyatov,Ukraine,Shakhtar Donetsk,GK ,33,1198,75.0,74.0,82.0,81.0,82.0,79,79,6500000.0,1000.0
+W. Caballero,Argentina,Chelsea,GK ,35,1241,80.0,76.0,73.0,78.0,81.0,79,79,3000000.0,59000.0
+Gomes,Brazil,Watford,GK ,36,1253,79.0,75.0,60.0,77.0,84.0,79,79,1700000.0,33000.0
+R. Adler,Germany,1. FSV Mainz 05,GK ,32,1167,78.0,77.0,70.0,80.0,80.0,79,79,7000000.0,28000.0
+S. Sorrentino,Italy,Chievo Verona,GK ,38,1160,80.0,80.0,65.0,82.0,80.0,79,79,850000.0,12000.0
+I. Akinfeev,Russia,CSKA Moscow,GK ,31,1205,77.0,72.0,78.0,82.0,83.0,79,79,7500000.0,42000.0
+S. Sirigu,Italy,Torino,GK ,30,1191,79.0,76.0,73.0,77.0,80.0,79,79,8000000.0,41000.0
+M. Campaña,Uruguay,Independiente,GK ,28,1205,82.0,75.0,72.0,78.0,82.0,79,82,11000000.0,23000.0
+Y. Cardinale,France,OGC Nice,GK ,23,1285,78.0,75.0,75.0,80.0,82.0,79,85,12500000.0,26000.0
+S. Kritsyuk,Russia,FC Krasnodar,GK ,26,1186,78.0,79.0,73.0,76.0,81.0,79,82,11000000.0,40000.0
+Adrián,Spain,West Ham United,GK ,30,1246,81.0,76.0,69.0,75.0,82.0,79,79,8000000.0,80000.0
+A. Areola,France,Paris Saint-Germain,GK ,24,1266,81.0,77.0,70.0,74.0,83.0,79,86,13000000.0,54000.0
+Pau López,Spain,RCD Espanyol,GK ,22,1268,76.0,77.0,75.0,79.0,77.0,78,83,10000000.0,19000.0
+T. Howard,United States,Colorado Rapids,GK ,38,1210,76.0,74.0,72.0,77.0,78.0,78,78,700000.0,5000.0
+M. Barovero,Argentina,Necaxa,GK ,33,1172,78.0,75.0,69.0,79.0,79.0,78,78,5000000.0,13000.0
+A. Marchesín,Argentina,Club América,GK ,29,1270,73.0,75.0,74.0,80.0,81.0,78,79,8000000.0,45000.0
+Tiago Volpi,Brazil,Querétaro,GK ,26,1376,83.0,69.0,62.0,77.0,82.0,78,80,8500000.0,11000.0
+K. Vermeer,Netherlands,Feyenoord,GK ,31,1359,81.0,70.0,70.0,78.0,82.0,78,78,6500000.0,14000.0
+Guilherme,Russia,Lokomotiv Moscow,GK ,31,1185,82.0,73.0,70.0,77.0,78.0,78,78,6500000.0,33000.0
+A. Onana,Cameroon,Ajax,GK ,21,1352,83.0,77.0,84.0,70.0,77.0,78,85,11000000.0,8000.0
+S. Ryzhikov,Russia,Rubin Kazan,GK ,36,1163,76.0,77.0,68.0,76.0,82.0,78,78,1400000.0,23000.0
+B. Reynet,France,Dijon FCO,GK ,26,1131,77.0,76.0,74.0,77.0,81.0,78,80,8500000.0,17000.0
+K. Casteels,Belgium,VfL Wolfsburg,GK ,25,1223,80.0,69.0,74.0,75.0,82.0,78,81,9000000.0,42000.0
+Tiago Volpi,Brazil,Querétaro,GK ,26,1376,83.0,69.0,62.0,77.0,82.0,78,80,8500000.0,11000.0
+M. Sportiello,Italy,Fiorentina,GK ,25,1234,80.0,76.0,68.0,77.0,81.0,78,82,9500000.0,22000.0
+A. Lunev,Russia,Zenit St. Petersburg,GK ,25,1171,78.0,73.0,65.0,77.0,85.0,78,80,9000000.0,43000.0
+A. Onana,Cameroon,Ajax,GK ,21,1352,83.0,77.0,84.0,70.0,77.0,78,85,11000000.0,8000.0
+Pau López,Spain,RCD Espanyol,GK ,22,1268,76.0,77.0,75.0,79.0,77.0,78,83,10000000.0,19000.0
+B. Lecomte,France,Montpellier Hérault SC,GK ,26,1089,78.0,74.0,79.0,76.0,80.0,78,83,9500000.0,22000.0
+E. Berisha,Albania,Atalanta,GK ,28,1081,79.0,76.0,67.0,78.0,81.0,78,79,8500000.0,24000.0
+Marafona,Portugal,SC Braga,GK ,30,1198,80.0,73.0,66.0,77.0,81.0,78,78,6500000.0,11000.0
+B. Reynet,France,Dijon FCO,GK ,26,1131,77.0,76.0,74.0,77.0,81.0,78,80,8500000.0,17000.0
+A. Marchesín,Argentina,Club América,GK ,29,1270,73.0,75.0,74.0,80.0,81.0,78,79,8000000.0,45000.0
+C. Tătăruşanu,Romania,FC Nantes,GK ,31,1206,77.0,75.0,74.0,79.0,80.0,78,78,6500000.0,20000.0
+C. Candero,Chile,Universidad de Chile,GK ,29,1165,77.0,75.0,74.0,76.0,76.0,77,77,6000000.0,12000.0
+F. Forster,England,Southampton,GK ,29,1178,74.0,78.0,69.0,76.0,80.0,77,78,7000000.0,61000.0
+J. Pickford,England,Everton,GK ,23,1304,77.0,76.0,85.0,73.0,82.0,77,85,10000000.0,59000.0
+I. Khune,South Africa,Kaizer Chiefs,GK ,30,1377,75.0,73.0,90.0,75.0,77.0,77,77,5500000.0,1000.0
+R. Weidenfeller,Germany,Borussia Dortmund,GK ,36,1069,72.0,80.0,53.0,81.0,77.0,77,77,1200000.0,26000.0
+Javi Varas,Spain,Granada CF,GK ,34,1285,80.0,72.0,73.0,76.0,81.0,77,77,3600000.0,10000.0
+Sergio,Spain,RC Celta de Vigo,GK ,30,1181,77.0,72.0,75.0,78.0,80.0,77,77,5500000.0,20000.0
+J. Leca,France,AC Ajaccio,GK ,31,1138,78.0,72.0,66.0,76.0,82.0,77,77,5500000.0,7000.0
+M. Andújar,Argentina,Estudiantes de La Plata,GK ,33,1168,77.0,76.0,64.0,79.0,78.0,77,77,4500000.0,15000.0
+Pacheco,Spain,Deportivo Alavés,GK ,25,1208,77.0,73.0,63.0,80.0,76.0,77,81,8000000.0,19000.0
+F. Armani,Argentina,Atletico Nacional Medellin,GK ,30,1113,76.0,73.0,67.0,78.0,79.0,77,77,5500000.0,6000.0
+S. Kapino,Greece,Olympiakos CFP,GK ,23,1190,79.0,68.0,66.0,77.0,84.0,77,83,9000000.0,1000.0
+D. Boyko,Ukraine,Beşiktaş JK,GK ,29,1210,77.0,69.0,68.0,74.0,83.0,77,77,6000000.0,40000.0
+A. Lafont,France,Toulouse FC,GK ,18,1174,78.0,77.0,71.0,76.0,79.0,77,89,11500000.0,10000.0
+L. Kalinić,Croatia,KAA Gent,GK ,27,1122,81.0,73.0,58.0,74.0,80.0,77,79,7000000.0,19000.0
+Raphaelito Anjos,Brazil,Santos Futebol Clube,GK ,29,1155,77.0,75.0,74.0,76.0,76.0,77,77,6000000.0,18000.0
+B. Jones,Australia,Feyenoord,GK ,35,1183,75.0,77.0,72.0,80.0,75.0,77,77,2100000.0,9000.0
+T. Krul,Netherlands,Brighton & Hove Albion,GK ,29,1242,77.0,77.0,69.0,75.0,77.0,77,78,7000000.0,54000.0
+Yoel,Spain,SD Eibar,GK ,28,1195,76.0,78.0,77.0,75.0,78.0,77,77,6000000.0,19000.0
+M. Ryan,Australia,Brighton & Hove Albion,GK ,25,1341,76.0,74.0,90.0,74.0,78.0,77,80,8000000.0,36000.0
+Bruno Varela,Portugal,SL Benfica,GK ,22,1143,77.0,71.0,65.0,77.0,80.0,77,83,9000000.0,9000.0
+A. Boruc,Poland,Bournemouth,GK ,37,1172,77.0,73.0,62.0,77.0,82.0,77,77,600000.0,32000.0
+S. Torrico,Argentina,San Lorenzo de Almagro,GK ,37,1152,76.0,72.0,75.0,78.0,80.0,77,77,600000.0,12000.0
+A. Belenov,Russia,FC Ufa,GK ,30,1133,75.0,69.0,71.0,78.0,82.0,77,77,5500000.0,24000.0
+O. Kıvrak,Turkey,Trabzonspor,GK ,29,1304,77.0,74.0,67.0,74.0,82.0,77,77,6000000.0,28000.0
+Iraizoz,Spain,Girona CF,GK ,36,1129,69.0,79.0,80.0,85.0,70.0,77,77,1200000.0,13000.0
+D. Benaglio,Switzerland,AS Monaco,GK ,33,1195,76.0,80.0,61.0,79.0,73.0,77,77,4500000.0,27000.0
+T. Vaclík,Czech Republic,FC Basel,GK ,28,1206,79.0,75.0,74.0,77.0,80.0,77,78,7000000.0,32000.0
+Gabri Prestão,Brazil,Botafogo de Futebol e Regatas,GK ,25,1128,77.0,74.0,70.0,77.0,75.0,76,76,5500000.0,16000.0
+Serantes,Spain,CD Leganés,GK ,27,1258,81.0,72.0,74.0,71.0,77.0,76,78,6000000.0,21000.0
+Nelsildo Reis,Brazil,Coritiba Foot Ball Club,GK ,29,1324,76.0,77.0,77.0,76.0,74.0,76,76,5000000.0,21000.0
+Fred Aníbão,Brazil,Avaí Futebol Clube,GK ,25,1107,71.0,77.0,76.0,72.0,77.0,76,76,5500000.0,14000.0
+A. Letellier,France,Angers SCO,GK ,26,1049,75.0,74.0,67.0,76.0,81.0,76,79,6500000.0,20000.0
+Herrerín,Spain,Athletic Club de Bilbao,GK ,29,1194,76.0,83.0,66.0,75.0,73.0,76,76,5000000.0,21000.0
+Riesgo,Spain,SD Eibar,GK ,33,1209,78.0,79.0,66.0,78.0,73.0,76,76,3900000.0,18000.0
+M. Storari,Italy,Milan,GK ,40,1200,78.0,76.0,66.0,75.0,78.0,76,76,525000.0,38000.0
+Z. Karčemarskas,Lithuania,Osmanlıspor,GK ,34,1127,77.0,76.0,66.0,76.0,78.0,76,76,3100000.0,16000.0
+Matheus,Brazil,SC Braga,GK ,24,1183,78.0,67.0,70.0,75.0,80.0,76,81,7500000.0,9000.0
+T. Kraft,Germany,Hertha BSC Berlin,GK ,28,1174,80.0,75.0,54.0,65.0,84.0,76,76,5500000.0,25000.0
+J. Corona,Mexico,Cruz Azul,GK ,36,1159,76.0,77.0,66.0,78.0,75.0,76,76,1000000.0,17000.0
+F. Bardi,Italy,Frosinone,GK ,25,1129,79.0,77.0,62.0,70.0,77.0,76,79,7000000.0,43000.0
+J. Orozco,Mexico,Santos Laguna,GK ,31,1380,75.0,73.0,83.0,75.0,73.0,76,76,4700000.0,19000.0
+S. Ulreich,Germany,FC Bayern Munich,GK ,28,1074,80.0,73.0,51.0,73.0,77.0,76,76,5500000.0,68000.0
+José Sá,Portugal,FC Porto,GK ,24,1179,78.0,74.0,66.0,72.0,79.0,76,82,7500000.0,10000.0
+R. Vercoutre,France,SM Caen,GK ,37,1086,75.0,76.0,77.0,76.0,77.0,76,76,525000.0,13000.0
+L. Skorupski,Poland,Roma,GK ,26,1140,80.0,75.0,54.0,75.0,81.0,76,79,6500000.0,46000.0
+Andrés Fernández,Spain,Villarreal CF,GK ,30,1308,80.0,71.0,68.0,72.0,79.0,76,76,4900000.0,26000.0
+G. Lux,Argentina,River Plate,GK ,35,1169,74.0,71.0,78.0,76.0,79.0,76,76,1800000.0,12000.0
+P. Gulácsi,Hungary,RB Leipzig,GK ,27,1172,74.0,78.0,75.0,70.0,79.0,76,77,6000000.0,45000.0
+Y. Lodygin,Russia,Zenit St. Petersburg,GK ,27,1180,79.0,74.0,76.0,69.0,83.0,76,78,6000000.0,45000.0
+V. Demirel,Turkey,Fenerbahçe SK,GK ,35,1261,77.0,73.0,76.0,77.0,74.0,76,76,1800000.0,32000.0
+R. Ahumera,Chile,CD O'Higgins,GK ,29,1466,76.0,77.0,77.0,76.0,74.0,76,76,5000000.0,8000.0
+C. Davilo,Chile,Universidad Católica,GK ,25,1113,71.0,77.0,76.0,72.0,77.0,76,76,5500000.0,7000.0
+G. Morenda,Chile,Colo-Colo,GK ,25,1151,77.0,74.0,70.0,77.0,75.0,76,76,5500000.0,7000.0
+R. Rey,Argentina,PAOK Thessaloniki,GK ,26,1201,76.0,73.0,69.0,78.0,83.0,76,79,6500000.0,1000.0
+S. Proto,Belgium,Olympiakos CFP,GK ,34,1269,77.0,75.0,73.0,76.0,78.0,76,76,3100000.0,1000.0
+C. Pantilimon,Romania,RC Deportivo de La Coruña,GK ,30,1142,73.0,76.0,67.0,78.0,77.0,76,76,4900000.0,43000.0
+Beto,Portugal,Göztepe,GK ,35,1202,79.0,69.0,79.0,75.0,75.0,76,76,1800000.0,11000.0
+M. Kerzhakov,Russia,Zenit St. Petersburg,GK ,30,1111,75.0,75.0,73.0,77.0,74.0,76,77,5500000.0,45000.0
+S. Padt,Netherlands,FC Groningen,GK ,27,1201,76.0,72.0,66.0,74.0,79.0,76,78,6000000.0,11000.0
+M. Díaz,Argentina,Club Atlético Huracán,GK ,31,1123,72.0,71.0,62.0,82.0,78.0,76,76,4700000.0,13000.0
+B. van Leer,Netherlands,Ajax,GK ,25,1197,73.0,78.0,65.0,73.0,77.0,76,79,7000000.0,11000.0
+K. Johnsson,Sweden,En Avant de Guingamp,GK ,27,1197,75.0,70.0,77.0,75.0,79.0,75,77,5500000.0,17000.0
+C. Toselli,Chile,,GK ,29,1332,75.0,74.0,69.0,76.0,76.0,75,75,0.0,0.0
+Jaume,Spain,Valencia CF,GK ,26,1308,74.0,73.0,70.0,72.0,79.0,75,79,6000000.0,21000.0
+Kaíquão Castro,Brazil,Cruzeiro,GK ,33,1100,77.0,76.0,61.0,72.0,73.0,75,75,3400000.0,21000.0
+Y. Mvogo,Switzerland,RB Leipzig,GK ,23,1210,79.0,73.0,68.0,71.0,78.0,75,82,7000000.0,31000.0
+Douglas,Brazil,Vitória Guimarães,GK ,34,1200,76.0,72.0,72.0,74.0,77.0,75,75,2700000.0,8000.0
+F. Monetti,Argentina,Club Atlético Lanús,GK ,28,1316,78.0,75.0,77.0,71.0,77.0,75,78,6000000.0,14000.0
+K. Westwood,Republic of Ireland,Sheffield Wednesday,GK ,32,1233,77.0,71.0,70.0,75.0,77.0,75,75,3800000.0,38000.0
+Cássio,Brazil,Rio Ave FC,GK ,36,1209,77.0,72.0,70.0,72.0,74.0,75,75,900000.0,5000.0
+A. McCarthy,England,Southampton,GK ,27,1216,76.0,73.0,61.0,74.0,78.0,75,77,5500000.0,49000.0
+F. Vidangosa,Chile,Unión Española,GK ,33,1173,76.0,70.0,77.0,75.0,75.0,75,75,3400000.0,5000.0
+Rubén Blanco,Spain,RC Celta de Vigo,GK ,21,1166,79.0,74.0,69.0,75.0,71.0,75,83,7500000.0,12000.0
+R. Özcan,Austria,Bayer 04 Leverkusen,GK ,33,1169,73.0,71.0,71.0,76.0,75.0,75,75,3400000.0,32000.0
+Dani Hernández,Venezuela,CD Tenerife,GK ,31,1176,78.0,72.0,63.0,73.0,76.0,75,75,4000000.0,7000.0
+S. Scuffet,Italy,Udinese,GK ,21,1246,74.0,73.0,63.0,70.0,84.0,75,83,7500000.0,14000.0
+Isaac Becerra,Spain,Real Valladolid,GK ,29,1275,78.0,72.0,69.0,70.0,77.0,75,76,5000000.0,8000.0
+D. Jensen,Denmark,FC Utrecht,GK ,25,1173,74.0,72.0,79.0,72.0,75.0,75,78,6000000.0,9000.0
+J. Carrizo,Argentina,Monterrey,GK ,33,1213,77.0,74.0,72.0,73.0,76.0,75,75,3400000.0,36000.0
+H. Tekin,Turkey,Bursaspor,GK ,28,1070,77.0,70.0,69.0,73.0,80.0,75,76,5500000.0,15000.0
+Gottardi,Brazil,CS Marítimo,GK ,31,1142,76.0,72.0,68.0,77.0,74.0,75,75,4000000.0,8000.0
+Ricardo,Portugal,Grupo Desportivo de Chaves,GK ,34,1115,77.0,74.0,63.0,76.0,74.0,75,75,2700000.0,7000.0
+M. Sels,Belgium,RSC Anderlecht,GK ,25,1183,80.0,68.0,70.0,75.0,77.0,75,79,6000000.0,40000.0
+S. Dzhanaev,Russia,Rubin Kazan,GK ,30,1135,76.0,68.0,72.0,76.0,77.0,75,75,4300000.0,30000.0
+A. Schwolow,Germany,SC Freiburg,GK ,25,1104,75.0,74.0,71.0,69.0,77.0,75,78,6000000.0,17000.0
+Y. Pelé,France,Olympique de Marseille,GK ,34,1157,75.0,74.0,70.0,72.0,76.0,75,75,2700000.0,20000.0
+Rafael,Brazil,Cagliari,GK ,35,1073,77.0,70.0,60.0,76.0,79.0,75,75,1600000.0,22000.0
+F. Wiedwald,Germany,Leeds United,GK ,27,1125,77.0,66.0,67.0,69.0,80.0,75,77,5500000.0,25000.0
+A. Bizzarri,Argentina,Udinese,GK ,39,1193,74.0,76.0,67.0,79.0,72.0,75,75,450000.0,11000.0
+J. Epazo,Chile,Deportes Iquique,GK ,33,1100,77.0,76.0,61.0,72.0,73.0,75,75,3400000.0,3000.0
+J. Lössl,Denmark,Huddersfield Town,GK ,28,1070,74.0,77.0,67.0,71.0,77.0,75,76,5500000.0,21000.0
+Iván Cuéllar,Spain,CD Leganés,GK ,33,1225,73.0,75.0,77.0,72.0,77.0,75,75,3400000.0,17000.0
+Eduardo,Portugal,Chelsea,GK ,34,1245,75.0,74.0,71.0,78.0,75.0,75,75,2700000.0,64000.0
+Simão Donatinho,Brazil,Clube Atlético Paranaense,GK ,33,1173,76.0,70.0,77.0,75.0,75.0,75,75,3400000.0,12000.0
+M. Esser,Germany,Hannover 96,GK ,29,1183,75.0,73.0,69.0,71.0,78.0,75,75,4500000.0,28000.0
+C. Vargas,Colombia,Atletico Nacional Medellin,GK ,28,1233,77.0,75.0,65.0,70.0,77.0,75,76,5500000.0,5000.0
+M. Stekelenburg,Netherlands,Everton,GK ,34,1166,76.0,73.0,79.0,72.0,75.0,75,75,2700000.0,60000.0
+S. Sosa,Uruguay,Monarcas Morelia,GK ,30,1148,76.0,70.0,65.0,77.0,78.0,75,75,4300000.0,9000.0
+A. Blake,Jamaica,Philadelphia Union,GK ,26,1146,81.0,70.0,71.0,70.0,86.0,75,80,6500000.0,7000.0
+C. Mathenia,Germany,Hamburger SV,GK ,25,1156,74.0,69.0,66.0,76.0,79.0,75,79,6000000.0,22000.0
+M. Barbosa,Argentina,Villarreal CF,GK ,32,1147,75.0,70.0,77.0,71.0,78.0,75,75,3800000.0,22000.0
+V. Mannone,Italy,Reading,GK ,29,1273,75.0,72.0,71.0,71.0,76.0,75,75,4500000.0,27000.0
+P. Gallese,Peru,,GK ,27,1192,77.0,69.0,68.0,72.0,72.0,74,76,0.0,0.0
+M. Langerak,Australia,Levante UD,GK ,28,1153,77.0,73.0,52.0,70.0,78.0,74,75,4500000.0,18000.0
+G. Sara,Argentina,Boca Juniors,GK ,29,1206,74.0,70.0,75.0,69.0,77.0,74,74,3800000.0,18000.0
+W. Hahn,Netherlands,SC Heerenveen,GK ,25,1305,74.0,74.0,66.0,68.0,79.0,74,79,5500000.0,8000.0
+Adrianiscito,Brazil,Fluminense Football Club,GK ,25,1044,68.0,76.0,74.0,77.0,73.0,74,74,4000000.0,24000.0
+B. Castro,Belgium,Heracles Almelo,GK ,34,1103,73.0,72.0,52.0,78.0,74.0,74,74,2300000.0,9000.0
+T. Strakosha,Albania,Lazio,GK ,22,1099,74.0,70.0,73.0,69.0,80.0,74,84,7000000.0,25000.0
+Victorino Magela,Brazil,Sociedade Esportiva Palmeiras,GK ,29,1120,71.0,72.0,73.0,75.0,76.0,74,74,3800000.0,26000.0
+V. Gabulov,Russia,Arsenal Tula,GK ,33,1220,71.0,73.0,76.0,77.0,72.0,74,74,2800000.0,20000.0
+E. Room,Curacao,PSV,GK ,28,1184,75.0,74.0,69.0,70.0,75.0,74,75,4500000.0,13000.0
+Rafael,Brazil,Napoli,GK ,27,1208,75.0,73.0,71.0,73.0,74.0,74,77,4700000.0,38000.0
+K. Lamprou,Greece,Ajax,GK ,25,1188,78.0,65.0,75.0,66.0,79.0,74,75,4600000.0,9000.0
+L. Pionnier,France,Montpellier Hérault SC,GK ,35,1153,77.0,71.0,70.0,75.0,79.0,74,74,1300000.0,12000.0
+R. Cota,Mexico,Guadalajara,GK ,29,1229,74.0,70.0,67.0,77.0,75.0,74,74,3800000.0,23000.0
+M. Samassa,Mali,ES Troyes AC,GK ,27,1111,78.0,71.0,67.0,71.0,78.0,74,75,4400000.0,17000.0
+L. Pocrnjic,Argentina,Newell's Old Boys,GK ,35,1008,74.0,72.0,64.0,74.0,73.0,74,74,1300000.0,8000.0
+A. Rebrov,Russia,Spartak Moscow,GK ,33,1123,74.0,68.0,65.0,78.0,76.0,74,74,2800000.0,38000.0
+D. Padelli,Italy,Inter,GK ,31,1038,74.0,74.0,63.0,76.0,74.0,74,74,3400000.0,38000.0
+A. Selikhov,Russia,Spartak Moscow,GK ,23,1165,74.0,72.0,72.0,77.0,75.0,74,80,5500000.0,31000.0
+R. Olsen,Sweden,FC København,GK ,27,1122,69.0,75.0,71.0,72.0,76.0,74,76,4600000.0,16000.0
+Gabrìel,Brazil,Milan,GK ,24,1129,77.0,74.0,61.0,69.0,79.0,74,80,5500000.0,45000.0
+D. Stockdale,England,Birmingham City,GK ,31,1123,74.0,69.0,79.0,69.0,77.0,74,74,3400000.0,21000.0
+V. Stoyanov,Bulgaria,,GK ,30,1131,71.0,75.0,71.0,73.0,76.0,74,74,0.0,0.0
+B. Białkowski,Poland,Ipswich Town,GK ,29,1134,73.0,72.0,67.0,73.0,76.0,74,74,3800000.0,16000.0
+R. Salin,France,Sporting CP,GK ,32,1165,74.0,70.0,66.0,72.0,74.0,74,74,3200000.0,12000.0
+J. Herrera,Chile,,GK ,36,1245,70.0,77.0,77.0,71.0,72.0,74,74,0.0,0.0
+G. Jourdren,France,AS Nancy Lorraine,GK ,31,1139,78.0,69.0,67.0,71.0,78.0,74,74,3400000.0,7000.0
+M. Dmitrović,Serbia,SD Eibar,GK ,25,1173,68.0,78.0,77.0,77.0,73.0,74,77,5000000.0,14000.0
+D. Marshall,Scotland,Hull City,GK ,32,1147,73.0,71.0,67.0,73.0,76.0,74,74,3200000.0,9000.0
+S. Kırıntılı,Turkey,Atiker Konyaspor,GK ,32,1155,73.0,72.0,68.0,73.0,74.0,74,74,3200000.0,14000.0
+J. Pavlenka,Czech Republic,SV Werder Bremen,GK ,25,984,73.0,72.0,67.0,74.0,77.0,74,79,5500000.0,19000.0
+L. Butelle,France,Club Brugge KV,GK ,34,1092,78.0,73.0,65.0,73.0,74.0,74,74,2300000.0,17000.0
+Yoon Bo Sang,Korea Republic,GwangJu FC,GK ,23,1140,74.0,71.0,72.0,73.0,76.0,74,80,5500000.0,3000.0
+Raúl Fernández,Spain,Levante UD,GK ,29,1150,75.0,76.0,60.0,75.0,73.0,74,76,4600000.0,18000.0
+N. Vikonis,Uruguay,CD Los Millionarios Bogota,GK ,33,1132,72.0,76.0,68.0,72.0,74.0,74,74,2800000.0,4000.0
+L. Sepe,Italy,Napoli,GK ,26,1129,73.0,75.0,61.0,71.0,79.0,74,77,4900000.0,38000.0
+Da Costa,Brazil,Bologna,GK ,33,1105,75.0,72.0,64.0,75.0,75.0,74,74,2800000.0,34000.0
+V. Acerval,Chile,Colo-Colo,GK ,29,1138,71.0,72.0,73.0,75.0,76.0,74,74,3800000.0,6000.0
+A. Corveto,Chile,Unión Española,GK ,25,1044,68.0,76.0,74.0,77.0,73.0,74,74,4000000.0,5000.0
+J. Drobný,Czech Republic,SV Werder Bremen,GK ,37,1065,73.0,77.0,45.0,76.0,74.0,74,74,375000.0,13000.0
+J. Hopf,Sweden,Gençlerbirliği SK,GK ,30,1198,75.0,71.0,67.0,75.0,77.0,74,74,3600000.0,14000.0
+R. Riou,France,Alanyaspor,GK ,29,1235,74.0,71.0,79.0,72.0,75.0,74,74,3800000.0,12000.0
+A. Sinitsyn,Russia,FC Krasnodar,GK ,29,1132,73.0,73.0,71.0,74.0,74.0,74,75,4400000.0,30000.0
+Zeng Cheng,China PR,,GK ,30,1114,72.0,70.0,72.0,77.0,73.0,74,74,0.0,0.0
+W. Hennessey,Wales,Crystal Palace,GK ,30,1093,73.0,74.0,80.0,76.0,71.0,74,74,3600000.0,36000.0
+A. McGregor,Scotland,Hull City,GK ,35,1225,75.0,71.0,69.0,73.0,77.0,74,74,1300000.0,6000.0
+A. Meret,Italy,Ferrara (SPAL),GK ,20,1158,76.0,70.0,65.0,74.0,77.0,74,88,10500000.0,14000.0
+J. Cuadrado,Colombia,CD Once Caldas Manizales,GK ,32,1211,74.0,71.0,67.0,72.0,76.0,74,74,3200000.0,2000.0
+Fabiano,Brazil,FC Porto,GK ,29,1158,76.0,70.0,73.0,74.0,74.0,74,74,3800000.0,11000.0
+C. Gordon,Scotland,Celtic,GK ,34,1201,72.0,71.0,72.0,70.0,76.0,74,74,2300000.0,36000.0
+S. Carson,England,Derby County,GK ,31,1190,74.0,70.0,76.0,75.0,71.0,74,74,3400000.0,38000.0
+Diego Mariño,Spain,Real Sporting de Gijón,GK ,27,1198,75.0,71.0,69.0,72.0,77.0,74,77,4700000.0,9000.0
+B. Hamid,United States,D.C. United,GK ,26,1128,75.0,72.0,67.0,73.0,75.0,74,77,4900000.0,7000.0
+M. Rensing,Germany,Fortuna Düsseldorf,GK ,33,1144,76.0,74.0,67.0,70.0,77.0,74,74,2800000.0,19000.0
+Joel Robles,Spain,Everton,GK ,27,1154,78.0,69.0,75.0,72.0,77.0,74,76,4600000.0,60000.0
+M. Shevchenko,Ukraine,Shakhtar Donetsk,GK ,24,1170,74.0,72.0,68.0,69.0,74.0,73,79,4000000.0,1000.0
+R. Mantores,Chile,Universidad Católica,GK ,25,1183,73.0,77.0,69.0,76.0,66.0,73,73,2900000.0,6000.0
+Kim Seung Gyu,Korea Republic,Vissel Kobe,GK ,26,1090,72.0,70.0,69.0,76.0,72.0,73,75,3300000.0,6000.0
+M. Bizot,Netherlands,AZ Alkmaar,GK ,26,1194,79.0,67.0,62.0,67.0,77.0,73,76,3500000.0,9000.0
+E. Del Carro,Chile,Everton de Viña del Mar,GK ,25,1197,77.0,71.0,68.0,73.0,74.0,73,73,2900000.0,4000.0
+L. Castellanos,Colombia,Independiente Santa Fe,GK ,33,1168,72.0,77.0,59.0,69.0,73.0,73,73,2000000.0,4000.0
+Pierrino Faria,Brazil,Atlético Clube Goianiense,GK ,29,1114,77.0,65.0,62.0,75.0,76.0,73,73,2700000.0,11000.0
+Nivo Serpinho,Brazil,Grêmio Foot-Ball Porto Alegrense,GK ,33,1128,72.0,75.0,69.0,73.0,72.0,73,73,2000000.0,17000.0
+Raúl Lizoain,Spain,UD Las Palmas,GK ,26,1146,73.0,76.0,59.0,74.0,72.0,73,75,3300000.0,15000.0
+J. García,Argentina,Racing Club de Avellaneda,GK ,30,1027,78.0,67.0,75.0,67.0,79.0,73,73,2600000.0,14000.0
+J. Hansen,Denmark,FC Midtjylland,GK ,32,1250,71.0,70.0,76.0,72.0,74.0,73,73,2300000.0,20000.0
+Charles,Brazil,CS Marítimo,GK ,23,1059,76.0,71.0,63.0,68.0,75.0,73,81,4400000.0,6000.0
+K. Nordfeldt,Sweden,Swansea City,GK ,28,1189,73.0,66.0,66.0,74.0,78.0,73,75,3300000.0,45000.0
+W. Faríñez,Venezuela,,GK ,19,1254,73.0,70.0,69.0,74.0,77.0,73,87,0.0,0.0
+A. Shunin,Russia,Dinamo Moscow,GK ,30,1145,72.0,72.0,70.0,72.0,75.0,73,73,2600000.0,24000.0
+B. Guzan,United States,Atlanta United FC,GK ,32,1171,74.0,67.0,74.0,72.0,75.0,73,73,2300000.0,7000.0
+L. Chichizola,Argentina,UD Las Palmas,GK ,27,1108,73.0,73.0,62.0,72.0,75.0,73,75,3200000.0,15000.0
+G. Loria,Georgia,FC Anzhi Makhachkala,GK ,31,1336,69.0,71.0,70.0,75.0,76.0,73,73,2400000.0,17000.0
+M. Al Owais,Saudi Arabia,Al Ahli,GK ,25,1165,74.0,72.0,54.0,72.0,74.0,73,79,3900000.0,25000.0
+L. Grant,England,Stoke City,GK ,34,1187,74.0,70.0,69.0,72.0,75.0,73,73,1600000.0,42000.0
+R. Ruiter,Netherlands,Sunderland,GK ,30,1201,72.0,71.0,70.0,76.0,72.0,73,73,2600000.0,9000.0
+M. Hansen,Denmark,SC Heerenveen,GK ,27,1118,73.0,69.0,67.0,73.0,72.0,73,76,3400000.0,17000.0
+D. Randolph,Republic of Ireland,Middlesbrough,GK ,30,1176,76.0,69.0,73.0,71.0,77.0,73,73,2600000.0,14000.0
+Guaita,Spain,Getafe CF,GK ,30,1301,72.0,74.0,73.0,71.0,75.0,73,73,2600000.0,17000.0
+A. Federici,Australia,Bournemouth,GK ,32,1293,73.0,69.0,78.0,70.0,73.0,73,73,2300000.0,41000.0
+A. El-Shenawy,Egypt,,GK ,26,1102,74.0,72.0,71.0,75.0,75.0,73,76,0.0,0.0
+A. Gomis,Senegal,Ferrara (SPAL),GK ,23,1181,75.0,71.0,66.0,73.0,76.0,73,81,4400000.0,24000.0
+R. Green,England,Huddersfield Town,GK ,37,1112,74.0,70.0,61.0,73.0,76.0,73,73,270000.0,21000.0
+T. Zengin,Turkey,Beşiktaş JK,GK ,33,1065,74.0,74.0,55.0,76.0,74.0,73,73,2000000.0,32000.0
+N. Penneteau,France,Sporting Charleroi,GK ,36,1063,71.0,79.0,65.0,78.0,68.0,73,73,550000.0,8000.0
+A. Al-Habsi,Oman,Al Hilal,GK ,35,1233,75.0,59.0,72.0,72.0,78.0,73,73,950000.0,17000.0
+David Soria,Spain,Sevilla FC,GK ,24,1204,76.0,67.0,58.0,78.0,71.0,73,81,4400000.0,10000.0
+A. Micai,Italy,Bari,GK ,23,1123,71.0,72.0,62.0,73.0,74.0,73,79,4000000.0,4000.0
+Freder Cabral,Brazil,Sport Club do Recife,GK ,25,1101,73.0,77.0,69.0,76.0,66.0,73,73,2900000.0,12000.0
+D. Barreto,Paraguay,,GK ,35,1029,76.0,73.0,62.0,71.0,74.0,73,73,0.0,0.0
+V. Belec,Slovenia,Benevento Calcio,GK ,27,1088,73.0,74.0,60.0,73.0,74.0,73,75,3200000.0,20000.0
+Alberto,Spain,Rayo Vallecano,GK ,32,1249,77.0,70.0,69.0,70.0,72.0,73,73,2300000.0,17000.0
+S. Elana,France,GFC Ajaccio,GK ,36,1087,74.0,72.0,67.0,71.0,71.0,73,73,550000.0,4000.0
+Muriel,Brazil,CF Os Belenenses,GK ,30,1054,73.0,70.0,71.0,70.0,76.0,73,73,2600000.0,6000.0
+F. Rønnow,Denmark,Brøndby IF,GK ,24,1082,74.0,71.0,66.0,70.0,76.0,73,78,3900000.0,12000.0
+O. Ustari,Argentina,Club Atlas,GK ,30,1272,75.0,70.0,79.0,69.0,75.0,73,73,2600000.0,16000.0
+G. Makaridze,Georgia,Moreirense FC,GK ,27,1075,78.0,69.0,56.0,71.0,75.0,73,73,2700000.0,6000.0
+D. Ousted,Denmark,Vancouver Whitecaps FC,GK ,32,1131,70.0,73.0,67.0,70.0,73.0,73,73,2300000.0,7000.0
+D. Yurchenko,Russia,FC Tosno,GK ,31,1162,66.0,71.0,65.0,76.0,75.0,73,73,2400000.0,17000.0
+M. Michel,France,Angers SCO,GK ,25,1111,74.0,71.0,67.0,72.0,75.0,73,77,3700000.0,16000.0
+H. Donadell,Chile,Universidad de Chile,GK ,33,1128,72.0,75.0,69.0,73.0,72.0,73,73,2000000.0,10000.0
+R. Pasveer,Netherlands,Vitesse,GK ,33,1143,72.0,75.0,60.0,75.0,70.0,73,73,2000000.0,9000.0
+Jaim Abra,Brazil,Vitória ,GK ,25,1137,77.0,71.0,68.0,73.0,74.0,73,73,2900000.0,10000.0
+M. Rocora,Chile,CD Universidad de Concepción,GK ,29,1114,77.0,65.0,62.0,75.0,76.0,73,73,2700000.0,4000.0
+O. Rybka,Ukraine,Kardemir Karabükspor,GK ,30,1263,73.0,74.0,69.0,71.0,73.0,73,73,2600000.0,11000.0
+M. Fraga,Mexico,Club Atlas,GK ,29,1307,73.0,71.0,74.0,74.0,73.0,73,73,2700000.0,17000.0
+R. Boffin,Belgium,Antalyaspor,GK ,29,1163,76.0,65.0,70.0,73.0,79.0,73,73,2700000.0,15000.0
+M. Banguera,Ecuador,,GK ,31,1015,68.0,70.0,65.0,77.0,77.0,73,73,0.0,0.0
+T. Kuszczak,Poland,Birmingham City,GK ,35,1172,75.0,64.0,64.0,69.0,78.0,73,73,950000.0,14000.0
+R. Gurtner,France,Amiens SC Football,GK ,30,1076,74.0,75.0,73.0,74.0,74.0,73,73,2600000.0,14000.0
+S. Lung Jr.,Romania,Kayserispor,GK ,28,1188,73.0,69.0,68.0,72.0,74.0,73,75,3300000.0,12000.0
+H. González,Mexico,Monterrey,GK ,26,1195,74.0,73.0,69.0,73.0,76.0,73,76,3500000.0,36000.0
+A. Smithies,England,Queens Park Rangers,GK ,27,1222,77.0,69.0,68.0,74.0,73.0,73,75,3200000.0,21000.0
+B. Myhill,Wales,West Bromwich Albion,GK ,34,1190,74.0,71.0,69.0,70.0,78.0,73,73,1600000.0,42000.0
+A. Isaksson,Sweden,Djurgårdens IF,GK ,35,1099,74.0,68.0,63.0,71.0,76.0,73,73,950000.0,4000.0
+T. Sippel,Germany,Borussia Mönchengladbach,GK ,29,1140,75.0,69.0,72.0,68.0,77.0,73,73,2700000.0,25000.0
+N. Douchez,France,RC Lens,GK ,37,1133,72.0,71.0,75.0,74.0,73.0,73,73,270000.0,5000.0
+O. Nyland,Norway,FC Ingolstadt 04,GK ,26,1193,74.0,68.0,78.0,74.0,75.0,73,77,3600000.0,17000.0
+Vagner,Brazil,Boavista FC,GK ,31,1210,73.0,73.0,66.0,73.0,71.0,72,72,1900000.0,7000.0
+W. Foderingham,England,Rangers,GK ,26,1162,74.0,69.0,68.0,69.0,76.0,72,77,2900000.0,26000.0
+F. Barridos,Chile,CD Antofagasta,GK ,29,1086,71.0,63.0,77.0,74.0,75.0,72,72,2100000.0,3000.0
+Rafael Defendi,Brazil,FC Paços de Ferreira,GK ,33,1102,70.0,72.0,67.0,75.0,70.0,72,72,1600000.0,6000.0
+Moreira,Portugal,Estoril Praia,GK ,35,1206,73.0,73.0,64.0,71.0,72.0,72,72,725000.0,4000.0
+João Bruiñeira,Brazil,São Paulo Futebol Clube,GK ,29,1089,71.0,63.0,77.0,74.0,75.0,72,72,2100000.0,16000.0
+M. Goicoechea,Uruguay,Toulouse FC,GK ,29,1197,71.0,72.0,71.0,70.0,72.0,72,72,2100000.0,16000.0
+T. Didillon,France,FC Metz,GK ,21,1069,75.0,70.0,62.0,72.0,71.0,72,82,3900000.0,6000.0
+M. Maignan,France,LOSC Lille,GK ,21,1161,72.0,68.0,68.0,72.0,73.0,72,80,3500000.0,14000.0
+D. Rodríguez,Argentina,Rosario Central,GK ,28,1245,73.0,68.0,78.0,66.0,75.0,72,74,2600000.0,10000.0
+Jordi Masip,Spain,Real Valladolid,GK ,28,1205,79.0,70.0,74.0,67.0,75.0,72,74,2600000.0,6000.0
+J. Wiland,Sweden,Hammarby IF,GK ,36,1044,64.0,75.0,67.0,79.0,66.0,72,72,425000.0,2000.0
+M. Higashiguchi,Japan,Gamba Osaka,GK ,31,1025,70.0,73.0,75.0,70.0,70.0,72,72,1900000.0,7000.0
+A. Hansen,Norway,Rosenborg BK,GK ,27,1187,73.0,67.0,69.0,72.0,75.0,72,74,2500000.0,5000.0
+Lee Ho Seung,Korea Republic,Jeonnam Dragons,GK ,27,1034,73.0,72.0,63.0,70.0,74.0,72,72,2100000.0,4000.0
+Edgar Badía,Spain,CF Reus Deportiu,GK ,25,1078,75.0,68.0,66.0,74.0,73.0,72,78,3100000.0,4000.0
+J. Prior,France,Girondins de Bordeaux,GK ,21,1206,74.0,70.0,75.0,69.0,74.0,72,80,3500000.0,14000.0
+A. Martín Arias,Argentina,Gimnasia y Esgrima La Plata,GK ,24,1144,76.0,60.0,76.0,71.0,75.0,72,77,3000000.0,7000.0
+F. Giefer,Germany,FC Augsburg,GK ,27,1139,75.0,66.0,58.0,72.0,75.0,72,74,2500000.0,13000.0
+M. Muñoz,Mexico,Puebla,GK ,37,1118,71.0,70.0,66.0,72.0,70.0,72,72,210000.0,17000.0
+L. Álvarez,Uruguay,Lobos de la BUAP,GK ,32,1265,71.0,73.0,59.0,70.0,73.0,72,72,1800000.0,5000.0
+F. Boeckx,Belgium,RSC Anderlecht,GK ,30,1206,70.0,71.0,76.0,71.0,71.0,72,72,2000000.0,12000.0
+Kwoun Sun Tae,Korea Republic,Kashima Antlers,GK ,32,1206,73.0,72.0,65.0,71.0,70.0,72,72,1800000.0,7000.0
+P. Tytoń,Poland,RC Deportivo de La Coruña,GK ,30,1163,69.0,68.0,71.0,72.0,74.0,72,72,2000000.0,12000.0
+M. Dupé,France,FC Nantes,GK ,24,1077,74.0,74.0,62.0,66.0,75.0,72,76,2900000.0,10000.0
+N. Rimando,United States,Real Salt Lake,GK ,38,1242,71.0,70.0,70.0,70.0,75.0,72,72,210000.0,3000.0
+Shin Hwa Yong,Korea Republic,Suwon Samsung Bluewings,GK ,34,1113,72.0,65.0,71.0,73.0,75.0,72,72,1300000.0,5000.0
+C. Rodríguez,Mexico,Club León,GK ,28,1175,70.0,70.0,71.0,70.0,76.0,72,73,2500000.0,7000.0
+G. Pegolo,Italy,Sassuolo,GK ,36,1117,72.0,68.0,60.0,74.0,74.0,72,72,425000.0,16000.0
+Álex Remiro,Spain,SD Huesca,GK ,22,1172,74.0,75.0,77.0,66.0,70.0,72,82,3800000.0,10000.0
+P. Tschauner,Germany,Hannover 96,GK ,31,1097,72.0,69.0,66.0,70.0,75.0,72,72,1900000.0,19000.0
+E. Lamanna,Italy,Genoa,GK ,27,1108,70.0,72.0,66.0,71.0,74.0,72,74,2500000.0,16000.0
+Rubén,Spain,RC Deportivo de La Coruña,GK ,33,1181,77.0,72.0,71.0,68.0,70.0,72,72,1600000.0,12000.0
+R. Gikiewicz,Poland,SC Freiburg,GK ,29,1058,72.0,70.0,75.0,71.0,74.0,72,72,2100000.0,14000.0
+M. Bunn,England,Aston Villa,GK ,32,1240,73.0,72.0,74.0,70.0,72.0,72,72,1800000.0,19000.0
+K. Stuhr-Ellegaard,Denmark,IF Elfsborg,GK ,34,1131,67.0,76.0,73.0,74.0,67.0,72,72,1300000.0,4000.0
+A. Cordaz,Italy,Crotone,GK ,34,923,68.0,70.0,62.0,72.0,74.0,72,72,1300000.0,7000.0
+E. Kawashima,Japan,FC Metz,GK ,34,1175,73.0,64.0,70.0,69.0,80.0,72,72,1300000.0,8000.0
+Toño,Spain,Rayo Vallecano,GK ,37,1222,73.0,67.0,71.0,74.0,71.0,72,72,210000.0,4000.0
+S. Ujkani,Kosovo,Cremonese,GK ,28,1121,73.0,72.0,64.0,72.0,72.0,72,72,2200000.0,3000.0
+T. Melia,United States,Sporting Kansas City,GK ,31,1145,72.0,68.0,65.0,70.0,74.0,72,72,1900000.0,5000.0
+E. Mulder,Netherlands,Swansea City,GK ,28,1193,72.0,70.0,80.0,68.0,74.0,72,73,2500000.0,32000.0
+J. Ruddy,England,Wolverhampton Wanderers,GK ,30,1090,72.0,67.0,74.0,73.0,71.0,72,72,2000000.0,25000.0
+S. Pesyakov,Russia,FC Rostov,GK ,28,1193,69.0,65.0,77.0,76.0,74.0,72,73,2500000.0,18000.0
+A. Silva,Paraguay,,GK ,33,1138,71.0,70.0,62.0,70.0,72.0,72,72,0.0,0.0
+B. Megyeri,Hungary,SpVgg Greuther Fürth,GK ,27,1121,69.0,67.0,79.0,75.0,78.0,72,74,2500000.0,7000.0
+E. Gorodov,Russia,Terek Grozny,GK ,31,1154,68.0,71.0,72.0,74.0,75.0,72,72,1900000.0,17000.0
+E. Jakupović,Switzerland,Leicester City,GK ,32,1168,73.0,70.0,69.0,71.0,77.0,72,72,1800000.0,30000.0
+L. Ardente,Argentina,San Martín de San Juan,GK ,35,971,70.0,72.0,82.0,70.0,75.0,72,72,725000.0,4000.0
+L. Robles,United States,New York Red Bulls,GK ,33,1110,70.0,69.0,68.0,70.0,75.0,72,72,1600000.0,5000.0
+J. Lewis,England,Aberdeen,GK ,29,1223,76.0,67.0,66.0,69.0,75.0,72,72,2100000.0,5000.0
+J. Gillet,Belgium,Standard de Liège,GK ,38,1199,67.0,73.0,70.0,75.0,71.0,72,72,210000.0,6000.0
+G. Ndy Assembe,Cameroon,AS Nancy Lorraine,GK ,31,1048,75.0,72.0,69.0,67.0,75.0,72,72,1900000.0,5000.0
+A. Cragno,Italy,Cagliari,GK ,23,1111,82.0,62.0,54.0,69.0,80.0,72,82,3800000.0,20000.0
+C. Campestrini,Argentina,Chacarita Juniors,GK ,37,1050,74.0,71.0,64.0,71.0,73.0,72,72,210000.0,5000.0
+Adriano Facchini,Brazil,CD Aves,GK ,34,1091,72.0,69.0,65.0,73.0,74.0,72,72,1300000.0,7000.0
+R. Jérez,Guatemala,Asociacion Deportivo Cali,GK ,31,1096,73.0,72.0,67.0,72.0,73.0,72,72,1900000.0,1000.0
+André Milazisco,Brazil,Associação Atlética Ponte Preta,GK ,33,1078,77.0,61.0,62.0,64.0,77.0,71,71,1200000.0,9000.0
+S. Bossut,Belgium,SV Zulte-Waregem,GK ,31,1174,70.0,71.0,65.0,72.0,71.0,71,71,1400000.0,9000.0
+M. Riemann,Germany,VfL Bochum,GK ,28,1300,68.0,71.0,73.0,64.0,72.0,71,72,1900000.0,11000.0
+R. Peradezes,Chile,CD Universidad de Concepción,GK ,33,1002,61.0,73.0,69.0,73.0,70.0,71,71,1200000.0,3000.0
+W. Cestedo,Chile,CD Palestino,GK ,29,973,71.0,70.0,74.0,72.0,69.0,71,71,1600000.0,3000.0
+A. Domínguez,Ecuador,Colon de Santa Fe,GK ,30,1059,70.0,70.0,68.0,70.0,68.0,71,71,1500000.0,26000.0
+T. Kessler,Germany,1. FC Köln,GK ,31,1133,72.0,69.0,67.0,70.0,71.0,71,71,1400000.0,17000.0
+Wiliam Santinho,Brazil,Santos Futebol Clube,GK ,33,1070,61.0,77.0,76.0,70.0,73.0,71,71,1200000.0,10000.0
+S. Grytebust,Norway,Odense Boldklub,GK ,27,1073,70.0,67.0,67.0,68.0,76.0,71,71,1600000.0,8000.0
+W. Benítez,Argentina,OGC Nice,GK ,24,1158,71.0,69.0,65.0,70.0,74.0,71,78,2400000.0,13000.0
+S. Chernik,Belarus,AS Nancy Lorraine,GK ,29,917,70.0,70.0,67.0,70.0,76.0,71,71,1600000.0,5000.0
+S. Dimitrievski,FYR Macedonia,Gimnàstic de Tarragona,GK ,23,1143,72.0,70.0,67.0,72.0,71.0,71,80,2800000.0,5000.0
+D. Bassi,Italy,La Spezia,GK ,32,1107,70.0,65.0,60.0,74.0,74.0,71,71,1400000.0,3000.0
+F. Coltorti,Switzerland,RB Leipzig,GK ,36,1090,67.0,72.0,67.0,73.0,72.0,71,71,325000.0,17000.0
+M. Günok,Turkey,İstanbul Başakşehir FK,GK ,28,1221,70.0,69.0,68.0,71.0,72.0,71,72,1900000.0,14000.0
+W. Dutoit,France,KV Oostende,GK ,28,1158,72.0,67.0,66.0,69.0,73.0,71,73,2000000.0,9000.0
+L. Unnerstall,Germany,VVV-Venlo,GK ,26,1027,69.0,71.0,64.0,69.0,72.0,71,73,2000000.0,7000.0
+A. Luthe,Germany,FC Augsburg,GK ,30,1100,74.0,66.0,61.0,71.0,74.0,71,71,1500000.0,13000.0
+O. Jiménez,Mexico,Club América,GK ,28,1089,74.0,68.0,68.0,71.0,72.0,71,71,1700000.0,27000.0
+Nathael Silbeira,Brazil,Botafogo de Futebol e Regatas,GK ,33,966,61.0,73.0,69.0,73.0,70.0,71,71,1200000.0,10000.0
+N. Champagne,Argentina,CD Leganés,GK ,32,1122,70.0,68.0,66.0,72.0,71.0,71,71,1400000.0,6000.0
+H. Lindner,Austria,Grasshopper Club Zürich,GK ,26,1046,74.0,65.0,64.0,67.0,74.0,71,74,2100000.0,11000.0
+R. Almer,Austria,FK Austria Wien,GK ,33,1092,69.0,71.0,67.0,72.0,68.0,71,71,1200000.0,12000.0
+Joel Pereira,Portugal,Manchester United,GK ,21,1048,69.0,74.0,63.0,68.0,72.0,71,84,3700000.0,34000.0
+S. Johnstone,England,Aston Villa,GK ,24,1162,75.0,74.0,67.0,71.0,74.0,71,79,2600000.0,40000.0
+R. Elliot,Republic of Ireland,Newcastle United,GK ,31,1128,70.0,69.0,69.0,70.0,71.0,71,71,1400000.0,30000.0
+O. Pérez,Mexico,Pachuca,GK ,44,1244,70.0,64.0,65.0,73.0,74.0,71,71,160000.0,9000.0
+Eduardo Fonseira,Brazil,Clube Atlético Mineiro,GK ,29,963,71.0,70.0,74.0,72.0,69.0,71,71,1600000.0,18000.0
+M. Männel,Germany,FC Erzgebirge Aue,GK ,29,1184,75.0,70.0,59.0,65.0,78.0,71,71,1600000.0,5000.0
+E. Conde,Uruguay,,GK ,34,987,71.0,72.0,62.0,71.0,70.0,71,71,0.0,0.0
+D. Bentley,England,Brentford,GK ,23,1156,73.0,68.0,64.0,72.0,74.0,71,77,2400000.0,18000.0
+B. Drągowski,Poland,Fiorentina,GK ,19,1162,68.0,68.0,70.0,71.0,74.0,71,86,4200000.0,11000.0
+Kim Jin Hyeon,Korea Republic,Cerezo Osaka,GK ,29,1164,71.0,70.0,67.0,71.0,70.0,71,71,1600000.0,4000.0
+Cho Hyun Woo,Korea Republic,Daegu FC,GK ,25,1117,72.0,73.0,59.0,71.0,68.0,71,74,2100000.0,4000.0
+Wang Dalei,China PR,,GK ,28,1156,70.0,69.0,76.0,70.0,74.0,71,71,0.0,0.0
+Juan Carlos,Spain,Real Oviedo,GK ,29,1214,76.0,65.0,59.0,64.0,78.0,71,72,1800000.0,6000.0
+H. Arıkan,Turkey,Osmanlıspor,GK ,34,1121,74.0,63.0,62.0,73.0,76.0,71,71,950000.0,10000.0
+I. Abaev,Russia,FC Rostov,GK ,35,1160,70.0,68.0,69.0,71.0,72.0,71,71,550000.0,11000.0
+J. Dahlin,Sweden,Malmö FF,GK ,30,1118,68.0,67.0,71.0,70.0,73.0,71,71,1500000.0,4000.0
+P. Glykos,Greece,PAOK Thessaloniki,GK ,30,1119,72.0,64.0,67.0,68.0,75.0,71,71,1500000.0,1000.0
+P. Kieszek,Poland,Córdoba CF,GK ,33,1165,72.0,67.0,70.0,66.0,74.0,71,71,1200000.0,6000.0
+C. Puggioni,Italy,Sampdoria,GK ,36,1161,73.0,71.0,59.0,68.0,74.0,71,71,325000.0,11000.0
+J. Speroni,Argentina,Crystal Palace,GK ,38,1079,74.0,70.0,67.0,67.0,73.0,71,71,160000.0,17000.0
+Y. Bounou,Morocco,Girona CF,GK ,26,1136,68.0,78.0,69.0,71.0,66.0,71,75,2100000.0,12000.0
+D. Kuciak,Slovakia,Lechia Gdańsk,GK ,32,1068,73.0,64.0,54.0,75.0,75.0,71,71,1400000.0,5000.0
+M. Putnocký,Slovakia,Lech Poznań,GK ,32,1241,73.0,72.0,66.0,72.0,73.0,71,71,1400000.0,6000.0
+N. Fernández,Argentina,Unión de Santa Fe,GK ,38,1145,66.0,71.0,62.0,78.0,70.0,71,71,160000.0,5000.0
+Y. Sanpian,Chile,CD O'Higgins,GK ,33,1102,77.0,61.0,62.0,64.0,77.0,71,71,1200000.0,4000.0
+Sergio Herrera,Spain,CA Osasuna,GK ,24,1152,71.0,72.0,70.0,66.0,70.0,71,77,2400000.0,5000.0
+C. Ripley,England,Burton Albion,GK ,24,1010,72.0,73.0,69.0,71.0,73.0,71,78,2400000.0,8000.0
+G. Parreses,Chile,Deportes Iquique,GK ,33,1077,61.0,77.0,76.0,70.0,73.0,71,71,1200000.0,2000.0
+E. Andrada,Argentina,Club Atlético Lanús,GK ,26,1126,73.0,67.0,64.0,67.0,75.0,71,76,2200000.0,9000.0
+Cláudio Ramos,Portugal,Tondela,GK ,25,1058,71.0,67.0,66.0,73.0,74.0,71,76,2300000.0,4000.0
+Mika,Portugal,Sunderland,GK ,26,1065,73.0,67.0,68.0,70.0,73.0,71,74,2100000.0,6000.0
+M. Knaller,Austria,FC Ingolstadt 04,GK ,30,1030,70.0,72.0,59.0,69.0,73.0,71,71,1500000.0,12000.0
+S. Viera,Uruguay,CPD Junior Barranquilla,GK ,34,1168,72.0,67.0,67.0,66.0,74.0,71,71,950000.0,3000.0
+Miguel Silva,Portugal,Vitória Guimarães,GK ,22,987,74.0,65.0,59.0,67.0,77.0,71,76,2300000.0,5000.0
+Y. Al Mosailem,Saudi Arabia,Al Ahli,GK ,33,1136,69.0,71.0,66.0,72.0,70.0,71,71,1200000.0,19000.0
+C. Coosemans,Belgium,KV Mechelen,GK ,24,1205,72.0,68.0,72.0,69.0,73.0,71,75,2200000.0,7000.0
+C. Gönen,Turkey,Málaga CF,GK ,29,1128,78.0,63.0,69.0,64.0,80.0,71,72,1800000.0,13000.0
+N. Leali,Italy,SV Zulte-Waregem,GK ,24,1055,73.0,72.0,58.0,65.0,76.0,71,75,2200000.0,34000.0
+V. Fiorillo,Italy,Pescara,GK ,27,1008,71.0,68.0,66.0,68.0,73.0,71,71,1600000.0,3000.0
+S. Bertoli,Argentina,Club Atlético Patronato,GK ,39,1091,75.0,71.0,79.0,65.0,71.0,71,71,160000.0,4000.0
+Oier,Spain,Levante UD,GK ,27,1222,73.0,66.0,73.0,75.0,68.0,71,72,1800000.0,12000.0
+A. Haghighi,Iran,AFC Eskilstuna,GK ,29,1148,68.0,69.0,63.0,68.0,74.0,71,71,1600000.0,3000.0
+E. Horvath,United States,Club Brugge KV,GK ,22,1115,74.0,73.0,61.0,64.0,71.0,71,80,2800000.0,10000.0
+A. Vaņins,Latvia,FC Zürich,GK ,37,1110,73.0,67.0,67.0,67.0,75.0,71,71,160000.0,6000.0
+D. Dibusz,Hungary,,GK ,26,945,73.0,66.0,70.0,71.0,66.0,70,74,0.0,0.0
+B. Lobonţ,Romania,Roma,GK ,39,1122,67.0,65.0,73.0,74.0,69.0,70,70,120000.0,16000.0
+F. Manojlović,Serbia,Getafe CF,GK ,21,895,73.0,69.0,71.0,64.0,70.0,70,79,2100000.0,8000.0
+A. Adanuy,Chile,CD Huachipato,GK ,33,1063,69.0,73.0,58.0,63.0,74.0,70,70,900000.0,5000.0
+Adrián Ortolá,Spain,FC Barcelona,GK ,23,1173,73.0,67.0,73.0,69.0,68.0,70,78,2000000.0,47000.0
+André Moreira,Portugal,SC Braga,GK ,21,1137,65.0,76.0,68.0,65.0,73.0,70,78,2000000.0,16000.0
+B. Kamara,France,RC Strasbourg,GK ,20,1062,70.0,68.0,65.0,67.0,73.0,70,81,2400000.0,9000.0
+J. Fejzić,Bosnia Herzegovina,Eintracht Braunschweig,GK ,31,977,73.0,65.0,61.0,68.0,75.0,70,70,1100000.0,13000.0
+D. Mitov Nilsson,FYR Macedonia,IFK Norrköping,GK ,26,1097,78.0,59.0,73.0,63.0,77.0,70,72,1500000.0,4000.0
+J. Pollersbeck,Germany,Hamburger SV,GK ,22,1001,72.0,66.0,70.0,68.0,70.0,70,80,2200000.0,14000.0
+M. Salvi,Switzerland,FC Basel,GK ,23,1152,70.0,71.0,64.0,66.0,72.0,70,80,2200000.0,15000.0
+C. Maxwell,Wales,Preston North End,GK ,26,1100,70.0,68.0,68.0,68.0,71.0,70,73,1500000.0,8000.0
+A. Brignoli,Italy,Benevento Calcio,GK ,25,1034,67.0,72.0,75.0,67.0,72.0,70,72,1500000.0,39000.0
+H. Sepulveño,Chile,Everton de Viña del Mar,GK ,29,1098,64.0,68.0,69.0,68.0,75.0,70,70,1200000.0,3000.0
+P. Leciejewski,Poland,SK Brann,GK ,32,1158,70.0,70.0,69.0,68.0,71.0,70,70,1000000.0,4000.0
+J. Chiarini,Argentina,Club Atlético Tigre,GK ,35,1113,70.0,65.0,73.0,73.0,73.0,70,70,425000.0,5000.0
+C. Ikeme,Nigeria,Wolverhampton Wanderers,GK ,31,1138,72.0,70.0,69.0,69.0,68.0,70,70,1100000.0,25000.0
+R. Kortsmit,Netherlands,Sparta Rotterdam,GK ,24,974,73.0,67.0,63.0,69.0,69.0,70,74,1700000.0,6000.0
+M. García,Argentina,Club Atlético Huracán,GK ,28,1150,71.0,65.0,64.0,67.0,73.0,70,70,1200000.0,8000.0
+E. El Hadary,Egypt,Al Taawoun,GK ,44,1047,65.0,72.0,66.0,75.0,67.0,70,70,120000.0,7000.0
+P. Gazzaniga,Argentina,Tottenham Hotspur,GK ,25,1341,67.0,73.0,84.0,68.0,70.0,70,75,1700000.0,35000.0
+M. Yıldırım,Turkey,Kayserispor,GK ,26,954,70.0,67.0,62.0,70.0,70.0,70,72,1500000.0,8000.0
+Toño Ramirez,Spain,Real Sociedad,GK ,30,1098,69.0,72.0,63.0,69.0,70.0,70,70,1100000.0,14000.0
+René,Spain,UD Almería,GK ,33,1199,79.0,68.0,66.0,68.0,61.0,70,70,900000.0,6000.0
+H. Sogahata,Japan,Kashima Antlers,GK ,37,986,71.0,68.0,70.0,70.0,76.0,70,70,120000.0,5000.0
+L. Camp,Northern Ireland,Cardiff City,GK ,32,1169,68.0,72.0,71.0,69.0,67.0,70,70,1000000.0,15000.0
+D. Vukovic,Australia,KRC Genk,GK ,32,1136,70.0,68.0,63.0,65.0,70.0,70,70,1000000.0,9000.0
+J. Burić,Bosnia Herzegovina,Lech Poznań,GK ,30,1075,70.0,65.0,61.0,69.0,71.0,70,70,1100000.0,6000.0
+S. Henderson,Republic of Ireland,Nottingham Forest,GK ,29,1135,69.0,67.0,70.0,68.0,73.0,70,70,1200000.0,16000.0
+Yu Sang Hun,Korea Republic,Sangju Sangmu FC,GK ,28,1124,71.0,68.0,64.0,68.0,71.0,70,70,1200000.0,5000.0
+A. Lukse,Austria,SCR Altach,GK ,29,1097,71.0,68.0,60.0,69.0,71.0,70,70,1200000.0,10000.0
+J. Carrasso,France,Stade de Reims,GK ,29,1057,68.0,73.0,66.0,71.0,66.0,70,70,1200000.0,6000.0
+S. Colombi,Italy,Carpi,GK ,26,1123,71.0,69.0,53.0,68.0,76.0,70,74,1600000.0,3000.0
+H. Jurjus,Netherlands,Roda JC Kerkrade,GK ,23,1182,73.0,65.0,66.0,65.0,74.0,70,77,1800000.0,7000.0
+W. Sandilands,South Africa,Orlando Pirates,GK ,33,1133,66.0,75.0,67.0,71.0,68.0,70,70,900000.0,1000.0
+T. Kaminski,Belgium,KV Kortrijk,GK ,24,1137,70.0,72.0,64.0,64.0,74.0,70,74,1700000.0,7000.0
+D. Rudd,England,Preston North End,GK ,26,1137,75.0,66.0,65.0,66.0,74.0,70,74,1600000.0,8000.0
+Ratón,Spain,Real Zaragoza,GK ,24,1111,66.0,71.0,70.0,70.0,69.0,70,77,1800000.0,5000.0
+Dani Giménez,Spain,Real Betis Balompié,GK ,33,1040,71.0,65.0,65.0,65.0,76.0,70,70,900000.0,12000.0
+D. Petrić,Serbia,En Avant de Guingamp,GK ,29,1022,71.0,62.0,59.0,71.0,73.0,70,70,1200000.0,13000.0
+Y. Godzyur,Ukraine,FC Ural,GK ,32,1066,69.0,71.0,63.0,71.0,67.0,70,70,1000000.0,17000.0
+J. Grahl,Germany,VfB Stuttgart,GK ,28,1106,73.0,65.0,60.0,66.0,74.0,70,71,1400000.0,14000.0
+Rui Silva,Portugal,Granada CF,GK ,23,1092,72.0,66.0,62.0,67.0,72.0,70,76,1800000.0,5000.0
+F. Nita,Romania,,GK ,29,1002,73.0,67.0,54.0,72.0,71.0,70,70,0.0,0.0
+A. Lindegaard,Denmark,Burnley,GK ,33,1252,70.0,73.0,69.0,68.0,67.0,70,70,900000.0,26000.0
+A. Walke,Germany,FC Red Bull Salzburg,GK ,34,1156,71.0,67.0,73.0,66.0,72.0,70,70,725000.0,16000.0
+D. Verhulst,Belgium,Sporting Lokeren,GK ,29,1067,71.0,69.0,70.0,69.0,70.0,70,70,1200000.0,9000.0
+A. Ahamada,Comoros,Kayserispor,GK ,25,1138,78.0,62.0,58.0,64.0,75.0,70,72,1500000.0,8000.0
+S. Nishikawa,Japan,Urawa Red Diamonds,GK ,31,1252,73.0,68.0,77.0,70.0,73.0,70,70,1100000.0,7000.0
+R. Himmelmann,Germany,FC St. Pauli,GK ,28,1077,67.0,64.0,61.0,70.0,75.0,70,71,1400000.0,11000.0
+Mejías,Spain,Middlesbrough,GK ,28,1188,69.0,71.0,73.0,68.0,70.0,70,71,1400000.0,10000.0
+D. Keet,South Africa,,GK ,27,1187,71.0,69.0,68.0,67.0,71.0,70,71,0.0,0.0
+J. Mucha,Slovakia,Termalica Bruk-Bet Nieciecza,GK ,34,1154,72.0,69.0,64.0,63.0,74.0,70,70,725000.0,4000.0
+J. Busk,Denmark,1. FC Union Berlin,GK ,23,1093,73.0,62.0,67.0,66.0,75.0,70,76,1800000.0,13000.0
+Cifuentes,Spain,Cádiz C.F.,GK ,38,1154,62.0,76.0,60.0,79.0,65.0,70,70,120000.0,3000.0
+Manu Herrera,Spain,CA Osasuna,GK ,35,1143,69.0,71.0,68.0,71.0,67.0,70,70,425000.0,4000.0
+A. Seculin,Italy,Chievo Verona,GK ,26,1008,73.0,67.0,57.0,63.0,79.0,70,74,1600000.0,9000.0
+E. Martinez,Argentina,Getafe CF,GK ,24,1269,71.0,68.0,73.0,67.0,72.0,70,76,1800000.0,35000.0
+P. Gollini,Italy,Atalanta,GK ,22,1154,73.0,59.0,60.0,70.0,76.0,70,78,2000000.0,15000.0
+F. Agliardi,Italy,Cesena,GK ,34,1182,70.0,66.0,64.0,67.0,72.0,70,70,725000.0,2000.0
+E. Unsain,Argentina,Defensa y Justicia,GK ,22,1150,78.0,64.0,73.0,60.0,74.0,70,77,1800000.0,6000.0
+K. Darlow,England,Newcastle United,GK ,26,1174,70.0,69.0,64.0,66.0,73.0,70,74,1600000.0,30000.0
+E. Dreer,Ecuador,,GK ,35,997,70.0,68.0,62.0,68.0,70.0,70,70,0.0,0.0
+A. Şahin,Turkey,Kardemir Karabükspor,GK ,39,977,68.0,69.0,68.0,76.0,70.0,70,70,120000.0,5000.0
+B. Leroy,France,Dijon FCO,GK ,28,969,71.0,67.0,61.0,69.0,69.0,70,71,1400000.0,11000.0
+A. Bogdán,Hungary,Liverpool,GK ,29,1087,71.0,68.0,66.0,69.0,72.0,70,70,1200000.0,45000.0
+C. Álvarez,Argentina,Real Zaragoza,GK ,31,1122,70.0,69.0,69.0,70.0,72.0,70,70,1100000.0,6000.0
+Jung Sung Ryong,Korea Republic,Kawasaki Frontale,GK ,32,1049,70.0,67.0,79.0,69.0,69.0,70,70,1000000.0,5000.0
+D. Roef,Belgium,Waasland-Beveren,GK ,23,1231,74.0,71.0,66.0,65.0,72.0,70,76,1800000.0,10000.0
+D. González,Colombia,Independiente Medellín,GK ,34,1072,66.0,72.0,66.0,74.0,68.0,70,70,725000.0,3000.0
+H. Van Crombrugge,Belgium,KAS Eupen,GK ,24,1141,72.0,67.0,66.0,66.0,73.0,70,76,1800000.0,6000.0
+O. Vlachodimos,Germany,Panathinaikos FC,GK ,23,1101,72.0,67.0,65.0,67.0,75.0,70,75,1700000.0,1000.0
+Victor Fachinhas,Brazil,Clube Atlético Mineiro,GK ,33,1063,69.0,73.0,58.0,63.0,74.0,70,70,900000.0,17000.0
+Z. Brkić,Serbia,PAOK Thessaloniki,GK ,30,1070,71.0,68.0,57.0,71.0,75.0,70,70,1100000.0,1000.0
+Jairo Farnias,Brazil,Cruzeiro,GK ,29,1108,64.0,68.0,69.0,68.0,75.0,70,70,1200000.0,16000.0
+A. Malarz,Poland,Legia Warszawa,GK ,37,1175,69.0,62.0,59.0,69.0,74.0,70,70,120000.0,4000.0
+A. Diallo,Senegal,Stade Rennais FC,GK ,25,1125,70.0,65.0,65.0,72.0,68.0,70,75,1700000.0,12000.0
+J. Silva,Paraguay,Deportes Tolima,GK ,28,1143,74.0,68.0,76.0,67.0,68.0,70,70,1200000.0,1000.0
+A. Paschalakis,Greece,PAOK Thessaloniki,GK ,27,1115,72.0,68.0,55.0,68.0,72.0,70,72,1400000.0,1000.0
+António Filipe,Portugal,Grupo Desportivo de Chaves,GK ,32,1045,70.0,70.0,62.0,68.0,72.0,70,70,1000000.0,5000.0
+D. Ward,Wales,Liverpool,GK ,24,1148,70.0,69.0,63.0,67.0,73.0,70,78,2000000.0,35000.0
+A. Batalla,Argentina,River Plate,GK ,21,1114,72.0,69.0,65.0,62.0,73.0,70,80,2200000.0,8000.0
+M. Gilks,Scotland,Scunthorpe United,GK ,35,1093,70.0,69.0,68.0,68.0,69.0,70,70,425000.0,5000.0
+G. Hubert,Belgium,Club Brugge KV,GK ,23,1086,70.0,72.0,66.0,67.0,71.0,70,75,1700000.0,10000.0
+M. Langer,Austria,FC Schalke 04,GK ,32,1055,70.0,66.0,60.0,73.0,73.0,70,70,1000000.0,18000.0
+R. Di Gennaro,Italy,La Spezia,GK ,23,1094,71.0,67.0,59.0,67.0,74.0,70,75,1700000.0,23000.0
+M. Gersbeck,Germany,VfL Osnabrück,GK ,22,1142,67.0,72.0,66.0,68.0,70.0,70,78,2000000.0,1000.0
+Munir,Morocco,CD Numancia,GK ,28,1232,67.0,70.0,62.0,72.0,69.0,70,71,1400000.0,6000.0
+Yan Junling,China PR,,GK ,26,1178,72.0,68.0,69.0,67.0,74.0,70,71,0.0,0.0
+I. Crudelo,Chile,Club de Deportes Temuco,GK ,33,1033,69.0,71.0,46.0,70.0,73.0,69,69,525000.0,2000.0
+V. Barkas,Greece,AEK Athens,GK ,23,1043,71.0,65.0,63.0,67.0,69.0,69,75,1100000.0,1000.0
+Juan Carlos,Spain,CD Lugo,GK ,29,1235,72.0,64.0,65.0,67.0,73.0,69,71,850000.0,5000.0
+Ailton Cardenhas,Brazil,Coritiba Foot Ball Club,GK ,29,969,68.0,70.0,70.0,76.0,69.0,69,69,700000.0,11000.0
+S. Bolat,Turkey,Royal Antwerp FC,GK ,28,1148,69.0,67.0,71.0,67.0,70.0,69,69,750000.0,7000.0
+J. Brondeel,Belgium,FC Twente,GK ,23,1089,71.0,68.0,68.0,66.0,71.0,69,75,1100000.0,4000.0
+A. Werner,Argentina,Atlético Madrid,GK ,21,1135,78.0,67.0,74.0,64.0,70.0,69,81,1500000.0,14000.0
+P. Carlgren,Sweden,Atiker Konyaspor,GK ,25,1058,76.0,57.0,55.0,65.0,75.0,69,75,1000000.0,8000.0
+A. Kwarasey,Ghana,Vålerenga Fotball,GK ,29,1216,66.0,71.0,67.0,66.0,69.0,69,70,825000.0,3000.0
+S. García,Mexico,Tiburones Rojos de Veracruz,GK ,34,1210,67.0,70.0,63.0,70.0,69.0,69,69,425000.0,4000.0
+S. Narubin,Russia,Dinamo Moscow,GK ,35,1097,67.0,70.0,64.0,71.0,69.0,69,69,250000.0,9000.0
+D. Perquis,France,Valenciennes FC,GK ,31,1119,66.0,68.0,64.0,71.0,72.0,69,69,650000.0,3000.0
+E. Marcinal,Chile,San Luis de Quillota,GK ,25,1098,75.0,66.0,65.0,64.0,72.0,69,69,750000.0,2000.0
+Lee Tae Hee,Korea Republic,Incheon United FC,GK ,22,1148,69.0,67.0,63.0,69.0,70.0,69,77,1200000.0,3000.0
+A. Kochenkov,Russia,Lokomotiv Moscow,GK ,30,1109,65.0,66.0,67.0,72.0,73.0,69,69,675000.0,17000.0
+A. Weis,Germany, SSV Jahn Regensburg,GK ,27,1031,74.0,67.0,63.0,59.0,76.0,69,71,850000.0,6000.0
+P. Bernardoni,France,Clermont Foot 63,GK ,20,1006,71.0,69.0,68.0,69.0,72.0,69,78,1200000.0,12000.0
+J. Smith,England,Nottingham Forest,GK ,22,1039,68.0,69.0,58.0,69.0,72.0,69,77,1200000.0,10000.0
+M. Maroles,Chile,Santiago Wanderers,GK ,33,1134,76.0,62.0,77.0,55.0,76.0,69,69,525000.0,3000.0
+C. Pinsoglio,Italy,Juventus,GK ,27,1062,75.0,65.0,54.0,64.0,75.0,69,69,700000.0,34000.0
+J. Bendik,United States,Orlando City Soccer Club,GK ,28,1001,67.0,66.0,63.0,69.0,72.0,69,71,875000.0,4000.0
+D. Heuer Fernandes,Portugal,SV Darmstadt 98,GK ,24,1100,68.0,66.0,75.0,63.0,74.0,69,75,1100000.0,9000.0
+N. Marsman,Netherlands,FC Utrecht,GK ,26,1117,70.0,62.0,72.0,65.0,76.0,69,71,875000.0,6000.0
+Quim,Portugal,CD Aves,GK ,41,1215,65.0,66.0,64.0,74.0,72.0,69,69,70000.0,3000.0
+Gu Sung Yun,Korea Republic,Hokkaido Consadole Sapporo,GK ,23,1007,68.0,63.0,58.0,71.0,73.0,69,77,1200000.0,2000.0
+Caio Padricio,Brazil,Fluminense Football Club,GK ,33,1014,69.0,71.0,46.0,70.0,73.0,69,69,525000.0,15000.0
+S. Rochet,Uruguay,Medicana Sivasspor,GK ,24,1149,73.0,63.0,65.0,63.0,76.0,69,73,975000.0,6000.0
+R. Zapata,Colombia,Independiente Santa Fe,GK ,38,1169,66.0,70.0,69.0,71.0,64.0,69,69,70000.0,2000.0
+S. Ekramy,Egypt,,GK ,33,1148,65.0,69.0,77.0,64.0,79.0,69,69,0.0,0.0
+A. Mitryushkin,Russia,FC Sion,GK ,21,1105,71.0,64.0,66.0,69.0,72.0,69,82,1600000.0,6000.0
+J. Musso,Argentina,Racing Club de Avellaneda,GK ,23,1093,71.0,67.0,66.0,68.0,74.0,69,76,1100000.0,7000.0
+A. Al Mayoof,Saudi Arabia,Al Hilal,GK ,30,1113,65.0,67.0,62.0,67.0,75.0,69,69,675000.0,16000.0
+A. Vural,Turkey,Medicana Sivasspor,GK ,26,1144,72.0,63.0,61.0,68.0,74.0,69,71,875000.0,7000.0
+T. Kirschbaum,Germany,1. FC Nürnberg,GK ,30,1010,72.0,67.0,68.0,62.0,71.0,69,69,675000.0,6000.0
+B. Khuzwayo,South Africa,Kaizer Chiefs,GK ,27,1081,71.0,71.0,73.0,67.0,71.0,69,71,850000.0,1000.0
+C. Rigamonti,Argentina,Vélez Sarsfield,GK ,30,1120,67.0,64.0,62.0,74.0,69.0,69,69,675000.0,6000.0
+S. Clark,United States,D.C. United,GK ,31,1106,68.0,61.0,72.0,68.0,71.0,69,69,650000.0,4000.0
+G. Lajud,Mexico,Club Tijuana,GK ,23,1119,71.0,66.0,62.0,69.0,72.0,69,75,1100000.0,8000.0
+I. Vargić,Croatia,Lazio,GK ,30,940,68.0,67.0,65.0,69.0,72.0,69,69,675000.0,18000.0
+P. Delecroix,France,FC Lorient,GK ,28,1102,70.0,69.0,70.0,68.0,69.0,69,72,925000.0,4000.0
+M. Gorgelin,France,Olympique Lyonnais,GK ,26,1047,76.0,64.0,66.0,65.0,72.0,69,73,950000.0,23000.0
+M. Schwäbe,Germany,SG Dynamo Dresden,GK ,22,1200,72.0,66.0,70.0,61.0,74.0,69,76,1100000.0,12000.0
+M. Delač,Croatia,Chelsea,GK ,24,1008,71.0,67.0,64.0,64.0,73.0,69,72,950000.0,31000.0
+Aitor,Spain,CD Numancia,GK ,26,1199,72.0,68.0,62.0,74.0,64.0,69,72,925000.0,5000.0
+Caro,Spain,Sevilla Atlético,GK ,23,1149,65.0,73.0,66.0,74.0,62.0,69,76,1100000.0,3000.0
+C. Bonilla,Colombia,La Equidad,GK ,24,1162,72.0,67.0,59.0,64.0,74.0,69,76,1100000.0,2000.0
+R. M'Bolhi,Algeria,Stade Rennais FC,GK ,31,1204,70.0,62.0,63.0,61.0,78.0,69,69,650000.0,10000.0
+M. Lukač,Serbia,Akhisar Belediyespor,GK ,31,1108,67.0,68.0,58.0,71.0,71.0,69,69,650000.0,8000.0
+A. Baroja,Venezuela,,GK ,27,1165,67.0,71.0,69.0,64.0,70.0,69,71,0.0,0.0
+J. Rodríguez,Mexico,Club Tijuana,GK ,24,1180,72.0,67.0,64.0,65.0,69.0,69,72,950000.0,18000.0
+A. Larenardo,Chile,Audax Italiano,GK ,29,969,68.0,70.0,70.0,76.0,69.0,69,69,700000.0,3000.0
+Peter Torreiro,Brazil,Grêmio Foot-Ball Porto Alegrense,GK ,25,1098,75.0,66.0,65.0,64.0,72.0,69,69,750000.0,10000.0
+M. Dreyer,France,SM Caen,GK ,28,1061,68.0,71.0,66.0,65.0,71.0,69,70,850000.0,11000.0
+F. Fielding,England,Bristol City,GK ,29,1125,67.0,67.0,59.0,66.0,72.0,69,69,700000.0,19000.0
+Z. Steffen,United States,Columbus Crew SC,GK ,22,1115,69.0,65.0,64.0,63.0,77.0,69,78,1200000.0,3000.0
+M. Silvestri,Italy,Hellas Verona,GK ,26,1159,78.0,59.0,54.0,66.0,76.0,69,73,950000.0,12000.0
+Luciano Cacheira,Brazil,Associação Chapecoense de Futebol,GK ,33,1063,76.0,62.0,77.0,55.0,76.0,69,69,525000.0,8000.0
+M. Kelemen,Slovakia,Jagiellonia Białystok,GK ,37,996,68.0,64.0,65.0,69.0,68.0,69,69,70000.0,3000.0
+D. Boer,Netherlands,PEC Zwolle,GK ,36,1103,63.0,75.0,52.0,76.0,66.0,69,69,140000.0,3000.0
+M. Sayouba,Ivory Coast,Stabæk Fotball,GK ,24,1129,70.0,65.0,65.0,68.0,73.0,69,74,1000000.0,2000.0
+P. Klandt,Germany,SC Freiburg,GK ,33,1067,69.0,68.0,64.0,67.0,70.0,69,69,525000.0,11000.0
+K. Müller,Germany,1. FC Heidenheim,GK ,26,1079,69.0,65.0,59.0,68.0,73.0,69,72,925000.0,8000.0
+K. Nakamura,Japan,Kashiwa Reysol,GK ,22,1006,74.0,60.0,68.0,57.0,78.0,69,78,1200000.0,5000.0
+N. Navarro,Argentina,San Lorenzo de Almagro,GK ,32,1164,69.0,68.0,68.0,68.0,69.0,69,69,600000.0,9000.0
+F. Bredlow,Germany,1. FC Nürnberg,GK ,22,994,71.0,68.0,60.0,64.0,71.0,69,77,1200000.0,5000.0
+A. Saldívar,Mexico,U.N.A.M.,GK ,27,1153,70.0,66.0,67.0,67.0,72.0,69,71,850000.0,10000.0
+M. Hassen,France,La Berrichonne de Châteauroux,GK ,22,1105,75.0,63.0,64.0,68.0,72.0,69,76,1100000.0,11000.0
+Mario Fernández,Spain,Rayo Vallecano,GK ,29,1122,70.0,67.0,68.0,70.0,72.0,69,70,825000.0,6000.0
+Mário Felgueiras,Portugal,FC Paços de Ferreira,GK ,30,1192,64.0,70.0,66.0,70.0,67.0,69,69,675000.0,5000.0
+V. Milinković-Savić,Serbia,Torino,GK ,20,1147,70.0,65.0,71.0,67.0,68.0,69,77,1200000.0,12000.0
+A. Dovbnya,Russia,FC SKA-Energiya Khabarovsk,GK ,30,1003,66.0,68.0,71.0,69.0,71.0,69,70,775000.0,10000.0
+A. Rosati,Italy,Perugia,GK ,34,1045,68.0,69.0,46.0,70.0,68.0,69,69,425000.0,2000.0
+C. Lucchetti,Argentina,Atlético Tucumán,GK ,39,1291,70.0,65.0,75.0,62.0,75.0,69,69,70000.0,3000.0
+D. Bernhardt,Germany,VfR Aalen,GK ,31,1033,68.0,67.0,64.0,68.0,73.0,69,69,650000.0,1000.0
+A. Sánchez,Argentina,Atlético Tucumán,GK ,30,1016,67.0,64.0,69.0,67.0,74.0,69,69,675000.0,5000.0
+L. Steele,England,Bristol City,GK ,32,1229,71.0,66.0,66.0,66.0,71.0,69,69,600000.0,18000.0
+N. Ibáñez,Argentina,Newell's Old Boys,GK ,35,1111,74.0,65.0,76.0,64.0,72.0,69,69,250000.0,5000.0
+A. Aguerre,Argentina,Vélez Sarsfield,GK ,26,1141,67.0,71.0,59.0,68.0,69.0,69,73,950000.0,7000.0
+Pedro Trigueira,Portugal,Vitória Setúbal,GK ,29,1131,71.0,65.0,69.0,68.0,71.0,69,69,700000.0,5000.0
+J. Moulin,France,AS Saint-Étienne,GK ,31,1092,70.0,70.0,65.0,66.0,70.0,68,68,550000.0,14000.0
+J. Gleeson,New Zealand,Portland Timbers,GK ,27,1084,68.0,67.0,65.0,69.0,69.0,68,72,775000.0,4000.0
+J. Contreras,Venezuela,,GK ,22,957,68.0,66.0,65.0,67.0,71.0,68,80,0.0,0.0
+Carlos Abad,Spain,CD Tenerife,GK ,22,1162,68.0,69.0,64.0,67.0,66.0,68,80,1300000.0,4000.0
+N. Şahin,Turkey,Gençlerbirliği SK,GK ,27,1093,68.0,66.0,64.0,67.0,71.0,68,70,725000.0,8000.0
+N. Etheridge,Philippines,Cardiff City,GK ,27,1171,72.0,63.0,62.0,64.0,72.0,68,70,725000.0,13000.0
+N. Mäenpää,Finland,Brighton & Hove Albion,GK ,32,1008,70.0,68.0,56.0,64.0,66.0,68,68,525000.0,19000.0
+Nicolas,Brazil,Hellas Verona,GK ,29,1100,70.0,67.0,65.0,66.0,70.0,68,68,600000.0,12000.0
+S. Allagbé,Benin,Chamois Niortais FC,GK ,23,1043,69.0,66.0,66.0,68.0,70.0,68,76,975000.0,3000.0
+Z. Boucher,France,AJ Auxerre,GK ,25,1176,68.0,64.0,71.0,65.0,73.0,68,71,800000.0,4000.0
+C. Heimeroth,Germany,Borussia Mönchengladbach,GK ,35,973,64.0,66.0,57.0,70.0,73.0,68,68,210000.0,9000.0
+A. Camura,Chile,CD Huachipato,GK ,29,1117,69.0,62.0,75.0,65.0,73.0,68,68,600000.0,4000.0
+T. Koubek,Czech Republic,Stade Rennais FC,GK ,24,1025,69.0,67.0,63.0,70.0,64.0,68,72,825000.0,8000.0
+D. de Vries,Netherlands,Celtic,GK ,36,1117,68.0,66.0,71.0,65.0,67.0,68,68,120000.0,14000.0
+M. van der Hart,Netherlands,PEC Zwolle,GK ,23,1124,73.0,60.0,70.0,62.0,75.0,68,75,925000.0,4000.0
+L. Burián,Uruguay,Godoy Cruz,GK ,33,1162,66.0,68.0,61.0,66.0,67.0,68,68,450000.0,6000.0
+J. MacDonald,Scotland,Kilmarnock,GK ,31,1080,71.0,62.0,62.0,65.0,72.0,68,68,550000.0,4000.0
+L. Azcona,Ecuador,,GK ,33,1176,63.0,56.0,71.0,75.0,78.0,68,68,0.0,0.0
+M. McGovern,Northern Ireland,Norwich City,GK ,32,997,69.0,65.0,64.0,68.0,69.0,68,68,525000.0,15000.0
+A. Oukidja,France,RC Strasbourg,GK ,28,1082,72.0,66.0,65.0,71.0,70.0,68,70,750000.0,11000.0
+L. Kruse,Germany,Holstein Kiel,GK ,33,1069,70.0,67.0,56.0,65.0,72.0,68,68,450000.0,6000.0
+I. Pelizzoli,Italy,Foggia,GK ,36,1142,69.0,68.0,65.0,71.0,64.0,68,68,120000.0,2000.0
+K. Kronholm,United States,Holstein Kiel,GK ,31,1012,71.0,65.0,61.0,65.0,67.0,68,68,550000.0,6000.0
+M. Borjan,Canada,,GK ,29,1143,73.0,59.0,68.0,69.0,69.0,68,68,0.0,0.0
+B. Castillo,Colombia,Atlético Huila,GK ,39,1063,62.0,68.0,65.0,73.0,66.0,68,68,60000.0,1000.0
+J. Rinne,Sweden,Aalborg BK,GK ,24,1091,76.0,63.0,67.0,62.0,73.0,68,73,875000.0,6000.0
+E. Mendy,France,Stade de Reims,GK ,25,907,71.0,56.0,47.0,69.0,72.0,68,74,875000.0,5000.0
+A. Demircan,Turkey,Atiker Konyaspor,GK ,26,1114,67.0,64.0,64.0,69.0,72.0,68,70,750000.0,8000.0
+J. Gonzalez,United States,FC Dallas,GK ,22,1071,69.0,65.0,64.0,65.0,70.0,68,78,1100000.0,3000.0
+M. Kolke,Germany,SV Wehen Wiesbaden,GK ,26,1118,69.0,63.0,60.0,64.0,71.0,68,72,800000.0,1000.0
+S. Ortega,Germany,DSC Arminia Bielefeld,GK ,24,1205,69.0,66.0,78.0,63.0,73.0,68,73,875000.0,3000.0
+S. Rossbach,Norway,Odds BK,GK ,21,1168,69.0,67.0,65.0,64.0,70.0,68,81,1400000.0,2000.0
+A. Bono,United States,Toronto FC,GK ,23,1121,69.0,64.0,66.0,68.0,70.0,68,75,925000.0,3000.0
+D. Bingham,United States,San Jose Earthquakes,GK ,27,1091,69.0,64.0,69.0,65.0,69.0,68,71,750000.0,4000.0
+O. Hadžikić,Austria,FK Austria Wien,GK ,21,1097,71.0,65.0,67.0,66.0,72.0,68,78,1100000.0,7000.0
+J. Siebenhandl,Austria,SK Sturm Graz,GK ,27,1179,68.0,65.0,70.0,66.0,70.0,68,70,725000.0,10000.0
+M. Müller,Germany,1. FC Kaiserslautern,GK ,23,1035,69.0,67.0,64.0,64.0,71.0,68,76,975000.0,18000.0
+T. Wellenreuther,Germany,Willem II,GK ,21,1128,71.0,64.0,60.0,65.0,70.0,68,75,950000.0,4000.0
+Jesús Fernández,Spain,C.D. Leonesa S.A.D.,GK ,29,1085,69.0,73.0,57.0,62.0,65.0,68,69,700000.0,5000.0
+M. Pigliacelli,Italy,Pescara,GK ,24,1154,68.0,66.0,85.0,64.0,71.0,68,76,975000.0,2000.0
+M. Bettinelli,England,Fulham,GK ,25,1144,72.0,66.0,62.0,67.0,70.0,68,74,875000.0,17000.0
+B. Amos,England,Charlton Athletic,GK ,27,1094,65.0,68.0,67.0,65.0,71.0,68,70,725000.0,15000.0
+D. Button,England,Fulham,GK ,28,1137,70.0,69.0,57.0,64.0,70.0,68,69,725000.0,19000.0
+A. Rossi,Argentina,Boca Juniors,GK ,21,1086,63.0,65.0,55.0,71.0,69.0,68,80,1300000.0,7000.0
+L. Acosta,Argentina,Belgrano de Córdoba,GK ,22,1202,69.0,58.0,70.0,69.0,72.0,68,77,1000000.0,5000.0
+J. Zimmermann,Germany,Eintracht Frankfurt,GK ,32,1097,68.0,67.0,60.0,68.0,69.0,68,68,525000.0,12000.0
+L. Pirard,Belgium,Sint-Truidense VV,GK ,22,1037,69.0,68.0,64.0,63.0,71.0,68,74,900000.0,5000.0
+F. Öztürk,Turkey,Akhisar Belediyespor,GK ,30,1179,70.0,65.0,64.0,67.0,70.0,68,68,575000.0,8000.0
+Z. MacMath,United States,Colorado Rapids,GK ,25,1060,69.0,65.0,55.0,68.0,71.0,68,73,850000.0,4000.0
+D. Gerken,England,Ipswich Town,GK ,32,1210,69.0,66.0,66.0,65.0,70.0,68,68,525000.0,9000.0
+T. Deric,United States,Houston Dynamo,GK ,28,1045,65.0,63.0,66.0,67.0,77.0,68,70,750000.0,4000.0
+E. Galeković,Australia,Melbourne City,GK ,36,1193,68.0,65.0,66.0,67.0,65.0,68,68,120000.0,4000.0
+Oh Seung Hoon,Korea Republic,Sangju Sangmu FC,GK ,29,1053,71.0,66.0,62.0,68.0,70.0,68,69,700000.0,3000.0
+R. Zwinkels,Netherlands,ADO Den Haag,GK ,34,1120,66.0,63.0,66.0,72.0,68.0,68,68,375000.0,6000.0
+Kim Ho Jun,Korea Republic,Jeju United FC,GK ,33,1063,68.0,66.0,67.0,67.0,68.0,68,68,450000.0,3000.0
+B. Sangaré,Ivory Coast,,GK ,31,1122,72.0,66.0,62.0,66.0,67.0,68,68,0.0,0.0
+J. Alvbåge,Sweden,Stabæk Fotball,GK ,34,1087,62.0,71.0,64.0,72.0,62.0,68,68,375000.0,3000.0
+J. Blaswich,Germany,Hansa Rostock,GK ,26,1170,69.0,68.0,67.0,62.0,74.0,68,72,800000.0,14000.0
+J. Huth,Germany,1. FSV Mainz 05,GK ,23,1197,71.0,62.0,73.0,65.0,71.0,68,78,1100000.0,10000.0
+S. Johnson,United States,New York City Football Club,GK ,28,1117,72.0,61.0,60.0,62.0,75.0,68,71,775000.0,4000.0
+S. Gonda,Japan,Sagan Tosu,GK ,28,1163,66.0,67.0,62.0,66.0,69.0,68,68,625000.0,3000.0
+A. Davies,Wales,Barnsley,GK ,24,1051,67.0,65.0,59.0,66.0,69.0,68,74,900000.0,5000.0
+Cristiano,Portugal,Vitória Setúbal,GK ,26,1104,64.0,69.0,66.0,70.0,68.0,68,70,750000.0,4000.0
+M. Grün,Germany,VfL Wolfsburg,GK ,30,1116,70.0,66.0,64.0,68.0,67.0,68,68,575000.0,22000.0
+A. Gunn,England,Norwich City,GK ,21,1179,67.0,66.0,69.0,66.0,70.0,68,79,1200000.0,11000.0
+Márcio Velinha,Brazil,Sociedade Esportiva Palmeiras,GK ,29,1117,69.0,62.0,75.0,65.0,73.0,68,68,600000.0,15000.0
+M. Andersen,Denmark,Lyngby BK,GK ,28,1134,70.0,64.0,59.0,72.0,67.0,68,71,775000.0,6000.0
+M. Flekken,Netherlands,MSV Duisburg,GK ,24,1073,70.0,65.0,72.0,63.0,72.0,68,74,900000.0,3000.0
+Roberto,Spain,CD Lugo,GK ,38,1174,69.0,66.0,67.0,70.0,62.0,68,68,60000.0,3000.0
+Casto,Spain,AD Alcorcón,GK ,35,1174,78.0,62.0,63.0,66.0,63.0,68,68,210000.0,4000.0
+W. Hesl,Germany,Würzburger FV,GK ,31,1058,68.0,67.0,52.0,68.0,69.0,68,68,550000.0,1000.0
+J. Carvallo,Peru,,GK ,31,1100,73.0,67.0,69.0,68.0,61.0,68,68,0.0,0.0
+B. Hamer,England,Leicester City,GK ,29,1132,71.0,63.0,63.0,69.0,68.0,68,69,700000.0,27000.0
+G. Arias,Argentina,Defensa y Justicia,GK ,29,1088,68.0,62.0,58.0,67.0,76.0,68,68,600000.0,7000.0
+U. Ceylan,Turkey,Alanyaspor,GK ,31,1165,70.0,64.0,63.0,66.0,71.0,68,68,550000.0,7000.0
+A. Pelagotti,Italy,Brescia,GK ,28,1049,68.0,68.0,61.0,65.0,72.0,68,68,625000.0,3000.0
+C. Lampe,Bolivia,,GK ,30,1040,65.0,71.0,68.0,64.0,69.0,68,68,0.0,0.0
+Alberto Varo,Spain,FC Barcelona B,GK ,24,1207,65.0,67.0,68.0,67.0,71.0,68,76,975000.0,4000.0
+R. Williams,South Africa,,GK ,25,1158,71.0,68.0,62.0,61.0,70.0,68,74,0.0,0.0
+I. Stefanović,Serbia,Córdoba CF,GK ,29,1125,66.0,68.0,75.0,65.0,68.0,68,68,600000.0,6000.0
+S. Frei,United States,Seattle Sounders FC,GK ,31,1181,69.0,59.0,63.0,69.0,73.0,68,68,550000.0,4000.0
+M. Vidal,France,Toulouse FC,GK ,26,1082,69.0,68.0,68.0,69.0,67.0,68,72,800000.0,12000.0
+G. Coutinho,Netherlands,AZ Alkmaar,GK ,34,1200,72.0,65.0,60.0,66.0,70.0,68,68,375000.0,5000.0
+J. Koprivec,Slovenia,,GK ,28,1104,68.0,65.0,59.0,69.0,72.0,68,68,0.0,0.0
+S. Bruzzese,Belgium,KV Kortrijk,GK ,28,1139,68.0,66.0,69.0,67.0,70.0,68,69,725000.0,7000.0
+W. Yarbrough,United States,Club León,GK ,28,1190,67.0,62.0,70.0,68.0,68.0,68,68,625000.0,14000.0
+M. Birighitti,Australia,NAC Breda,GK ,26,1092,70.0,65.0,64.0,67.0,73.0,68,73,850000.0,5000.0
+P. Mandanda,DR Congo,Sporting Charleroi,GK ,27,1090,71.0,65.0,67.0,63.0,71.0,68,69,700000.0,7000.0
+D. Bičík,Czech Republic,Sparta Praha,GK ,36,942,67.0,65.0,65.0,70.0,66.0,68,68,120000.0,1000.0
+P. Bråtveit,Norway,FK Haugesund,GK ,21,1118,68.0,64.0,64.0,67.0,69.0,68,80,1300000.0,2000.0
+K. Sharahili,Saudi Arabia,Al Faisaly,GK ,29,1128,71.0,63.0,64.0,68.0,68.0,68,68,600000.0,12000.0
+K. Steppe,Belgium,Sint-Truidense VV,GK ,28,1195,68.0,65.0,63.0,66.0,69.0,68,69,725000.0,6000.0
+G. Deneuve,France,Bourg en Bresse Péronnas 01,GK ,32,1109,68.0,72.0,65.0,66.0,71.0,68,68,525000.0,3000.0
+N. Pope,England,Burnley,GK ,25,1087,72.0,67.0,66.0,67.0,71.0,68,74,875000.0,20000.0
+J. Alnwick,England,Rangers,GK ,24,1263,68.0,66.0,64.0,67.0,69.0,68,76,975000.0,18000.0
+R. Strebinger,Austria,SK Rapid Wien,GK ,24,1026,68.0,62.0,60.0,65.0,75.0,68,72,825000.0,8000.0
+A. Villete,Uruguay,Patriotas Boyacá FC,GK ,26,920,66.0,68.0,63.0,69.0,67.0,68,71,775000.0,1000.0
+G. Anestis,Greece,AEK Athens,GK ,26,914,68.0,64.0,68.0,67.0,66.0,67,70,675000.0,1000.0
+M. Lobantsev,Russia,Lokomotiv Moscow,GK ,22,1089,69.0,61.0,64.0,68.0,70.0,67,76,900000.0,14000.0
+C. Bejarano,Equatorial Guinea,CD America de Cali,GK ,32,1102,72.0,62.0,59.0,61.0,70.0,67,67,450000.0,1000.0
+Marcelinho Moraisco,Brazil,São Paulo Futebol Clube,GK ,25,1182,63.0,66.0,62.0,68.0,75.0,67,67,550000.0,12000.0
+K. Begois,Belgium,FC Groningen,GK ,35,1148,64.0,66.0,65.0,71.0,65.0,67,67,180000.0,4000.0
+E. Quejeda,Chile,CD Palestino,GK ,29,1325,65.0,63.0,61.0,64.0,77.0,67,67,525000.0,3000.0
+D. Bantelicia,Chile,Santiago Wanderers,GK ,29,1389,66.0,68.0,63.0,64.0,72.0,67,67,525000.0,3000.0
+B. Radunović,Serbia,Salernitana,GK ,21,1075,70.0,64.0,61.0,67.0,69.0,67,78,1000000.0,8000.0
+J. Steele,England,Sunderland,GK ,26,1138,70.0,63.0,70.0,69.0,65.0,67,70,675000.0,5000.0
+Rubén Yáñez,Spain,Cádiz C.F.,GK ,23,1106,67.0,65.0,61.0,62.0,69.0,67,75,850000.0,8000.0
+C. Irwin,United States,Toronto FC,GK ,28,1204,68.0,67.0,65.0,67.0,66.0,67,67,525000.0,4000.0
+M. Wölfli,Switzerland,BSC Young Boys,GK ,34,1093,73.0,55.0,75.0,64.0,69.0,67,67,300000.0,10000.0
+M. Štěch,Czech Republic,Luton Town,GK ,27,1040,66.0,67.0,64.0,68.0,72.0,67,71,675000.0,9000.0
+J. Drommel,Netherlands,FC Twente,GK ,20,1215,72.0,65.0,63.0,61.0,65.0,67,78,1000000.0,4000.0
+A. Budakov,Russia,FC Anzhi Makhachkala,GK ,32,1055,66.0,64.0,63.0,67.0,68.0,67,67,450000.0,10000.0
+A. Krivoruchko,Russia,FC SKA-Energiya Khabarovsk,GK ,32,1232,67.0,70.0,69.0,64.0,63.0,67,67,450000.0,10000.0
+A. Iacobucci,Italy,Virtus Entella,GK ,26,1148,67.0,63.0,65.0,64.0,70.0,67,71,700000.0,2000.0
+S. Burchert,Germany,SpVgg Greuther Fürth,GK ,27,1042,63.0,65.0,65.0,67.0,68.0,67,68,600000.0,6000.0
+Miguel Oliveira,Portugal,Vitória Guimarães,GK ,23,1021,68.0,65.0,62.0,68.0,67.0,67,71,700000.0,4000.0
+A. Origi,Kenya,Lillestrøm SK,GK ,33,1171,71.0,63.0,61.0,66.0,69.0,67,67,375000.0,3000.0
+I. Lanni,Italy,Ascoli,GK ,27,1129,73.0,62.0,55.0,61.0,70.0,67,68,600000.0,2000.0
+E. Alvarado,Costa Rica,Trabzonspor,GK ,28,1154,70.0,60.0,65.0,64.0,71.0,67,67,525000.0,14000.0
+S. Andersen,Denmark,FC København,GK ,35,1223,65.0,68.0,58.0,71.0,62.0,67,67,180000.0,6000.0
+A. Gabbarini,Argentina,Bahía Blanca,GK ,31,1097,62.0,63.0,74.0,76.0,63.0,67,67,475000.0,5000.0
+C. Seitz,United States,FC Dallas,GK ,30,1102,67.0,61.0,71.0,69.0,67.0,67,67,500000.0,4000.0
+J. Mabokgwane,South Africa,Orlando Pirates,GK ,29,1045,68.0,63.0,70.0,65.0,75.0,67,67,525000.0,1000.0
+Lee Chang Geun,Korea Republic,Jeju United FC,GK ,23,1127,67.0,65.0,65.0,65.0,70.0,67,73,750000.0,3000.0
+S. Fox,Scotland,Ross County FC,GK ,30,953,69.0,66.0,59.0,64.0,70.0,67,67,500000.0,4000.0
+N. Ramos,Colombia,Independiente Medellín,GK ,35,1118,62.0,71.0,73.0,67.0,65.0,67,67,180000.0,1000.0
+Dorronsoro,Spain,Lorca Deportiva CF,GK ,32,1207,76.0,57.0,59.0,62.0,72.0,67,67,450000.0,4000.0
+B. Körk,Turkey,Akhisar Belediyespor,GK ,37,1083,72.0,61.0,68.0,62.0,67.0,67,67,50000.0,5000.0
+O. Jansson,Sweden,Örebro SK,GK ,26,998,68.0,60.0,61.0,65.0,71.0,67,70,675000.0,3000.0
+T. Renault,France,US Orléans Loiret Football,GK ,33,1131,67.0,64.0,62.0,67.0,69.0,67,67,375000.0,3000.0
+S. Pouplin,France,OGC Nice,GK ,32,963,67.0,69.0,66.0,70.0,69.0,67,67,450000.0,13000.0
+G. Güvenç,Turkey,Göztepe,GK ,25,1231,70.0,63.0,58.0,64.0,74.0,67,72,725000.0,8000.0
+N. Medvedev,Russia,Lokomotiv Moscow,GK ,22,897,62.0,69.0,62.0,68.0,68.0,67,76,900000.0,14000.0
+P. Abrahamsson,Sweden,BK Häcken,GK ,28,1116,66.0,67.0,65.0,68.0,67.0,67,67,525000.0,3000.0
+B. Shuttleworth,United States,Minnesota Thunder,GK ,30,1170,67.0,67.0,66.0,66.0,66.0,67,67,500000.0,4000.0
+I. Provedel,Italy,Empoli,GK ,23,1083,66.0,65.0,61.0,68.0,70.0,67,73,750000.0,2000.0
+Marco Pinto,Portugal,CD Aves,GK ,29,1231,69.0,54.0,78.0,65.0,68.0,67,67,525000.0,6000.0
+L. McCormick,England,Plymouth Argyle,GK ,33,1124,62.0,67.0,56.0,65.0,69.0,67,67,375000.0,5000.0
+R. Köse,Turkey,Kasimpaşa SK,GK ,29,1091,70.0,65.0,53.0,69.0,72.0,67,67,525000.0,7000.0
+G. Herrera,Argentina,Talleres de Cordoba,GK ,25,1104,69.0,62.0,66.0,65.0,72.0,67,71,700000.0,6000.0
+Unai Simón,Spain,Athletic Club de Bilbao,GK ,20,1095,70.0,69.0,62.0,61.0,68.0,67,80,1200000.0,7000.0
+A. Kann,United States,Atlanta United FC,GK ,26,1131,65.0,66.0,62.0,68.0,67.0,67,68,625000.0,4000.0
+W. van der Steen,Netherlands,SC Heerenveen,GK ,27,1041,64.0,63.0,69.0,65.0,70.0,67,69,625000.0,5000.0
+L. Koopmans,Netherlands,PSV,GK ,24,1118,66.0,64.0,63.0,66.0,68.0,67,72,725000.0,6000.0
+J. Archer,Scotland,Millwall,GK ,24,1088,68.0,67.0,65.0,67.0,68.0,67,73,750000.0,13000.0
+A. Otero,Colombia,Atlético Bucaramanga,GK ,33,1112,59.0,71.0,70.0,76.0,63.0,67,67,375000.0,1000.0
+M. Zetterer,Germany,SV Werder Bremen,GK ,21,1087,68.0,66.0,71.0,64.0,70.0,67,77,950000.0,8000.0
+H. Halldórsson,Iceland,Randers FC,GK ,33,1079,69.0,62.0,61.0,68.0,68.0,67,67,375000.0,7000.0
+M. Kuster,Austria,SV Mattersburg,GK ,23,1033,65.0,70.0,63.0,63.0,66.0,67,72,725000.0,9000.0
+J. Bijlow,Netherlands,Feyenoord,GK ,19,1001,70.0,66.0,68.0,64.0,66.0,67,80,1100000.0,3000.0
+G. Faivre,Switzerland,FC Thun,GK ,30,931,66.0,71.0,62.0,68.0,68.0,67,67,500000.0,7000.0
+R. Mandanda,DR Congo,AC Ajaccio,GK ,24,1055,67.0,65.0,64.0,65.0,70.0,67,75,850000.0,3000.0
+J. Blackman,England,Sheffield United,GK ,23,1078,67.0,65.0,66.0,66.0,71.0,67,76,900000.0,15000.0
+O. Zelenika,Croatia,Lechia Gdańsk,GK ,24,968,70.0,72.0,74.0,58.0,69.0,67,71,700000.0,4000.0
+B. Fernandez,Germany,Sportfreunde Lotte,GK ,32,977,67.0,63.0,59.0,62.0,72.0,67,67,450000.0,1000.0
+D. Orlishausen,Germany,Karlsruher SC,GK ,34,1017,65.0,66.0,61.0,70.0,66.0,67,67,300000.0,1000.0
+E. Audero,Italy,F.B.C. Unione Venezia,GK ,20,1077,72.0,64.0,60.0,60.0,76.0,67,77,950000.0,24000.0
+L. Załuska,Poland,Pogoń Szczecin,GK ,35,1254,62.0,66.0,67.0,68.0,65.0,67,67,180000.0,2000.0
+Santamaría,Spain,CF Reus Deportiu,GK ,32,1150,69.0,72.0,65.0,67.0,59.0,67,67,450000.0,4000.0
+F. Kaplan,Turkey,Antalyaspor,GK ,28,1137,65.0,67.0,64.0,69.0,67.0,67,68,625000.0,9000.0
+J. Wicks,United States,IK Sirius,GK ,33,1255,69.0,67.0,61.0,61.0,70.0,67,67,375000.0,2000.0
+J. Leutwiler,Canada,Blackburn Rovers,GK ,28,1199,67.0,64.0,65.0,68.0,69.0,67,67,525000.0,7000.0
+A. Linde,Sweden,Molde FK,GK ,23,1067,69.0,63.0,63.0,66.0,69.0,67,74,800000.0,3000.0
+M. Polaček,Slovakia,Zagłębie Lubin,GK ,27,1094,68.0,61.0,78.0,68.0,63.0,67,68,600000.0,4000.0
+F. Farnolle,Benin,Evkur Yeni Malatyaspor,GK ,32,1048,67.0,64.0,66.0,68.0,64.0,67,67,450000.0,7000.0
+Julián Cuesta,Spain,Wisła Kraków,GK ,26,1086,62.0,66.0,72.0,70.0,64.0,67,70,675000.0,4000.0
+José Suarez,Spain,Girona CF,GK ,21,1140,67.0,63.0,70.0,67.0,69.0,67,78,1000000.0,7000.0
+R. Áldarez,Chile,CD Antofagasta,GK ,25,1313,63.0,66.0,62.0,68.0,75.0,67,67,550000.0,2000.0
+A. Mannus,Northern Ireland,St. Johnstone FC,GK ,35,1094,69.0,67.0,63.0,69.0,66.0,67,67,180000.0,3000.0
+Mateus Tangil,Brazil,Sport Club do Recife,GK ,29,1229,66.0,68.0,63.0,64.0,72.0,67,67,525000.0,8000.0
+Fepe Avedo,Brazil,Clube Atlético Paranaense,GK ,29,1161,65.0,63.0,61.0,64.0,77.0,67,67,525000.0,7000.0
+N. Larsen,Denmark,FC Nordsjælland,GK ,26,1069,67.0,65.0,60.0,68.0,66.0,67,70,675000.0,7000.0
+V. Eicher,Germany,1. FC Heidenheim,GK ,26,1065,67.0,66.0,61.0,67.0,69.0,67,70,675000.0,8000.0
+D. Mesenhöler,Germany,1. FC Union Berlin,GK ,21,1107,68.0,71.0,57.0,63.0,66.0,67,77,950000.0,10000.0
+Paulo Lopes,Portugal,SL Benfica,GK ,39,1120,67.0,73.0,57.0,67.0,64.0,67,67,50000.0,3000.0
+A. Moris,Luxembourg,KV Mechelen,GK ,27,1154,68.0,68.0,62.0,63.0,69.0,67,69,625000.0,7000.0
+D. Haas,Germany,FC Erzgebirge Aue,GK ,33,1056,67.0,67.0,58.0,64.0,66.0,67,67,375000.0,4000.0
+L. Bostyn,Belgium,SV Zulte-Waregem,GK ,23,957,72.0,66.0,58.0,66.0,65.0,67,72,725000.0,6000.0
+M. Vanhamel,Belgium,KV Oostende,GK ,27,1021,66.0,67.0,64.0,62.0,70.0,67,69,625000.0,7000.0
+E. Bologna,Argentina,River Plate,GK ,35,1098,68.0,67.0,53.0,66.0,70.0,67,67,180000.0,6000.0
+D. Konstantopoulos,Greece,Middlesbrough,GK ,38,984,67.0,65.0,62.0,69.0,63.0,67,67,50000.0,5000.0
+R. Sánchez,Colombia,CD Los Millionarios Bogota,GK ,33,1083,70.0,62.0,58.0,67.0,64.0,67,67,375000.0,2000.0
+Dani Jiménez,Spain,AD Alcorcón,GK ,27,1205,71.0,64.0,60.0,65.0,69.0,67,69,625000.0,5000.0
+D. Kyriakidis,Greece,,GK ,30,1126,68.0,67.0,61.0,70.0,65.0,67,67,0.0,0.0
+F. Al Qarni,Saudi Arabia,Al Ittihad,GK ,25,1081,67.0,63.0,66.0,66.0,70.0,67,70,675000.0,15000.0
+Bardají,Spain,SD Huesca,GK ,22,1144,70.0,68.0,61.0,58.0,67.0,67,72,725000.0,4000.0
+J. Vachoux,France,RC Lens,GK ,22,1018,69.0,63.0,65.0,66.0,69.0,67,75,850000.0,4000.0
+Ricardo Ferreira,Portugal,Portimonense SC,GK ,27,1088,68.0,66.0,61.0,65.0,68.0,67,68,600000.0,4000.0
+B. Uphoff,Germany,Karlsruher SC,GK ,23,977,65.0,65.0,67.0,65.0,69.0,67,72,725000.0,1000.0
+M. Lampson,United States,Chicago Fire Soccer Club,GK ,27,1177,67.0,66.0,68.0,67.0,69.0,67,68,600000.0,4000.0
+S. Dioudis,Greece,Panathinaikos FC,GK ,24,1075,68.0,70.0,62.0,61.0,70.0,67,73,750000.0,1000.0
+M. Schuhen,Germany,SV Sandhausen,GK ,24,1218,69.0,65.0,72.0,65.0,68.0,67,73,750000.0,3000.0
+B. Mitrev,Bulgaria,,GK ,30,961,60.0,69.0,73.0,66.0,68.0,67,67,0.0,0.0
+P. Mina,Colombia,Asociacion Deportivo Cali,GK ,32,1077,71.0,68.0,62.0,58.0,72.0,67,67,450000.0,2000.0
+G. Karačić,Bosnia Herzegovina,SV Sandhausen,GK ,20,916,70.0,70.0,64.0,60.0,69.0,67,80,1200000.0,3000.0
+M. Hernández,Mexico,Tiburones Rojos de Veracruz,GK ,34,1043,69.0,65.0,68.0,67.0,68.0,67,67,300000.0,4000.0
+S. Gbohouo,Ivory Coast,,GK ,28,1030,66.0,65.0,70.0,65.0,68.0,67,68,0.0,0.0
+J. Mall,Switzerland,SV Darmstadt 98,GK ,26,1008,69.0,63.0,61.0,63.0,74.0,67,70,675000.0,11000.0
+C. Doyle,Republic of Ireland,Bradford City,GK ,32,1050,68.0,66.0,58.0,65.0,68.0,67,67,450000.0,6000.0
+S. Ichazo,Uruguay,Torino,GK ,25,1128,68.0,63.0,67.0,62.0,71.0,67,70,675000.0,16000.0
+T. Coremans,Netherlands,ADO Den Haag,GK ,26,1086,68.0,66.0,63.0,63.0,66.0,66,69,550000.0,3000.0
+L. Lezzerini,Italy,Avellino,GK ,22,1074,67.0,60.0,60.0,64.0,70.0,66,76,800000.0,1000.0
+N. Lomb,Germany,Bayer 04 Leverkusen,GK ,23,1073,70.0,61.0,65.0,64.0,70.0,66,71,625000.0,8000.0
+M. Zappino,Brazil,Frosinone,GK ,36,1110,64.0,71.0,58.0,65.0,62.0,66,66,90000.0,1000.0
+Y. Thuram,France,Le Havre AC,GK ,28,1151,65.0,63.0,67.0,67.0,65.0,66,68,550000.0,2000.0
+J. Placide,Haiti,Oldham Athletic,GK ,29,1047,62.0,63.0,59.0,63.0,70.0,66,66,425000.0,2000.0
+J. McLaughlin,Scotland,Heart of Midlothian,GK ,28,1171,68.0,66.0,67.0,65.0,64.0,66,67,525000.0,2000.0
+A. Blanco,Mexico,Pachuca,GK ,29,1104,62.0,69.0,62.0,64.0,65.0,66,66,425000.0,7000.0
+L. Nicholls,England,Milton Keynes Dons,GK ,24,1064,68.0,63.0,65.0,61.0,66.0,66,72,650000.0,2000.0
+A. Tarbell,United States,San Jose Earthquakes,GK ,23,934,69.0,68.0,68.0,69.0,70.0,66,72,650000.0,2000.0
+J. Attinella,United States,Portland Timbers,GK ,28,1159,68.0,65.0,63.0,65.0,64.0,66,69,550000.0,2000.0
+Hong Jung Nam,Korea Republic,Jeonbuk Hyundai Motors,GK ,29,1054,67.0,65.0,62.0,66.0,64.0,66,66,425000.0,3000.0
+S. Brown,England,Wycombe Wanderers,GK ,32,1095,64.0,63.0,58.0,65.0,68.0,66,66,375000.0,4000.0
+M. Caranta,Argentina,Talleres de Cordoba,GK ,38,1104,55.0,70.0,67.0,68.0,63.0,66,66,40000.0,2000.0
+L. Thomas,Australia,Melbourne Victory,GK ,25,1077,69.0,64.0,57.0,64.0,67.0,66,70,600000.0,2000.0
+J. Posavec,Croatia,Palermo,GK ,21,893,70.0,58.0,66.0,63.0,69.0,66,78,925000.0,1000.0
+M. Prévot,France,FC Sochaux-Montbéliard,GK ,20,955,66.0,63.0,66.0,65.0,67.0,66,78,925000.0,2000.0
+L. Butrón,Peru,,GK ,40,1077,65.0,70.0,71.0,70.0,68.0,66,66,0.0,0.0
+A. Maisonnial,France,AS Saint-Étienne,GK ,19,1132,70.0,66.0,62.0,64.0,68.0,66,79,975000.0,3000.0
+Fernando,Spain,UD Almería,GK ,27,1151,69.0,63.0,57.0,61.0,69.0,66,70,575000.0,2000.0
+J. Willis,United States,Houston Dynamo,GK ,28,1129,68.0,65.0,60.0,68.0,65.0,66,68,550000.0,2000.0
+N. Avellaneda,Argentina,Club Atlético Lanús,GK ,24,1086,66.0,62.0,64.0,62.0,71.0,66,74,700000.0,3000.0
+P. Pervan,Austria,LASK Linz,GK ,29,966,66.0,68.0,65.0,67.0,66.0,66,68,525000.0,4000.0
+M. Jeannin,Algeria,Clermont Foot 63,GK ,26,1058,67.0,61.0,61.0,66.0,71.0,66,70,575000.0,2000.0
+David Raya,Spain,Blackburn Rovers,GK ,21,1143,62.0,69.0,64.0,61.0,68.0,66,76,800000.0,2000.0
+D. Lopar,Switzerland,FC St. Gallen,GK ,32,1061,68.0,62.0,63.0,63.0,65.0,66,66,375000.0,3000.0
+S. Şahin-Radlinger,Austria,Hannover 96,GK ,24,1005,64.0,62.0,58.0,64.0,71.0,66,70,600000.0,6000.0
+F. Coppola,Italy,Hellas Verona,GK ,39,1022,69.0,62.0,58.0,73.0,64.0,66,66,40000.0,3000.0
+H. Koffi,Burkina Faso,LOSC Lille,GK ,20,1010,69.0,59.0,62.0,63.0,70.0,66,77,875000.0,6000.0
+O. Sissoko,Mali,Le Havre AC,GK ,29,1013,67.0,62.0,61.0,64.0,71.0,66,67,500000.0,2000.0
+G. Viscarra,Bolivia,,GK ,24,909,67.0,64.0,68.0,70.0,67.0,66,71,0.0,0.0
+A. Donnarumma,Italy,Milan,GK ,26,930,70.0,62.0,51.0,59.0,74.0,66,70,575000.0,16000.0
+A. Hayashi,Japan,F.C. Tokyo,GK ,30,1276,70.0,65.0,62.0,61.0,70.0,66,66,425000.0,3000.0
+R. Cierzniak,Poland,Legia Warszawa,GK ,34,1176,69.0,64.0,60.0,69.0,64.0,66,66,260000.0,2000.0
+H. Yılmaz,Turkey,Alanyaspor,GK ,33,925,68.0,61.0,59.0,68.0,64.0,66,66,325000.0,3000.0
+M. Goblet,Belgium,Waasland-Beveren,GK ,22,1122,71.0,59.0,56.0,57.0,73.0,66,72,650000.0,2000.0
+F. Ondoa,Cameroon,Sevilla Atlético,GK ,21,1202,75.0,59.0,62.0,63.0,66.0,66,78,925000.0,1000.0
+E. Bush,United States,Montreal Impact,GK ,31,1128,70.0,62.0,61.0,61.0,71.0,66,66,400000.0,2000.0
+G. Long,England,AFC Wimbledon,GK ,23,1066,67.0,65.0,64.0,66.0,68.0,66,76,800000.0,7000.0
+A. Stolz,Germany,TSG 1899 Hoffenheim,GK ,33,1104,70.0,68.0,66.0,64.0,63.0,66,66,325000.0,7000.0
+I. Villaseñor,Mexico,Puebla,GK ,34,1095,65.0,68.0,65.0,66.0,67.0,66,66,260000.0,2000.0
+João Costa,Portugal,FC Porto,GK ,21,935,69.0,63.0,53.0,63.0,68.0,66,76,800000.0,2000.0
+J. Saunders,Puerto Rico,Orlando City Soccer Club,GK ,36,1142,68.0,67.0,68.0,65.0,64.0,66,66,90000.0,1000.0
+D. Ovono,Gabon,Paris FC,GK ,34,1131,68.0,58.0,65.0,65.0,71.0,66,66,260000.0,2000.0
+Y. Thoelen,Belgium,KAA Gent,GK ,26,1079,67.0,65.0,60.0,63.0,68.0,66,69,550000.0,5000.0
+R. Wolf,Germany,Fortuna Düsseldorf,GK ,29,1016,67.0,63.0,58.0,63.0,71.0,66,66,425000.0,6000.0
+L. Badiashile,France,AS Monaco,GK ,19,1129,68.0,66.0,65.0,67.0,68.0,66,77,825000.0,3000.0
+Kim Jin Young,Korea Republic,Pohang Steelers,GK ,25,1047,66.0,65.0,65.0,64.0,66.0,66,69,575000.0,2000.0
+D. Léon,France,Stade Brestois 29,GK ,24,1155,67.0,60.0,65.0,64.0,70.0,66,73,675000.0,1000.0
+N. Alblas,Netherlands,Ajax,GK ,22,1084,68.0,64.0,72.0,60.0,67.0,66,73,675000.0,2000.0
+A. Lonergan,England,Leeds United,GK ,33,1053,65.0,64.0,52.0,66.0,68.0,66,66,325000.0,7000.0
+B. Knighton,United States,New England Revolution,GK ,32,1060,68.0,66.0,64.0,66.0,61.0,66,66,375000.0,2000.0
+D. Forde,Republic of Ireland,Cambridge United,GK ,37,1144,64.0,65.0,62.0,71.0,63.0,66,66,40000.0,3000.0
+Cho Soo Hyuk,Korea Republic,Ulsan Hyundai Horang-i,GK ,30,1037,65.0,66.0,66.0,67.0,66.0,66,66,425000.0,2000.0
+D. Da Costa,Switzerland,FC Lugano,GK ,31,1117,65.0,67.0,58.0,64.0,64.0,66,66,400000.0,2000.0
+Sivera,Spain,Deportivo Alavés,GK ,20,1213,66.0,63.0,62.0,70.0,65.0,66,75,750000.0,4000.0
+P. Šteinbors,Latvia,Arka Gdynia,GK ,31,1143,65.0,67.0,66.0,66.0,65.0,66,66,400000.0,2000.0
+L. Nienhuis,Netherlands,Sparta Rotterdam,GK ,27,1110,67.0,64.0,62.0,64.0,70.0,66,67,500000.0,3000.0
+A. Al Qarni,Saudi Arabia,Al Ittihad,GK ,33,1028,64.0,66.0,58.0,66.0,65.0,66,66,325000.0,8000.0
+S. Taylor,England,Southampton,GK ,36,1125,67.0,64.0,63.0,65.0,63.0,66,66,90000.0,9000.0
+J. Szmatuła,Poland,Piast Gliwice,GK ,36,1019,67.0,67.0,63.0,67.0,67.0,66,66,90000.0,1000.0
+Cristian Rivero,Spain,Valencia CF,GK ,19,918,71.0,60.0,62.0,62.0,68.0,66,78,875000.0,2000.0
+S. Mielitz,Germany,SønderjyskE,GK ,27,1080,67.0,62.0,58.0,62.0,66.0,66,68,525000.0,3000.0
+B. Rowe,United States,LA Galaxy,GK ,28,1125,65.0,64.0,63.0,63.0,68.0,66,67,525000.0,2000.0
+C. Stanković,Austria,FC Red Bull Salzburg,GK ,24,1105,70.0,65.0,56.0,63.0,67.0,66,71,625000.0,5000.0
+J. Hartock,France,US Quevilly-Rouen,GK ,30,1049,66.0,64.0,64.0,64.0,65.0,66,66,425000.0,2000.0
+N. Ravaglia,Italy,Cremonese,GK ,28,1013,63.0,65.0,57.0,66.0,69.0,66,67,525000.0,1000.0
+A. Pomini,Italy,Palermo,GK ,36,1081,62.0,61.0,59.0,69.0,67.0,66,66,90000.0,1000.0
+G. Shelia,Russia,FC Ufa,GK ,28,966,63.0,63.0,71.0,68.0,66.0,66,67,525000.0,6000.0
+K. Kunz,Germany,Chemnitzer FC,GK ,25,933,69.0,64.0,52.0,65.0,67.0,66,69,575000.0,1000.0
+M. Gspurning,Austria,1. FC Union Berlin,GK ,36,1101,65.0,64.0,64.0,63.0,67.0,66,66,90000.0,4000.0
+Bernabé,Spain,Gimnàstic de Tarragona,GK ,24,1092,64.0,69.0,63.0,64.0,65.0,66,74,700000.0,2000.0
+F. Canales,Mexico,Lobos de la BUAP,GK ,30,1193,65.0,64.0,66.0,64.0,64.0,66,66,425000.0,2000.0
+A. Leitner,Austria,FC Admira Wacker Mödling,GK ,23,995,65.0,63.0,59.0,65.0,69.0,66,71,625000.0,2000.0
+A. Solosin,Russia,FC Anzhi Makhachkala,GK ,29,1033,64.0,66.0,64.0,67.0,68.0,66,66,425000.0,5000.0
+A. Al Kassar,Saudi Arabia,Ettifaq FC,GK ,26,1086,66.0,64.0,59.0,65.0,69.0,66,70,575000.0,4000.0
+E. Reséndez,Mexico,Monterrey,GK ,21,1021,64.0,64.0,64.0,65.0,68.0,66,77,875000.0,7000.0
+Y. Marillat,France,Nîmes Olympique,GK ,22,1080,65.0,65.0,68.0,67.0,68.0,66,76,800000.0,1000.0
+P. Sisniega,Mexico,Real Sociedad,GK ,21,1190,63.0,71.0,64.0,67.0,63.0,66,75,750000.0,4000.0
+S. Eastwood,England,Oxford United,GK ,28,1166,64.0,61.0,62.0,66.0,70.0,66,68,550000.0,3000.0
+C. Cropper,United States,New England Revolution,GK ,24,999,68.0,65.0,62.0,63.0,68.0,66,74,700000.0,2000.0
+C. Giraldo,Colombia,Tigres FC,GK ,27,1069,59.0,65.0,64.0,72.0,65.0,66,69,550000.0,1000.0
+P. Heerwagen,Germany,FC St. Pauli,GK ,34,1028,66.0,62.0,55.0,65.0,70.0,66,66,260000.0,4000.0
+M. Kobras,Austria,SCR Altach,GK ,31,1079,67.0,61.0,56.0,65.0,70.0,66,66,400000.0,4000.0
+T. Černý,Czech Republic,Partick Thistle F.C.,GK ,32,1195,64.0,64.0,63.0,66.0,64.0,66,66,375000.0,2000.0
+V. Janjetović,Australia,Western Sydney Wanderers,GK ,29,1078,66.0,60.0,63.0,64.0,68.0,66,66,425000.0,2000.0
+J. Brinkies,Germany,FSV Zwickau,GK ,24,1163,63.0,62.0,67.0,67.0,71.0,66,74,700000.0,1000.0
+K. Broll,Germany,SG Sonnenhof Großaspach,GK ,21,884,67.0,58.0,59.0,66.0,69.0,66,75,750000.0,1000.0
+A. Cajtoft,Sweden,Jönköpings Södra IF,GK ,23,933,67.0,65.0,66.0,66.0,66.0,66,75,750000.0,1000.0
+H. Iikura,Japan,Yokohama F. Marinos,GK ,31,954,64.0,67.0,58.0,69.0,63.0,66,66,400000.0,2000.0
+D. Martin,England,Millwall,GK ,31,1132,67.0,62.0,66.0,66.0,66.0,66,66,400000.0,7000.0
+K. Otani,Japan,Albirex Niigata,GK ,28,1030,64.0,68.0,73.0,61.0,69.0,65,66,425000.0,2000.0
+M. Falkesgaard,Denmark,FC Midtjylland,GK ,26,1162,64.0,64.0,67.0,66.0,63.0,65,69,500000.0,6000.0
+A. Al Owayshir,Saudi Arabia,Al Fateh,GK ,26,1138,64.0,67.0,60.0,64.0,63.0,65,69,500000.0,6000.0
+F. Oyerze,Chile,Audax Italiano,GK ,29,944,57.0,70.0,62.0,75.0,55.0,65,65,375000.0,1000.0
+Janota,Portugal,Tondela,GK ,30,956,66.0,69.0,58.0,57.0,68.0,65,65,350000.0,2000.0
+P. Frattali,Italy,Parma,GK ,31,1094,64.0,62.0,60.0,64.0,66.0,65,65,325000.0,1000.0
+J. Glinker,Germany,1. FC Magdeburg,GK ,33,1079,69.0,49.0,47.0,68.0,68.0,65,65,270000.0,1000.0
+R. O'Donnell,England,Rotherham United,GK ,28,1165,66.0,61.0,65.0,61.0,67.0,65,66,425000.0,3000.0
+J. Ayala,Argentina,Temperley,GK ,29,955,66.0,65.0,65.0,63.0,66.0,65,65,375000.0,3000.0
+S. Mpontshane,South Africa,Orlando Pirates,GK ,31,1171,65.0,63.0,62.0,62.0,71.0,65,65,325000.0,1000.0
+A. Cisak,Australia,Sydney FC,GK ,28,1170,68.0,59.0,63.0,65.0,67.0,65,66,425000.0,2000.0
+Rui Vieira,Portugal,Rio Ave FC,GK ,25,1122,67.0,64.0,57.0,66.0,65.0,65,68,475000.0,2000.0
+A. Østbø,Norway,Rosenborg BK,GK ,26,1007,62.0,64.0,62.0,61.0,67.0,65,70,500000.0,2000.0
+M. Giordano,Argentina,Club Atlético Huracán,GK ,37,1048,62.0,64.0,65.0,76.0,61.0,65,65,40000.0,2000.0
+S. Supple,Republic of Ireland,Bohemian FC,GK ,30,1077,65.0,66.0,62.0,65.0,63.0,65,66,400000.0,1000.0
+D. Arapov,Russia,FC Ural,GK ,24,1079,66.0,63.0,64.0,63.0,70.0,65,71,550000.0,6000.0
+V. Demarconnay,France,Paris FC,GK ,34,1077,69.0,60.0,60.0,62.0,69.0,65,65,220000.0,2000.0
+R. Allsop,England,Blackpool,GK ,25,1098,65.0,59.0,65.0,61.0,69.0,65,71,525000.0,11000.0
+A. Aguilar,Paraguay,,GK ,28,1114,75.0,59.0,54.0,53.0,72.0,65,65,0.0,0.0
+T. Nocchi,Italy,Perugia,GK ,26,1008,61.0,63.0,47.0,61.0,74.0,65,65,375000.0,1000.0
+O. Marciano,Israel,Hibernian,GK ,27,1028,65.0,63.0,57.0,59.0,67.0,65,67,450000.0,2000.0
+C. Bell,Scotland,Kilmarnock,GK ,30,1122,68.0,64.0,60.0,64.0,68.0,65,65,350000.0,2000.0
+J. Fabri,France,Stade Brestois 29,GK ,23,1091,66.0,64.0,62.0,64.0,66.0,65,73,600000.0,1000.0
+J. Rask,Denmark,Hobro IK,GK ,28,982,63.0,67.0,53.0,66.0,68.0,65,66,425000.0,3000.0
+C. Gratzei,Austria,SK Sturm Graz,GK ,35,1005,66.0,59.0,57.0,64.0,69.0,65,65,130000.0,3000.0
+Kim Yong Dae,Korea Republic,Ulsan Hyundai Horang-i,GK ,37,1137,65.0,63.0,68.0,63.0,65.0,65,65,40000.0,1000.0
+J. Słowik,Poland,Śląsk Wrocław,GK ,25,956,68.0,56.0,48.0,70.0,69.0,65,68,475000.0,2000.0
+A. Legzdins,England,Burnley,GK ,30,1077,65.0,61.0,65.0,64.0,66.0,65,65,350000.0,10000.0
+M. Marić,Croatia,Lillestrøm SK,GK ,21,1062,71.0,61.0,65.0,66.0,69.0,65,77,775000.0,5000.0
+M. Howard,England,Bolton Wanderers,GK ,30,1082,62.0,64.0,63.0,66.0,63.0,65,65,350000.0,7000.0
+C. Walton,England,Wigan Athletic,GK ,21,1085,68.0,62.0,66.0,59.0,69.0,65,79,975000.0,7000.0
+A. Ježina,Croatia,Royal Antwerp FC,GK ,28,895,67.0,63.0,61.0,64.0,63.0,65,66,425000.0,3000.0
+Jhonatan,Brazil,Moreirense FC,GK ,26,1030,67.0,60.0,59.0,64.0,69.0,65,67,450000.0,2000.0
+M. Theo,Australia,Brisbane Roar,GK ,36,1151,63.0,59.0,65.0,61.0,65.0,65,65,70000.0,1000.0
+R. Meara,Republic of Ireland,New York Red Bulls,GK ,26,1056,64.0,62.0,62.0,66.0,67.0,65,68,475000.0,2000.0
+E. Kobozev,Russia,Jönköpings Södra IF,GK ,27,1088,70.0,60.0,64.0,60.0,69.0,65,69,475000.0,1000.0
+C. Logan,Republic of Ireland,Mansfield Town,GK ,31,1120,63.0,62.0,65.0,62.0,67.0,65,65,325000.0,4000.0
+C. Merville,France,Valenciennes FC,GK ,35,1076,65.0,65.0,63.0,63.0,65.0,65,65,130000.0,1000.0
+Y. Rokutan,Japan,Shimizu S-Pulse,GK ,30,913,64.0,64.0,57.0,62.0,65.0,65,65,350000.0,1000.0
+T. Loska,Poland,Górnik Zabrze,GK ,21,1076,66.0,62.0,65.0,63.0,69.0,65,72,575000.0,1000.0
+I. Austbø,Norway,Viking FK,GK ,32,1150,64.0,63.0,65.0,63.0,65.0,65,65,300000.0,1000.0
+N. Olij,Netherlands,AZ Alkmaar,GK ,21,1117,66.0,64.0,61.0,60.0,67.0,65,75,675000.0,2000.0
+P. Santillo,Argentina,Arsenal de Sarandí,GK ,37,1090,73.0,63.0,64.0,65.0,62.0,65,65,40000.0,2000.0
+P. Terracciano,Italy,Empoli,GK ,27,1036,63.0,61.0,50.0,65.0,67.0,65,65,375000.0,1000.0
+A. Damen,Netherlands,Excelsior,GK ,27,1196,67.0,59.0,64.0,67.0,64.0,65,67,450000.0,3000.0
+T. Mickel,Germany,Hamburger SV,GK ,28,1082,65.0,62.0,65.0,62.0,66.0,65,65,375000.0,7000.0
+Álex Craninx,Spain,Sparta Rotterdam,GK ,21,1207,66.0,71.0,68.0,60.0,59.0,65,75,675000.0,2000.0
+S. Bain,Scotland,Dundee FC,GK ,25,1051,68.0,65.0,58.0,62.0,67.0,65,71,525000.0,2000.0
+S. Arai,Japan,Kawasaki Frontale,GK ,28,1070,66.0,63.0,58.0,63.0,66.0,65,65,375000.0,2000.0
+A. Fernández,Mexico,Necaxa,GK ,29,1035,64.0,64.0,61.0,66.0,65.0,65,65,375000.0,12000.0
+E. Birniçan,Turkey,Kasimpaşa SK,GK ,28,1126,58.0,60.0,53.0,73.0,72.0,65,65,375000.0,4000.0
+I. Groothuizen,Netherlands,ADO Den Haag,GK ,20,965,65.0,61.0,67.0,65.0,68.0,65,75,675000.0,2000.0
+G. Marinelli,Argentina,Colon de Santa Fe,GK ,28,1014,65.0,62.0,66.0,65.0,67.0,65,68,475000.0,3000.0
+P. Wiegers,Germany,SG Dynamo Dresden,GK ,27,1072,64.0,65.0,60.0,61.0,69.0,65,66,425000.0,3000.0
+W. Mosquera,Colombia,Jaguares Fútbol Club,GK ,32,1051,65.0,61.0,65.0,63.0,71.0,65,65,300000.0,1000.0
+A. Filtsov,Russia,Rubin Kazan,GK ,27,1099,64.0,58.0,65.0,65.0,67.0,65,67,450000.0,9000.0
+Peter Abradanel,Brazil,Associação Atlética Ponte Preta,GK ,29,906,57.0,70.0,62.0,75.0,55.0,65,65,375000.0,4000.0
+T. Acar,Turkey,Medicana Sivasspor,GK ,31,1182,60.0,62.0,67.0,51.0,78.0,65,65,325000.0,3000.0
+N. Körber,Germany,SC Preußen Münster,GK ,20,1015,65.0,63.0,63.0,63.0,67.0,65,77,775000.0,4000.0
+P. Dahlberg,Sweden,IFK Göteborg,GK ,18,922,64.0,62.0,65.0,65.0,67.0,65,78,775000.0,1000.0
+E. Alfonso,Italy,Cittadella,GK ,29,1233,63.0,66.0,53.0,64.0,65.0,65,66,425000.0,1000.0
+Soriano,Spain,Sevilla Atlético,GK ,19,1083,69.0,63.0,59.0,58.0,69.0,65,75,650000.0,1000.0
+Dani Sotres,Spain,RC Celta de Vigo,GK ,24,1218,72.0,62.0,67.0,51.0,73.0,65,71,550000.0,4000.0
+J. McCarthy,United States,Philadelphia Union,GK ,24,1016,66.0,64.0,58.0,63.0,68.0,65,71,550000.0,2000.0
+A. Keita,Sweden,Östersunds FK,GK ,30,930,74.0,58.0,75.0,55.0,69.0,65,65,350000.0,1000.0
+J. Steer,England,Aston Villa,GK ,24,1079,66.0,63.0,61.0,62.0,69.0,65,71,550000.0,6000.0
+G. Kobel,Switzerland,TSG 1899 Hoffenheim,GK ,19,896,68.0,64.0,55.0,63.0,66.0,65,81,950000.0,3000.0
+Ham Seok Min,Korea Republic,Suwon Samsung Bluewings,GK ,23,1085,65.0,64.0,68.0,65.0,65.0,65,72,550000.0,2000.0
+M. Solís,Colombia,Independiente Santa Fe,GK ,34,955,61.0,64.0,72.0,66.0,62.0,65,65,220000.0,1000.0
+G. Marchegiani,Italy,Ferrara (SPAL),GK ,21,927,71.0,63.0,57.0,62.0,64.0,65,79,975000.0,2000.0
+C. Vargas,Colombia,Atletico Nacional Medellin,GK ,27,1080,66.0,64.0,55.0,64.0,63.0,65,67,450000.0,1000.0
+T. Knoflach,Austria,SK Rapid Wien,GK ,23,1112,66.0,60.0,61.0,65.0,71.0,65,71,550000.0,4000.0
+Assis,Brazil,Boavista FC,GK ,27,1037,66.0,61.0,66.0,63.0,68.0,65,65,375000.0,2000.0
+T. Hayashi,Japan,Sanfrecce Hiroshima,GK ,34,932,63.0,65.0,62.0,66.0,66.0,65,65,220000.0,3000.0
+A. Al Enezi,Saudi Arabia,Al Nassr,GK ,26,1093,66.0,60.0,62.0,68.0,67.0,65,66,425000.0,8000.0
+E. Bugge Pettersen,Norway,Strømsgodset IF,GK ,37,1122,62.0,64.0,60.0,64.0,63.0,65,65,40000.0,1000.0
+Palatsí,Spain,C.D. Leonesa S.A.D.,GK ,29,1191,75.0,60.0,59.0,56.0,71.0,65,67,450000.0,2000.0
+M. Schulze Niehues,Germany,SC Preußen Münster,GK ,28,1070,65.0,65.0,62.0,65.0,65.0,65,65,375000.0,1000.0
+J. Chunga,Colombia,CPD Junior Barranquilla,GK ,25,1073,70.0,62.0,66.0,58.0,69.0,65,69,500000.0,1000.0
+C. Früchtl,Germany,FC Bayern Munich,GK ,17,903,68.0,65.0,66.0,64.0,68.0,65,86,975000.0,6000.0
+H. Zeinstra,Netherlands,Heracles Almelo,GK ,27,1071,64.0,65.0,60.0,65.0,66.0,65,67,450000.0,3000.0
+No Dong Geon,Korea Republic,Pohang Steelers,GK ,25,1095,68.0,61.0,65.0,61.0,69.0,65,70,525000.0,2000.0
+P. Pentke,Germany, SSV Jahn Regensburg,GK ,32,1195,67.0,61.0,64.0,57.0,69.0,65,65,300000.0,3000.0
+B. Bellot,Germany,Brøndby IF,GK ,26,1133,66.0,60.0,71.0,59.0,70.0,65,66,425000.0,4000.0
+F. Kurto,Poland,Roda JC Kerkrade,GK ,26,1089,68.0,60.0,55.0,64.0,67.0,65,67,450000.0,3000.0
+L. Bailly,Belgium,Royal Excel Mouscron,GK ,31,1140,63.0,63.0,67.0,64.0,64.0,65,65,325000.0,3000.0
+Carlos Henriques,Portugal,Portimonense SC,GK ,23,955,64.0,66.0,64.0,63.0,66.0,65,70,525000.0,2000.0
+Óscar Whalley,Spain,Real Sporting de Gijón,GK ,23,1137,66.0,65.0,72.0,63.0,66.0,65,70,525000.0,2000.0
+J. Martínez,Colombia,Envigado FC,GK ,23,1073,64.0,66.0,61.0,65.0,64.0,65,71,550000.0,1000.0
+B. Geens,Belgium,Sporting Lokeren,GK ,21,1073,62.0,68.0,55.0,61.0,68.0,65,74,650000.0,2000.0
+Ezkieta,Spain,FC Barcelona B,GK ,20,1096,68.0,60.0,62.0,61.0,67.0,65,79,975000.0,1000.0
+F. Lanzillotta,Argentina,Argentinos Juniors,GK ,24,982,66.0,65.0,61.0,63.0,68.0,65,73,600000.0,2000.0
+S. Moore,England,Sheffield United,GK ,27,1089,65.0,61.0,58.0,65.0,66.0,65,68,450000.0,9000.0
+E. Palos,Mexico,Tigres U.A.N.L.,GK ,31,1054,65.0,51.0,54.0,70.0,68.0,65,65,325000.0,12000.0
+A. Poggenborg,Germany,SC Fortuna Köln,GK ,33,1056,61.0,66.0,53.0,67.0,62.0,65,65,270000.0,1000.0
+J. Lillis,England,Rochdale,GK ,30,1110,66.0,63.0,69.0,58.0,68.0,65,65,350000.0,2000.0
+T. Morita,Japan,Albirex Niigata,GK ,26,910,65.0,63.0,63.0,67.0,67.0,65,67,450000.0,1000.0
+Pedro Silva,Portugal,Sporting CP,GK ,20,939,69.0,58.0,59.0,59.0,67.0,65,77,775000.0,2000.0
+D. Khomich,Russia,Amkar Perm,GK ,32,1070,58.0,65.0,68.0,66.0,67.0,65,65,300000.0,5000.0
+G. Montoya,Argentina,Belgrano de Córdoba,GK ,34,1112,69.0,55.0,65.0,68.0,59.0,65,65,220000.0,3000.0
+M. Castro,Uruguay,Unión de Santa Fe,GK ,29,1060,65.0,60.0,59.0,65.0,65.0,65,65,375000.0,3000.0
+I. Radu,Romania,Avellino,GK ,20,984,69.0,62.0,65.0,62.0,71.0,65,77,775000.0,8000.0
+S. López,Argentina,Jaguares Fútbol Club,GK ,31,1050,62.0,65.0,56.0,64.0,62.0,65,65,325000.0,1000.0
+A. Collin,England,Notts County,GK ,32,1115,66.0,59.0,57.0,65.0,70.0,65,65,300000.0,4000.0
+F. Crivelli,Argentina,Club Atlético Tigre,GK ,35,1093,64.0,62.0,67.0,68.0,57.0,65,65,130000.0,2000.0
+D. Novoa,Colombia,La Equidad,GK ,28,1126,59.0,76.0,72.0,62.0,58.0,65,67,450000.0,1000.0
+L. Zingerle,Germany,SC Paderborn 07,GK ,23,932,65.0,64.0,61.0,59.0,69.0,65,72,550000.0,1000.0
+José Perales,Spain,Gimnàstic de Tarragona,GK ,24,1066,62.0,64.0,65.0,68.0,67.0,65,71,550000.0,2000.0
+M. Jiménez,Mexico,Guadalajara,GK ,27,1011,65.0,66.0,65.0,64.0,67.0,65,67,450000.0,10000.0
+B. Samba,Congo,SM Caen,GK ,23,1034,66.0,62.0,57.0,61.0,67.0,65,69,500000.0,4000.0
+Yoo Hyun,Korea Republic,FC Seoul,GK ,32,1169,69.0,53.0,74.0,66.0,64.0,65,65,300000.0,2000.0
+G. Allison,Mexico,Cruz Azul,GK ,26,1078,64.0,66.0,65.0,65.0,64.0,65,66,425000.0,6000.0
+H. Shaian,Saudi Arabia,Al Nassr,GK ,28,1052,65.0,63.0,59.0,65.0,66.0,65,65,375000.0,8000.0
+A. Doukha,Algeria,Ohod Club,GK ,30,1064,65.0,62.0,62.0,61.0,71.0,65,65,350000.0,5000.0
+D. Petković,Montenegro,FC Lorient,GK ,24,896,68.0,65.0,62.0,65.0,67.0,65,70,525000.0,2000.0
+J. Coppens,Belgium,FC Carl Zeiss Jena,GK ,26,1109,68.0,63.0,66.0,58.0,69.0,65,67,450000.0,1000.0
+C. Källqvist,Sweden,BK Häcken,GK ,33,1017,55.0,70.0,72.0,69.0,59.0,65,65,270000.0,1000.0
+M. Al Furayj,Saudi Arabia,Al Fayha,GK ,29,1099,66.0,60.0,58.0,64.0,67.0,64,64,300000.0,5000.0
+T. Naurin,Sweden,GIF Sundsvall,GK ,33,1014,65.0,64.0,67.0,64.0,62.0,64,64,230000.0,1000.0
+D. Davari,Iran,MSV Duisburg,GK ,29,952,67.0,53.0,69.0,64.0,67.0,64,64,300000.0,2000.0
+C. Acevedo,Mexico,Santos Laguna,GK ,21,905,64.0,63.0,64.0,63.0,64.0,64,69,450000.0,3000.0
+M. Sandberg,Sweden,Vålerenga Fotball,GK ,26,1042,65.0,60.0,58.0,63.0,67.0,64,68,400000.0,1000.0
+Q. Beunardeau,France,FC Metz,GK ,23,1143,63.0,61.0,58.0,58.0,71.0,64,69,425000.0,3000.0
+W. Vendil,Chile,Curicó Unido,GK ,33,1034,59.0,47.0,66.0,72.0,74.0,64,64,230000.0,1000.0
+I. Jónsson,Iceland,Sandefjord Fotball,GK ,27,1088,64.0,61.0,58.0,63.0,64.0,64,66,375000.0,1000.0
+Andrés Prieto,Spain,Málaga CF,GK ,23,1053,61.0,65.0,62.0,67.0,61.0,64,74,550000.0,4000.0
+O. Özenç,Turkey,Antalyaspor,GK ,24,1053,62.0,63.0,62.0,65.0,66.0,64,69,425000.0,3000.0
+M. Oparin,Russia,FC Tosno,GK ,24,875,60.0,64.0,57.0,66.0,69.0,64,71,475000.0,4000.0
+Lee Bum Young,Korea Republic,Gangwon FC,GK ,28,1059,62.0,64.0,63.0,65.0,63.0,64,64,325000.0,2000.0
+L. Zidane,France,Real Madrid CF,GK ,19,959,66.0,64.0,62.0,63.0,62.0,64,73,500000.0,10000.0
+L. Fernandes,Denmark,SønderjyskE,GK ,24,1099,66.0,61.0,62.0,66.0,60.0,64,71,475000.0,3000.0
+L. Vigouroux,Chile,Swindon Town,GK ,23,1063,66.0,60.0,62.0,60.0,69.0,64,72,500000.0,3000.0
+A. Nübel,Germany,FC Schalke 04,GK ,20,1091,64.0,58.0,63.0,61.0,68.0,64,78,825000.0,5000.0
+Edu Frias,Spain,RCD Espanyol,GK ,18,896,64.0,66.0,61.0,62.0,66.0,64,78,750000.0,2000.0
+B. Murphy,Republic of Ireland,Cardiff City,GK ,34,1004,65.0,59.0,56.0,65.0,67.0,64,64,180000.0,6000.0
+P. Izzo,Australia,Adelaide United,GK ,22,1090,66.0,60.0,64.0,63.0,68.0,64,70,450000.0,1000.0
+S. D'Angelo,Argentina,Newell's Old Boys,GK ,28,969,63.0,61.0,76.0,64.0,65.0,64,65,375000.0,4000.0
+J. Mitchell,England,Derby County,GK ,22,1254,63.0,62.0,63.0,63.0,65.0,64,75,600000.0,9000.0
+A. Kofler,Austria,Wolfsberger AC,GK ,30,1049,64.0,68.0,57.0,67.0,60.0,64,64,290000.0,3000.0
+A. Mandrea,France,Angers SCO,GK ,20,1054,68.0,56.0,58.0,60.0,72.0,64,71,475000.0,4000.0
+C. Diop,Senegal,LA Galaxy,GK ,23,970,69.0,58.0,63.0,57.0,72.0,64,70,450000.0,2000.0
+M. Gillespie,England,Walsall,GK ,25,1106,64.0,63.0,62.0,62.0,65.0,64,69,425000.0,2000.0
+R. Sattelmaier,Germany,Bradford City,GK ,29,1084,66.0,59.0,63.0,64.0,65.0,64,65,350000.0,3000.0
+G. Gallon,France,US Orléans Loiret Football,GK ,24,1054,64.0,62.0,58.0,64.0,69.0,64,71,475000.0,1000.0
+W. Pawłowski,Poland,Górnik Zabrze,GK ,24,932,64.0,62.0,51.0,63.0,64.0,64,68,425000.0,1000.0
+Q. Westberg,United States,AJ Auxerre,GK ,31,1034,64.0,62.0,61.0,61.0,64.0,64,64,270000.0,2000.0
+A. Jovanović,Serbia,Aarhus GF,GK ,24,868,66.0,62.0,63.0,64.0,65.0,64,69,425000.0,3000.0
+Tomeu Nadal,Spain,Albacete Balompié,GK ,28,967,60.0,66.0,63.0,65.0,63.0,64,65,375000.0,2000.0
+P. Tsintotas,Greece,AEK Athens,GK ,19,961,64.0,62.0,60.0,59.0,67.0,64,72,475000.0,1000.0
+N. Hengelman,Netherlands,FC Twente,GK ,27,978,60.0,61.0,69.0,66.0,66.0,64,66,375000.0,3000.0
+Caio,Brazil,CD Feirense,GK ,26,1156,58.0,62.0,65.0,67.0,65.0,64,66,375000.0,2000.0
+R. Zentner,Germany,1. FSV Mainz 05,GK ,22,1118,65.0,62.0,60.0,61.0,67.0,64,74,550000.0,5000.0
+U. Çakır,Turkey,Trabzonspor,GK ,21,1158,64.0,62.0,64.0,60.0,67.0,64,71,475000.0,4000.0
+S. Čupić,Serbia,Sarpsborg 08 FF,GK ,23,893,64.0,63.0,64.0,62.0,64.0,64,70,450000.0,1000.0
+L. Price,Wales,Rotherham United,GK ,32,1126,64.0,64.0,59.0,63.0,63.0,64,64,260000.0,3000.0
+L. Crosta,Italy,Cagliari,GK ,19,922,63.0,63.0,64.0,63.0,65.0,64,79,800000.0,4000.0
+Nelson Freitosa,Brazil,Associação Chapecoense de Futebol,GK ,33,1034,59.0,47.0,66.0,72.0,74.0,64,64,230000.0,4000.0
+L. Zima,Czech Republic,Genoa,GK ,23,1083,68.0,59.0,63.0,61.0,64.0,64,71,475000.0,5000.0
+A. Jakubech,Slovakia,LOSC Lille,GK ,20,951,63.0,62.0,64.0,61.0,66.0,64,75,600000.0,6000.0
+M. Vigorito,Italy,Frosinone,GK ,27,1033,63.0,60.0,55.0,60.0,72.0,64,64,300000.0,1000.0
+K. Kamiński,Poland,Júbilo Iwata,GK ,26,1043,64.0,63.0,66.0,66.0,62.0,64,68,400000.0,2000.0
+A. Lie,Norway,Aalesunds FK,GK ,29,1123,66.0,63.0,61.0,57.0,70.0,64,64,300000.0,1000.0
+K. Debaty,Belgium,Royal Antwerp FC,GK ,28,1164,67.0,62.0,56.0,61.0,66.0,64,66,375000.0,3000.0
+O. Linnér,Sweden,AIK Solna,GK ,20,996,68.0,58.0,53.0,65.0,66.0,64,74,575000.0,2000.0
+P. Jones,England,Norwich City,GK ,31,1043,69.0,60.0,61.0,61.0,67.0,64,64,270000.0,7000.0
+D. van Crooij,Netherlands,VVV-Venlo,GK ,26,882,66.0,65.0,60.0,65.0,63.0,64,66,375000.0,3000.0
+G. Vailati,Switzerland,FC Basel,GK ,36,996,63.0,66.0,58.0,66.0,61.0,64,64,60000.0,5000.0
+Kang Hyeon Mu,Korea Republic,Pohang Steelers,GK ,22,1097,65.0,68.0,62.0,66.0,71.0,64,74,550000.0,2000.0
+Leonardo,Brazil,Portimonense SC,GK ,24,1058,62.0,62.0,62.0,62.0,68.0,64,70,450000.0,2000.0
+B. Magaña,United States,U.N.A.M.,GK ,23,1110,62.0,66.0,58.0,63.0,61.0,64,71,475000.0,4000.0
+V. Vasic,Serbia,Grasshopper Club Zürich,GK ,27,1108,68.0,51.0,67.0,66.0,68.0,64,66,375000.0,4000.0
+A. Cairns,England,Fleetwood Town,GK ,24,971,62.0,60.0,57.0,63.0,65.0,64,69,425000.0,2000.0
+G. Sandomierski,Poland,Cracovia,GK ,27,1217,58.0,63.0,67.0,63.0,67.0,64,66,375000.0,2000.0
+Y. Urbina,Mexico,Monarcas Morelia,GK ,34,1119,65.0,59.0,62.0,64.0,66.0,64,64,180000.0,12000.0
+M. Ingram,England,Northampton Town,GK ,23,988,68.0,62.0,60.0,64.0,66.0,64,72,500000.0,5000.0
+B. Stuver,United States,Columbus Crew SC,GK ,26,1066,67.0,64.0,62.0,62.0,64.0,64,68,400000.0,2000.0
+Y. Aygün,Turkey,Göztepe,GK ,21,972,65.0,64.0,59.0,63.0,65.0,64,69,450000.0,3000.0
+B. Alnwick,England,Bolton Wanderers,GK ,30,995,62.0,60.0,58.0,62.0,71.0,64,64,290000.0,7000.0
+A. Jaakkola,Finland,Reading,GK ,30,1162,67.0,60.0,64.0,63.0,65.0,64,64,290000.0,7000.0
+J. Bond,England,Peterborough United,GK ,24,1142,65.0,61.0,61.0,62.0,64.0,64,69,425000.0,6000.0
+Ricardo Fernandes,Portugal,CF Os Belenenses,GK ,22,866,61.0,61.0,63.0,64.0,65.0,64,67,400000.0,2000.0
+M. Levashov,Russia,Arsenal Tula,GK ,25,863,63.0,61.0,57.0,61.0,67.0,64,68,425000.0,5000.0
+D. Albil,Argentina,Independiente,GK ,37,1011,63.0,61.0,66.0,71.0,62.0,64,64,30000.0,3000.0
+J. Young,England,Brisbane Roar,GK ,31,1143,65.0,59.0,60.0,63.0,65.0,64,64,270000.0,2000.0
+Ricardo Moura,Portugal,Tondela,GK ,28,899,68.0,66.0,63.0,63.0,61.0,64,64,325000.0,2000.0
+B. Roche,Republic of Ireland,Morecambe,GK ,35,1028,64.0,65.0,62.0,69.0,63.0,64,64,110000.0,2000.0
+R. Sánchez,Mexico,Chicago Fire Soccer Club,GK ,23,1056,72.0,62.0,62.0,57.0,68.0,64,73,525000.0,2000.0
+G. Woods,England,Hamilton Academical FC,GK ,27,1132,67.0,63.0,60.0,58.0,68.0,64,68,400000.0,2000.0
+A. Smith,England,Bristol Rovers,GK ,24,949,63.0,61.0,64.0,63.0,69.0,64,71,475000.0,2000.0
+L. Daniels,England,Brentford,GK ,29,1116,67.0,59.0,59.0,62.0,68.0,64,64,300000.0,9000.0
+N. Jackers,Belgium,KRC Genk,GK ,19,1053,65.0,64.0,59.0,60.0,65.0,64,75,575000.0,2000.0
+R. Koczor,Germany,FC Carl Zeiss Jena,GK ,28,1285,62.0,58.0,60.0,68.0,67.0,64,65,375000.0,1000.0
+A. Fulignati,Italy,Cesena,GK ,22,1127,63.0,63.0,61.0,65.0,64.0,64,71,475000.0,1000.0
+Alfonso Herrero,Spain,Real Oviedo,GK ,23,1076,59.0,60.0,63.0,64.0,68.0,64,74,550000.0,2000.0
+K. Kawata,Japan,Ventforet Kofu,GK ,29,1065,59.0,64.0,59.0,63.0,66.0,64,64,300000.0,1000.0
+M. Gostomski,Poland,Korona Kielce,GK ,28,1088,64.0,60.0,55.0,64.0,68.0,64,65,375000.0,2000.0
+J. Houwen,Netherlands,Vitesse,GK ,21,1040,67.0,62.0,61.0,60.0,69.0,64,73,525000.0,2000.0
+D. Trela,Poland,Termalica Bruk-Bet Nieciecza,GK ,27,1063,64.0,61.0,59.0,62.0,67.0,64,64,300000.0,2000.0
+O. Söderberg,Sweden,Kalmar FF,GK ,26,980,61.0,66.0,66.0,65.0,64.0,64,66,375000.0,1000.0
+T. Berni,Italy,Inter,GK ,34,941,64.0,60.0,59.0,64.0,66.0,64,64,180000.0,11000.0
+F. Torgnascioli,Uruguay,Lorca Deportiva CF,GK ,26,905,64.0,61.0,63.0,60.0,71.0,64,68,400000.0,2000.0
+O. Schnitzler,Germany,Hallescher FC,GK ,21,1010,61.0,61.0,64.0,63.0,66.0,64,73,525000.0,1000.0
+I. Pettersson,Sweden,Halmstads BK,GK ,20,916,68.0,60.0,78.0,55.0,66.0,64,74,575000.0,1000.0
+Luís Ribeiro,Portugal,Estoril Praia,GK ,25,1085,67.0,63.0,55.0,58.0,66.0,64,68,425000.0,2000.0
+J. Wildsmith,England,Sheffield Wednesday,GK ,21,1109,65.0,66.0,66.0,65.0,63.0,64,78,825000.0,8000.0
+J. Haugaard,Denmark,Stoke City,GK ,25,1016,64.0,65.0,57.0,61.0,64.0,64,70,450000.0,11000.0
+N. Kato,Japan,Omiya Ardija,GK ,32,935,59.0,59.0,62.0,64.0,69.0,64,64,260000.0,1000.0
+E. Johansen,Norway,New York City Football Club,GK ,24,1038,60.0,63.0,65.0,61.0,69.0,64,70,450000.0,2000.0
+W. Abdullah,Saudi Arabia,Al Nassr,GK ,31,1050,63.0,61.0,69.0,61.0,66.0,64,64,270000.0,8000.0
+Iván Villar,Spain,RC Celta de Vigo,GK ,19,1018,69.0,60.0,63.0,59.0,68.0,64,75,575000.0,2000.0
+T. Carson,Northern Ireland,Motherwell,GK ,29,1105,64.0,60.0,66.0,61.0,68.0,64,64,300000.0,2000.0
+R. Rúnarsson,Iceland,FC Nordsjælland,GK ,22,1082,66.0,66.0,67.0,62.0,65.0,64,74,550000.0,3000.0
+A. Noppert,Netherlands,NAC Breda,GK ,23,1158,61.0,65.0,62.0,65.0,61.0,64,69,425000.0,2000.0
+K. Pilarz,Poland,Arka Gdynia,GK ,36,1099,63.0,61.0,60.0,64.0,67.0,64,64,60000.0,1000.0
+S. Paul,India,,GK ,30,1066,59.0,58.0,62.0,71.0,63.0,64,64,0.0,0.0
+Z. Alomerović,Serbia,Korona Kielce,GK ,26,1029,64.0,60.0,64.0,62.0,68.0,64,67,400000.0,2000.0
+J. Bava,Uruguay,Chicago Fire Soccer Club,GK ,35,1099,64.0,64.0,63.0,62.0,68.0,64,64,110000.0,1000.0
+R. Quiñonez,Bolivia,,GK ,25,1099,66.0,63.0,66.0,62.0,66.0,64,67,0.0,0.0
+G. Moss,New Zealand,Newcastle Jets,GK ,34,1054,63.0,62.0,62.0,62.0,65.0,64,64,180000.0,1000.0
+J. Kean,England,Sheffield Wednesday,GK ,26,1032,64.0,60.0,55.0,64.0,62.0,64,67,400000.0,11000.0
+T. Duffner,Germany,Werder Bremen II,GK ,33,1079,64.0,58.0,56.0,65.0,66.0,64,64,230000.0,1000.0
+Adrián López,Spain,RCD Espanyol,GK ,18,934,60.0,61.0,63.0,67.0,69.0,64,76,575000.0,2000.0
+A. Kristiansen,Norway,Sarpsborg 08 FF,GK ,27,1037,64.0,61.0,61.0,64.0,66.0,64,66,375000.0,1000.0
+D. Rusov,Slovakia,Piast Gliwice,GK ,24,1173,59.0,65.0,65.0,66.0,64.0,64,66,400000.0,2000.0
+T. Zwarthoed,Netherlands,Excelsior,GK ,34,1016,70.0,67.0,68.0,63.0,52.0,64,64,180000.0,3000.0
+E. Baburin,Russia,Zenit St. Petersburg,GK ,23,1056,64.0,60.0,62.0,63.0,67.0,64,72,500000.0,9000.0
+Landeta,Spain,Deportivo Alavés,GK ,21,938,64.0,68.0,61.0,60.0,67.0,64,74,575000.0,4000.0
+S. Walker,England,Colchester United,GK ,25,1053,69.0,60.0,59.0,66.0,63.0,64,69,425000.0,4000.0
+I. Lawlor,Republic of Ireland,Doncaster Rovers,GK ,22,1164,65.0,64.0,62.0,62.0,66.0,64,72,500000.0,2000.0
+J. Hamilton,Scotland,Heart of Midlothian,GK ,23,1081,66.0,60.0,55.0,65.0,68.0,64,72,500000.0,2000.0
+L. Sánchez,Mexico,Alianza Petrolera,GK ,27,952,67.0,58.0,53.0,66.0,66.0,64,65,350000.0,1000.0
+L. McGee,England,Portsmouth,GK ,21,1010,67.0,62.0,59.0,60.0,66.0,64,74,575000.0,2000.0
+S. Minelli,Italy,Brescia,GK ,23,1067,64.0,60.0,55.0,62.0,67.0,64,69,425000.0,1000.0
+E. Oelschlägel,Germany,Werder Bremen II,GK ,21,998,65.0,57.0,57.0,59.0,66.0,63,72,425000.0,1000.0
+K. Jałocha,Poland,Legia Warszawa,GK ,26,1110,63.0,57.0,68.0,72.0,61.0,63,67,325000.0,2000.0
+A. Engaña,Chile,Club de Deportes Temuco,GK ,33,1370,68.0,43.0,64.0,64.0,72.0,63,63,190000.0,1000.0
+B. de Jong,Netherlands,RSC Anderlecht,GK ,23,1170,62.0,58.0,63.0,60.0,65.0,63,68,350000.0,3000.0
+A. Desmas,France,Chamois Niortais FC,GK ,23,948,64.0,64.0,60.0,62.0,65.0,63,69,375000.0,1000.0
+M. Sourzac,France,Nîmes Olympique,GK ,25,1130,63.0,62.0,57.0,60.0,65.0,63,66,325000.0,1000.0
+M. Dyngeland,Norway,Sogndal,GK ,21,1066,65.0,62.0,57.0,60.0,64.0,63,72,425000.0,1000.0
+I. Arboleda,Colombia,Banfield,GK ,21,1129,73.0,58.0,68.0,56.0,69.0,63,73,450000.0,2000.0
+R. Melgrati,Italy,Cesena,GK ,23,1062,63.0,60.0,61.0,62.0,63.0,63,71,400000.0,1000.0
+A. Santurro,Italy,Bologna,GK ,25,1098,67.0,64.0,67.0,61.0,63.0,63,66,325000.0,6000.0
+A. Brunst,Germany,1. FC Magdeburg,GK ,21,1017,64.0,61.0,60.0,59.0,64.0,63,73,450000.0,1000.0
+Alminho Boas,Brazil,Vitória ,GK ,25,885,56.0,72.0,62.0,63.0,63.0,63,63,260000.0,2000.0
+Pedro,Spain,Real Betis Balompié,GK ,22,1127,59.0,64.0,54.0,67.0,62.0,63,75,525000.0,3000.0
+D. Vaca,Bolivia,,GK ,39,1044,65.0,59.0,64.0,63.0,64.0,63,63,0.0,0.0
+T. Mikkelsen,Denmark,Odense Boldklub,GK ,33,1105,61.0,63.0,65.0,63.0,65.0,63,63,190000.0,2000.0
+A. Sala,Italy,Ternana,GK ,23,1088,64.0,62.0,58.0,59.0,68.0,63,68,350000.0,1000.0
+S. Marinovic,New Zealand,Vancouver Whitecaps FC,GK ,25,1106,63.0,64.0,55.0,60.0,61.0,63,68,350000.0,1000.0
+R. Descamps,France,Paris Saint-Germain,GK ,21,841,64.0,61.0,59.0,65.0,60.0,63,71,400000.0,6000.0
+T. Lee,England,Chesterfield,GK ,31,1122,59.0,59.0,57.0,64.0,66.0,63,63,220000.0,2000.0
+U. Yuvakuran,Turkey,Beşiktaş JK,GK ,19,940,64.0,60.0,59.0,60.0,64.0,63,79,650000.0,3000.0
+J. Aylagas,Argentina,Colon de Santa Fe,GK ,21,1008,63.0,64.0,62.0,60.0,65.0,63,71,400000.0,1000.0
+B. Garratt,England,Crewe Alexandra,GK ,23,1070,67.0,57.0,56.0,62.0,68.0,63,72,425000.0,2000.0
+J. Kempin,United States,LA Galaxy,GK ,24,1086,64.0,63.0,64.0,60.0,63.0,63,68,350000.0,1000.0
+M. Şengezer,Turkey,Bursaspor,GK ,20,927,63.0,60.0,57.0,61.0,66.0,63,74,500000.0,2000.0
+T. Boss,Germany,SC Fortuna Köln,GK ,24,1075,68.0,63.0,51.0,56.0,69.0,63,70,375000.0,1000.0
+D. Zibung,Switzerland,FC Luzern,GK ,33,1078,65.0,60.0,53.0,62.0,65.0,63,63,190000.0,2000.0
+A. Türkaslan,Turkey,Osmanlıspor,GK ,22,866,64.0,62.0,64.0,55.0,68.0,63,70,375000.0,2000.0
+L. Reddy,Australia,Perth Glory,GK ,35,1029,63.0,59.0,58.0,63.0,63.0,63,63,90000.0,1000.0
+T. Erlandsson,Sweden,AFC Eskilstuna,GK ,20,1024,61.0,63.0,72.0,60.0,59.0,63,75,525000.0,3000.0
+C. Neal,England,Fleetwood Town,GK ,31,1197,61.0,62.0,60.0,62.0,62.0,63,63,220000.0,2000.0
+D. Carvajal,Costa Rica,Albacete Balompié,GK ,28,895,64.0,61.0,62.0,63.0,60.0,63,63,260000.0,2000.0
+Jang Dae Hee,Korea Republic,Ulsan Hyundai Horang-i,GK ,23,1042,63.0,61.0,57.0,61.0,63.0,63,73,450000.0,1000.0
+Yang Han Been,Korea Republic,FC Seoul,GK ,25,1073,68.0,62.0,61.0,62.0,62.0,63,66,325000.0,1000.0
+M. McNulty,Republic of Ireland,Cork City,GK ,36,1030,68.0,60.0,54.0,62.0,61.0,63,63,50000.0,1000.0
+L. Corti,Argentina,San Martín de San Juan,GK ,36,860,61.0,58.0,56.0,74.0,63.0,63,63,50000.0,1000.0
+Cantero,Spain,Villarreal CF,GK ,22,1198,53.0,69.0,59.0,68.0,64.0,63,72,425000.0,3000.0
+J. Shea,England,Luton Town,GK ,26,919,64.0,61.0,57.0,58.0,67.0,63,68,350000.0,3000.0
+M. Dúbravka,Slovakia,Sparta Praha,GK ,28,1094,59.0,64.0,53.0,65.0,67.0,63,63,260000.0,1000.0
+F. Ruberto,Switzerland,FC Thun,GK ,24,1013,63.0,65.0,59.0,60.0,64.0,63,69,375000.0,2000.0
+A. Muric,Switzerland,Manchester City,GK ,18,1066,63.0,61.0,60.0,62.0,65.0,63,81,625000.0,5000.0
+A. Al Mazaidi,Saudi Arabia,Al Fateh,GK ,31,1005,59.0,68.0,66.0,63.0,59.0,63,63,220000.0,4000.0
+O. Fredrikson,Finland,Tromsø IL,GK ,35,1105,63.0,61.0,62.0,65.0,62.0,63,63,90000.0,1000.0
+M. Centeno,Mexico,Deportivo Toluca,GK ,27,1019,66.0,62.0,58.0,62.0,66.0,63,65,300000.0,3000.0
+Jung San,Korea Republic,Incheon United FC,GK ,28,1045,62.0,61.0,58.0,62.0,65.0,63,63,260000.0,1000.0
+M. Ratajczak,Germany,SC Paderborn 07,GK ,35,1031,62.0,64.0,35.0,64.0,64.0,63,63,90000.0,1000.0
+M. Caillard,France,En Avant de Guingamp,GK ,23,994,63.0,59.0,57.0,58.0,65.0,63,69,375000.0,3000.0
+C. Pym,England,Exeter City,GK ,22,1094,64.0,59.0,65.0,58.0,69.0,63,74,500000.0,2000.0
+D. Bouzanis,Australia,Melbourne City,GK ,26,1143,63.0,62.0,60.0,62.0,62.0,63,64,300000.0,2000.0
+Thierry Graça,Cape Verde,Estoril Praia,GK ,22,897,64.0,60.0,54.0,64.0,61.0,63,72,425000.0,1000.0
+L. García,Colombia,Rayo Vallecano,GK ,19,1207,66.0,62.0,59.0,64.0,63.0,63,72,425000.0,1000.0
+S. Slocombe,England,Bristol Rovers,GK ,29,1082,65.0,57.0,58.0,62.0,66.0,63,63,250000.0,2000.0
+M. Svilar,Belgium,SL Benfica,GK ,17,1184,63.0,58.0,63.0,61.0,64.0,63,83,600000.0,1000.0
+S. Rasmussen,Denmark,Aarhus GF,GK ,34,1075,61.0,63.0,55.0,65.0,64.0,63,63,150000.0,2000.0
+Carlos Travisso,Brazil,Atlético Clube Goianiense,GK ,33,1145,68.0,43.0,64.0,64.0,72.0,63,63,190000.0,2000.0
+S. Callamand,France,Bourg en Bresse Péronnas 01,GK ,32,1133,64.0,59.0,61.0,61.0,66.0,63,63,210000.0,1000.0
+Q. Braat,France,FC Nantes,GK ,19,851,68.0,63.0,61.0,59.0,66.0,63,77,650000.0,1000.0
+A. Mosquera,Colombia,Deportivo Pasto,GK ,25,1055,67.0,56.0,58.0,62.0,65.0,63,67,350000.0,1000.0
+L. Martínez,Colombia,CD America de Cali,GK ,34,1080,59.0,64.0,58.0,64.0,59.0,63,63,150000.0,1000.0
+M. Tyler,England,Peterborough United,GK ,40,1051,67.0,56.0,56.0,65.0,61.0,63,63,20000.0,1000.0
+A. Berardi,Italy,Bari,GK ,26,1121,62.0,60.0,56.0,64.0,66.0,63,65,300000.0,1000.0
+D. Russo,Italy,F.B.C. Unione Venezia,GK ,29,1035,59.0,61.0,62.0,62.0,64.0,63,63,250000.0,1000.0
+C. Dobnik,Austria,Wolfsberger AC,GK ,30,1018,66.0,59.0,63.0,65.0,63.0,63,63,240000.0,2000.0
+R. Martínez,Argentina,Godoy Cruz,GK ,26,915,61.0,62.0,60.0,63.0,66.0,63,67,325000.0,2000.0
+I. Pomazun,Russia,CSKA Moscow,GK ,20,1009,62.0,64.0,68.0,60.0,66.0,63,71,400000.0,4000.0
+Nuno Macedo,Portugal,Moreirense FC,GK ,18,910,59.0,66.0,63.0,69.0,57.0,63,72,375000.0,1000.0
+D. Sappa,Argentina,Estudiantes de La Plata,GK ,22,975,52.0,63.0,68.0,71.0,56.0,63,72,425000.0,2000.0
+E. Guarna,Italy,Foggia,GK ,31,1073,62.0,62.0,50.0,58.0,66.0,63,63,220000.0,1000.0
+J. Devecchi,Argentina,San Lorenzo de Almagro,GK ,21,1074,64.0,60.0,57.0,62.0,65.0,63,73,450000.0,2000.0
+P. Köhn,Switzerland,RB Leipzig,GK ,19,903,64.0,63.0,60.0,66.0,63.0,63,81,650000.0,3000.0
+F. Al Masrahi,Saudi Arabia,Al Qadisiyah,GK ,24,1064,63.0,60.0,58.0,64.0,63.0,63,69,375000.0,2000.0
+R. te Loeke,Netherlands,Plymouth Argyle,GK ,28,1052,66.0,64.0,64.0,60.0,63.0,63,65,300000.0,2000.0
+Yang Hyung Mo,Korea Republic,Suwon Samsung Bluewings,GK ,25,1087,65.0,59.0,61.0,61.0,69.0,63,64,300000.0,1000.0
+L. Mocio,France,Olympique Lyonnais,GK ,23,1072,61.0,62.0,64.0,61.0,65.0,63,69,375000.0,6000.0
+E. Özbir,Turkey,Evkur Yeni Malatyaspor,GK ,27,1007,64.0,61.0,64.0,62.0,64.0,63,65,300000.0,2000.0
+R. Spiegel,Switzerland,Boavista FC,GK ,24,1176,61.0,62.0,61.0,63.0,64.0,63,69,375000.0,1000.0
+E. Redoga,Chile,San Luis de Quillota,GK ,25,932,56.0,72.0,62.0,63.0,63.0,63,63,260000.0,1000.0
+M. Miśkiewicz,Poland,CD Feirense,GK ,28,1071,61.0,64.0,48.0,69.0,63.0,63,64,300000.0,2000.0
+Filipe Mendes,Portugal,CF Os Belenenses,GK ,32,1021,64.0,61.0,59.0,62.0,63.0,63,63,210000.0,1000.0
+Y. Nesterenko,Russia,Rubin Kazan,GK ,26,1045,62.0,59.0,57.0,62.0,69.0,63,67,325000.0,6000.0
+F. Ben Mustapha,Tunisia,Al Shabab,GK ,28,1061,63.0,67.0,59.0,68.0,54.0,63,63,260000.0,5000.0
+J. Jones,England,Wigan Athletic,GK ,28,1041,64.0,62.0,63.0,66.0,63.0,63,63,260000.0,2000.0
+J. Castillo,Mexico,U.N.A.M.,GK ,22,938,63.0,62.0,65.0,60.0,63.0,63,69,375000.0,3000.0
+S. Müller,Germany,1. FC Köln,GK ,21,858,63.0,66.0,54.0,62.0,67.0,63,71,400000.0,3000.0
+A. Nigmatullin,Russia,Amkar Perm,GK ,26,1061,64.0,59.0,60.0,67.0,61.0,63,67,325000.0,3000.0
+M. Schlingermann,Republic of Ireland,Sligo Rovers,GK ,26,1100,65.0,60.0,61.0,61.0,64.0,63,67,325000.0,1000.0
+N. Bertrams,Netherlands,NAC Breda,GK ,24,1133,65.0,66.0,57.0,59.0,60.0,63,68,350000.0,1000.0
+E. Gertmonas,Lithuania,Stade Rennais FC,GK ,21,1100,67.0,57.0,56.0,57.0,71.0,63,76,575000.0,2000.0
+N. Soysal,France,Gençlerbirliği SK,GK ,19,916,65.0,65.0,64.0,63.0,65.0,63,80,650000.0,1000.0
+F. Al Subaiei,Saudi Arabia,Al Taawoun,GK ,34,1085,62.0,63.0,68.0,60.0,63.0,63,63,150000.0,3000.0
+J. Butez,France,Royal Excel Mouscron,GK ,22,1062,63.0,59.0,70.0,64.0,62.0,63,72,425000.0,4000.0
+P. Klewin,Germany,Rot-Weiß Erfurt,GK ,23,1034,58.0,62.0,55.0,64.0,64.0,63,69,375000.0,1000.0
+Jaume Valens,Spain,Lorca Deportiva CF,GK ,21,1082,61.0,64.0,61.0,59.0,62.0,63,70,375000.0,1000.0
+L. Souchaud,France,La Berrichonne de Châteauroux,GK ,21,1315,62.0,61.0,61.0,63.0,64.0,63,75,525000.0,1000.0
+G. Kongshavn,Norway,Tromsø IL,GK ,26,906,64.0,62.0,59.0,63.0,64.0,63,64,300000.0,1000.0
+J. Omlin,Switzerland,FC Luzern,GK ,23,1145,68.0,57.0,64.0,61.0,64.0,63,72,425000.0,2000.0
+M. Tørnes,Denmark,Vitesse,GK ,31,1171,61.0,62.0,59.0,62.0,62.0,63,63,220000.0,2000.0
+E. Ersu,Turkey,Fenerbahçe SK,GK ,23,1030,63.0,61.0,60.0,63.0,66.0,63,71,400000.0,7000.0
+T. Worra,United States,D.C. United,GK ,24,1064,65.0,59.0,68.0,65.0,66.0,63,66,325000.0,1000.0
+T. Vollnhofer,Austria,SKN St. Pölten,GK ,32,1098,67.0,64.0,59.0,66.0,58.0,63,63,210000.0,3000.0
+D. Henderson,England,Shrewsbury,GK ,20,1050,65.0,60.0,61.0,58.0,67.0,63,79,675000.0,9000.0
+S. Kiełpin,Poland,Wisła Płock,GK ,29,1082,64.0,63.0,65.0,63.0,63.0,63,63,250000.0,1000.0
+M. Al Anazi,Saudi Arabia,Al Batin,GK ,27,952,64.0,58.0,59.0,65.0,66.0,63,65,300000.0,2000.0
+F. Müller,Germany,1. FSV Mainz 05,GK ,19,1007,63.0,61.0,61.0,62.0,65.0,63,81,650000.0,2000.0
+K. Müller,Germany,SpVgg Unterhaching,GK ,26,1043,62.0,58.0,57.0,60.0,65.0,62,66,270000.0,1000.0
+E. Klenofsky,United States,D.C. United,GK ,22,1016,64.0,60.0,72.0,57.0,61.0,62,72,375000.0,1000.0
+Miguel Lázaro,Portugal,Vitória Setúbal,GK ,22,1005,60.0,64.0,55.0,63.0,61.0,62,68,300000.0,1000.0
+M. Havekotte,Netherlands,Excelsior,GK ,21,1077,64.0,62.0,60.0,60.0,65.0,62,72,375000.0,1000.0
+Fran,Spain,Jönköpings Södra IF,GK ,29,1000,63.0,58.0,49.0,53.0,67.0,62,62,200000.0,1000.0
+A. Dykstra,United States,Sporting Kansas City,GK ,31,1133,62.0,61.0,63.0,61.0,60.0,62,62,180000.0,1000.0
+Galván,Spain,CD Tenerife,GK ,24,1097,63.0,65.0,56.0,58.0,62.0,62,68,300000.0,1000.0
+Marco,Portugal,FC Paços de Ferreira,GK ,22,984,66.0,58.0,59.0,58.0,65.0,62,68,300000.0,1000.0
+J. Duncan,Australia,Newcastle Jets,GK ,24,1087,61.0,61.0,59.0,60.0,63.0,62,68,300000.0,1000.0
+S. Sy,Senegal,AS Monaco,GK ,21,1101,66.0,59.0,58.0,57.0,63.0,62,70,350000.0,3000.0
+T. Glover,Australia,Central Coast Mariners,GK ,19,881,64.0,62.0,60.0,55.0,64.0,62,78,525000.0,4000.0
+N. Iwadate,Japan,Urawa Red Diamonds,GK ,28,952,63.0,65.0,67.0,57.0,63.0,62,62,210000.0,2000.0
+Leandro Pestanha,Brazil,Avaí Futebol Clube,GK ,33,1086,61.0,64.0,71.0,55.0,68.0,62,62,150000.0,2000.0
+E. Zelazny,France,ES Troyes AC,GK ,25,946,65.0,53.0,50.0,64.0,69.0,62,66,280000.0,3000.0
+A. Tambakis,Greece,Atlanta United FC,GK ,24,988,63.0,62.0,60.0,61.0,64.0,62,67,290000.0,1000.0
+G. Rehak,Argentina,Independiente,GK ,24,901,63.0,55.0,55.0,64.0,61.0,62,70,325000.0,2000.0
+J. Ledesma,Argentina,Rosario Central,GK ,24,1065,62.0,59.0,64.0,58.0,65.0,62,67,290000.0,2000.0
+L. Watkowiak,Germany,SV Wehen Wiesbaden,GK ,21,919,65.0,59.0,64.0,60.0,66.0,62,72,375000.0,1000.0
+E. Ruiz,Colombia,La Equidad,GK ,19,1025,65.0,58.0,52.0,61.0,63.0,62,78,525000.0,1000.0
+G. Zabret,Slovenia,Swansea City,GK ,21,998,68.0,57.0,55.0,58.0,66.0,62,74,425000.0,6000.0
+A. Meyer,Germany,VfB Stuttgart,GK ,26,899,67.0,59.0,67.0,49.0,66.0,62,65,260000.0,3000.0
+V. Vorel,Czech Republic,Sparta Praha,GK ,21,824,65.0,64.0,55.0,57.0,61.0,62,70,350000.0,1000.0
+A. Dadakdeniz,Turkey,Bursaspor,GK ,17,911,63.0,61.0,58.0,58.0,65.0,62,75,400000.0,1000.0
+J. Goda,Cameroon,Tours FC,GK ,28,1018,59.0,65.0,61.0,64.0,60.0,62,63,240000.0,1000.0
+F. Altamirano,Argentina,Banfield,GK ,21,1088,62.0,59.0,64.0,58.0,62.0,62,75,475000.0,2000.0
+K. Eisele,Germany,Hansa Rostock,GK ,22,846,65.0,61.0,63.0,56.0,67.0,62,74,425000.0,1000.0
+Y. Fujigaya,Japan,Gamba Osaka,GK ,36,955,62.0,59.0,60.0,65.0,64.0,62,62,40000.0,1000.0
+M. Rodák,Slovakia,Rotherham United,GK ,20,1065,62.0,59.0,69.0,59.0,65.0,62,74,425000.0,4000.0
+M. Festa,Italy,Crotone,GK ,25,1065,65.0,62.0,58.0,59.0,61.0,62,67,290000.0,2000.0
+K. Shimura,Japan,Júbilo Iwata,GK ,21,824,67.0,62.0,55.0,64.0,59.0,62,71,350000.0,1000.0
+Aarón,Spain,Granada CF,GK ,21,1100,58.0,64.0,51.0,59.0,63.0,62,68,300000.0,1000.0
+Dani Martín,Spain,Real Sporting de Gijón,GK ,18,1017,62.0,61.0,64.0,60.0,64.0,62,73,375000.0,1000.0
+A. Schlager,Austria,LASK Linz,GK ,21,945,63.0,60.0,58.0,61.0,63.0,62,70,350000.0,2000.0
+B. Peacock-Farrell,England,Leeds United,GK ,20,1130,61.0,62.0,63.0,58.0,63.0,62,75,475000.0,3000.0
+K. Reynish,United States,Atlanta United FC,GK ,33,1017,61.0,66.0,61.0,64.0,57.0,62,62,150000.0,1000.0
+D. Buchholz,Germany,Sportfreunde Lotte,GK ,32,910,61.0,66.0,43.0,64.0,61.0,62,62,170000.0,1000.0
+G. Kasprzik,Poland,Górnik Zabrze,GK ,33,977,68.0,58.0,65.0,54.0,68.0,62,62,150000.0,1000.0
+S. Bywater,England,Burton Albion,GK ,36,1116,64.0,62.0,57.0,66.0,53.0,62,62,40000.0,1000.0
+A. Olliero,France,FC Nantes,GK ,21,1055,65.0,61.0,58.0,58.0,65.0,62,69,325000.0,2000.0
+M. Van Oekel,United States,Real Salt Lake,GK ,30,1145,64.0,55.0,68.0,64.0,60.0,62,62,190000.0,1000.0
+K. Piedrahita,United States,La Equidad,GK ,26,1045,63.0,61.0,59.0,61.0,64.0,62,66,270000.0,1000.0
+Lee Jin Hyung,Korea Republic,Incheon United FC,GK ,29,1084,62.0,61.0,62.0,63.0,63.0,62,62,200000.0,1000.0
+Rafael Broetto,Brazil,CS Marítimo,GK ,26,885,59.0,62.0,60.0,62.0,64.0,62,64,250000.0,2000.0
+V. Gudiev,Russia,Terek Grozny,GK ,22,1030,64.0,58.0,59.0,61.0,64.0,62,73,400000.0,4000.0
+T. Miller,United States,Seattle Sounders FC,GK ,24,966,64.0,61.0,61.0,60.0,63.0,62,70,325000.0,1000.0
+A. Paleari,Italy,Cittadella,GK ,24,892,58.0,57.0,65.0,65.0,69.0,62,68,300000.0,1000.0
+A. Al Sdairy,Saudi Arabia,Al Shabab,GK ,25,1095,60.0,62.0,61.0,62.0,63.0,62,66,280000.0,4000.0
+E. İşcan,Turkey,Galatasaray SK,GK ,25,1010,64.0,63.0,60.0,59.0,62.0,62,66,280000.0,7000.0
+Y. Brecher,Switzerland,FC Zürich,GK ,24,1082,67.0,56.0,63.0,58.0,68.0,62,70,325000.0,2000.0
+E. Domaschke,Germany,SV Meppen,GK ,31,1038,61.0,62.0,66.0,56.0,63.0,62,62,180000.0,1000.0
+O. Kristinsson,Iceland,Excelsior,GK ,28,1051,57.0,66.0,53.0,57.0,69.0,62,64,250000.0,2000.0
+M. Sharahili,Saudi Arabia,Al Nassr,GK ,25,1038,64.0,59.0,50.0,62.0,67.0,62,64,260000.0,5000.0
+B. Murphy,Republic of Ireland,St. Patrick's Athletic,GK ,32,1138,63.0,62.0,60.0,61.0,63.0,62,62,170000.0,1000.0
+D. Iversen,Denmark,Leicester City,GK ,19,1064,67.0,61.0,62.0,59.0,61.0,62,76,525000.0,3000.0
+F. Lončarić,Croatia,Tromsø IL,GK ,30,978,63.0,59.0,62.0,63.0,64.0,62,62,190000.0,1000.0
+Je Jong Hyeon,Korea Republic,Sangju Sangmu FC,GK ,25,1059,62.0,61.0,58.0,66.0,60.0,62,66,280000.0,1000.0
+T. Vaiho,Sweden,Djurgårdens IF,GK ,28,1075,61.0,56.0,52.0,59.0,70.0,62,64,250000.0,1000.0
+F. Woodman,England,Newcastle United,GK ,20,1064,65.0,59.0,58.0,62.0,61.0,62,78,550000.0,6000.0
+J. Ruddy,Scotland,Oldham Athletic,GK ,20,1127,62.0,59.0,54.0,61.0,64.0,62,75,475000.0,5000.0
+B. Olejnik,Austria,Mansfield Town,GK ,30,976,65.0,60.0,55.0,59.0,61.0,62,62,190000.0,3000.0
+M. Crépeau,Canada,Montreal Impact,GK ,23,1054,64.0,56.0,62.0,60.0,69.0,62,70,325000.0,1000.0
+R. Adicéam,France,Amiens SC Football,GK ,26,868,65.0,62.0,61.0,62.0,64.0,62,65,260000.0,3000.0
+D. Bertaud,France,Montpellier Hérault SC,GK ,19,1094,65.0,57.0,56.0,56.0,68.0,62,76,525000.0,2000.0
+M. Oxley,England,Southend United,GK ,26,957,64.0,62.0,63.0,61.0,65.0,62,66,270000.0,2000.0
+K. Seki,Japan,Vegalta Sendai,GK ,31,905,58.0,61.0,60.0,61.0,63.0,62,62,180000.0,1000.0
+A. Horwath,United States,SK Brann,GK ,30,1073,62.0,57.0,60.0,65.0,64.0,62,62,190000.0,1000.0
+P. Heigre,Norway,Strømsgodset IF,GK ,22,1086,63.0,61.0,60.0,60.0,64.0,62,69,325000.0,1000.0
+João Pinho,Portugal,FC Paços de Ferreira,GK ,25,980,61.0,66.0,57.0,65.0,57.0,62,66,280000.0,2000.0
+Lim Min Hyeok,Korea Republic,Jeonnam Dragons,GK ,23,876,62.0,62.0,58.0,61.0,63.0,62,70,325000.0,1000.0
+Quique Cebriá,Spain,SD Eibar,GK ,22,893,63.0,62.0,56.0,58.0,63.0,62,71,350000.0,2000.0
+F. Al Shammari,Saudi Arabia,Al Fayha,GK ,36,984,65.0,60.0,55.0,59.0,64.0,62,62,40000.0,2000.0
+J. Day,England,Newport County,GK ,26,1097,64.0,54.0,53.0,62.0,70.0,62,65,260000.0,2000.0
+R. Costería,Chile,Curicó Unido,GK ,33,1153,61.0,64.0,71.0,55.0,68.0,62,62,150000.0,1000.0
+S. Anchoverri,Argentina,Bahía Blanca,GK ,26,960,64.0,59.0,58.0,60.0,65.0,62,65,260000.0,2000.0
+R. Ragni,Italy,Ascoli,GK ,26,1115,61.0,59.0,56.0,63.0,66.0,62,64,250000.0,1000.0
+A. Abedzadeh,Iran,CS Marítimo,GK ,24,906,63.0,60.0,59.0,58.0,63.0,62,67,290000.0,1000.0
+P. Grazziani,Colombia,Alianza Petrolera,GK ,22,1039,63.0,60.0,58.0,63.0,64.0,62,70,325000.0,1000.0
+G. Poussin,France,Girondins de Bordeaux,GK ,18,890,64.0,62.0,60.0,62.0,64.0,62,83,575000.0,2000.0
+O. Mandanda,France,Girondins de Bordeaux,GK ,18,890,67.0,63.0,59.0,62.0,66.0,62,80,500000.0,2000.0
+J. Leyton,Colombia,Tigres FC,GK ,26,1089,62.0,62.0,57.0,62.0,60.0,62,65,260000.0,1000.0
+K. Roos,Netherlands,Port Vale,GK ,25,1091,66.0,58.0,60.0,62.0,61.0,62,66,280000.0,7000.0
+Y. van Osch,Netherlands,PSV,GK ,20,1055,63.0,59.0,57.0,61.0,67.0,62,72,375000.0,2000.0
+W. Norris,England,Wolverhampton Wanderers,GK ,23,1044,66.0,60.0,58.0,60.0,67.0,62,68,300000.0,5000.0
+S. van der Lei,Netherlands,Willem II,GK ,24,1070,64.0,58.0,59.0,55.0,68.0,62,68,300000.0,1000.0
+T. King,England,Millwall,GK ,22,1082,63.0,62.0,61.0,61.0,63.0,62,70,325000.0,4000.0
+D. Bachmann,Austria,Watford,GK ,22,1090,60.0,58.0,54.0,60.0,65.0,62,72,375000.0,6000.0
+Emanuel Novo,Portugal,Grupo Desportivo de Chaves,GK ,24,823,62.0,62.0,55.0,59.0,67.0,62,67,290000.0,1000.0
+T. Chencinski,Canada,Shamrock Rovers,GK ,32,913,60.0,63.0,59.0,68.0,57.0,62,62,170000.0,1000.0
+T. Nørgaard,Denmark,Silkeborg IF,GK ,30,1033,58.0,56.0,57.0,67.0,62.0,62,63,230000.0,2000.0
+R. Pillot,France,La Berrichonne de Châteauroux,GK ,26,1050,60.0,61.0,64.0,61.0,61.0,62,64,250000.0,1000.0
+Álex Guanche,Spain,UD Las Palmas,GK ,23,1102,62.0,60.0,50.0,60.0,64.0,62,69,325000.0,2000.0
+M. Engelhardt,Germany,Eintracht Braunschweig,GK ,24,1078,62.0,61.0,65.0,62.0,64.0,62,67,290000.0,3000.0
+B. Niasse,Senegal,KAS Eupen,GK ,20,873,71.0,60.0,57.0,51.0,66.0,62,73,400000.0,1000.0
+M. Cavallotti,Argentina,Argentinos Juniors,GK ,32,894,63.0,65.0,54.0,64.0,60.0,62,62,170000.0,2000.0
+B. Valette,France,Nîmes Olympique,GK ,24,1046,64.0,60.0,60.0,60.0,66.0,62,68,300000.0,1000.0
+V. Belon,France,RC Lens,GK ,22,1073,64.0,61.0,61.0,57.0,62.0,62,67,290000.0,1000.0
+M. Kuttin,Austria,FC Admira Wacker Mödling,GK ,23,1027,64.0,58.0,68.0,60.0,65.0,62,65,270000.0,1000.0
+De la Calzada,Spain,Valencia CF,GK ,22,931,60.0,62.0,59.0,62.0,66.0,62,72,375000.0,3000.0
+A. Plizzari,Italy,Ternana,GK ,17,1051,65.0,63.0,59.0,57.0,69.0,62,82,500000.0,4000.0
+L. Königshofer,Austria,SpVgg Unterhaching,GK ,28,1060,65.0,55.0,53.0,59.0,66.0,62,63,240000.0,1000.0
+P. Drewes,Germany,Würzburger FV,GK ,24,1018,64.0,61.0,63.0,62.0,59.0,62,70,325000.0,1000.0
+D. Delaunay,France,US Quevilly-Rouen,GK ,22,1047,61.0,61.0,58.0,61.0,64.0,62,70,325000.0,1000.0
+M. Buchalik,Poland,Wisła Kraków,GK ,28,1072,61.0,58.0,59.0,66.0,61.0,62,62,210000.0,1000.0
+E. Verstappen,Netherlands,Eintracht Braunschweig,GK ,23,1048,61.0,58.0,61.0,59.0,61.0,61,68,260000.0,3000.0
+Park Dae Han,Korea Republic,Jeonnam Dragons,GK ,21,935,63.0,59.0,57.0,57.0,63.0,61,70,300000.0,1000.0
+Y. Bonnin,Argentina,Gimnasia y Esgrima La Plata,GK ,26,1073,61.0,61.0,56.0,56.0,62.0,61,64,220000.0,2000.0
+S. Richey,United States,Vancouver Whitecaps FC,GK ,25,1163,62.0,57.0,61.0,59.0,62.0,61,66,240000.0,1000.0
+M. Reule,Germany,SG Sonnenhof Großaspach,GK ,23,994,64.0,57.0,59.0,55.0,62.0,61,70,290000.0,1000.0
+D. Stojanović,FYR Macedonia,FC St. Gallen,GK ,23,1011,65.0,57.0,58.0,56.0,68.0,61,68,260000.0,2000.0
+K. Baran,Poland,Termalica Bruk-Bet Nieciecza,GK ,27,933,63.0,60.0,55.0,61.0,62.0,61,62,200000.0,1000.0
+T. Aupic,France,Paris FC,GK ,32,866,64.0,57.0,56.0,59.0,65.0,61,61,140000.0,1000.0
+M. Schubert,Germany,SG Dynamo Dresden,GK ,19,998,68.0,61.0,54.0,51.0,66.0,61,78,450000.0,1000.0
+M. Branderhorst,Netherlands,Willem II,GK ,23,1017,63.0,59.0,56.0,59.0,60.0,61,68,260000.0,1000.0
+D. Zeaiter,Lebanon,MSV Duisburg,GK ,22,958,62.0,59.0,59.0,57.0,61.0,61,66,240000.0,1000.0
+K. Fickentscher,Switzerland,FC Sion,GK ,28,1034,57.0,56.0,57.0,59.0,69.0,61,61,180000.0,3000.0
+Y. Gutiérrez,Mexico,Necaxa,GK ,36,1054,59.0,62.0,63.0,60.0,57.0,61,61,30000.0,1000.0
+L. Bonnefoi,France,RC Strasbourg,GK ,33,989,59.0,60.0,59.0,64.0,62.0,61,61,130000.0,3000.0
+R. Wulle,Germany,SV Sandhausen,GK ,23,997,60.0,59.0,57.0,59.0,62.0,61,69,280000.0,1000.0
+K. Christensen,Denmark,FC København,GK ,37,976,61.0,63.0,66.0,61.0,57.0,61,61,20000.0,2000.0
+T. Smith,England,Southend United,GK ,21,993,61.0,60.0,60.0,60.0,65.0,61,73,350000.0,1000.0
+B. Pindroch,Slovakia,Notts County,GK ,25,1016,65.0,59.0,60.0,60.0,61.0,61,67,250000.0,3000.0
+G. Guerrieri,Italy,Lazio,GK ,21,1043,62.0,59.0,58.0,59.0,61.0,61,73,350000.0,4000.0
+A. Tozzo,Italy,Sampdoria,GK ,24,938,64.0,59.0,68.0,60.0,61.0,61,67,250000.0,4000.0
+J. Anyon,England,Chesterfield,GK ,30,1097,65.0,54.0,57.0,54.0,66.0,61,61,160000.0,2000.0
+Z. Clark,Scotland,St. Johnstone FC,GK ,25,980,64.0,56.0,57.0,62.0,67.0,61,66,240000.0,1000.0
+B. Clarke,Republic of Ireland,Limerick FC,GK ,31,1087,59.0,59.0,59.0,59.0,64.0,61,61,150000.0,1000.0
+J. Joronen,Finland,AC Horsens,GK ,24,923,63.0,61.0,55.0,60.0,59.0,61,67,250000.0,2000.0
+J. Stephens,England,Barnet,GK ,23,1022,62.0,61.0,53.0,59.0,63.0,61,65,230000.0,2000.0
+A. McCarey,Republic of Ireland,Ross County FC,GK ,25,1007,64.0,58.0,64.0,59.0,62.0,61,65,230000.0,1000.0
+C. MacGillivray,England,Shrewsbury,GK ,24,1150,61.0,60.0,57.0,59.0,63.0,61,67,250000.0,1000.0
+C. Horton,United States,D.C. United,GK ,22,989,60.0,58.0,56.0,60.0,62.0,61,71,300000.0,1000.0
+J. Aguirre,Colombia,Atlético Bucaramanga,GK ,25,953,62.0,58.0,66.0,58.0,63.0,61,66,240000.0,1000.0
+P. Fernández,Argentina,Chacarita Juniors,GK ,30,893,60.0,57.0,60.0,63.0,61.0,61,61,160000.0,2000.0
+S. Flinders,England,Cheltenham Town,GK ,31,1055,61.0,60.0,55.0,61.0,61.0,61,61,150000.0,2000.0
+N. Rehnen,Germany,DSC Arminia Bielefeld,GK ,20,974,60.0,59.0,57.0,62.0,61.0,61,72,350000.0,1000.0
+Lee Yang Jong,Korea Republic,Daegu FC,GK ,27,1057,59.0,57.0,66.0,63.0,60.0,61,63,200000.0,1000.0
+A. Ramsdale,England,Bournemouth,GK ,19,1088,62.0,59.0,53.0,58.0,68.0,61,80,450000.0,3000.0
+J. Murphy,Republic of Ireland,Bury,GK ,35,1058,59.0,62.0,65.0,58.0,60.0,61,61,60000.0,1000.0
+T. Nobile,Italy,Vercelli,GK ,20,830,62.0,60.0,56.0,57.0,64.0,61,70,300000.0,1000.0
+M. van de Meulenhof,Netherlands,PSV,GK ,18,909,61.0,62.0,60.0,59.0,59.0,61,76,425000.0,1000.0
+T. Enomoto,Japan,Urawa Red Diamonds,GK ,34,849,61.0,59.0,59.0,60.0,57.0,61,61,100000.0,2000.0
+Juanpe Sánchez,Spain,Lorca Deportiva CF,GK ,21,962,60.0,58.0,61.0,61.0,62.0,61,69,280000.0,1000.0
+Moon Jeong In,Korea Republic,Ulsan Hyundai Horang-i,GK ,19,877,60.0,61.0,61.0,62.0,61.0,61,73,350000.0,1000.0
+S. McDermott,Republic of Ireland,Kristiansund BK,GK ,24,1037,62.0,58.0,54.0,59.0,63.0,61,68,260000.0,1000.0
+M. Peškovič,Slovakia,Cracovia,GK ,35,1019,57.0,62.0,61.0,60.0,62.0,61,61,60000.0,1000.0
+C. O'Malley,Republic of Ireland,Peterborough United,GK ,22,1067,62.0,60.0,57.0,63.0,62.0,61,71,300000.0,1000.0
+B. Williams,England,Blackpool,GK ,34,1165,62.0,59.0,53.0,59.0,61.0,61,61,100000.0,2000.0
+S. Román,Colombia,CD Once Caldas Manizales,GK ,22,1042,61.0,56.0,55.0,61.0,69.0,61,70,290000.0,1000.0
+A. Dagriri,Saudi Arabia,Al Fayha,GK ,27,1086,62.0,58.0,56.0,60.0,63.0,61,61,170000.0,3000.0
+W. Sietsma,Netherlands,Milton Keynes Dons,GK ,21,987,61.0,59.0,55.0,60.0,63.0,61,72,350000.0,1000.0
+M. Malaeka,Saudi Arabia,Al Faisaly,GK ,31,1036,59.0,59.0,61.0,58.0,64.0,61,61,150000.0,4000.0
+J. Teunckens,Belgium,Club Brugge KV,GK ,19,1052,64.0,60.0,56.0,54.0,65.0,61,74,375000.0,1000.0
+J. Estrada,Mexico,Club Atlas,GK ,19,905,56.0,58.0,57.0,63.0,62.0,61,74,375000.0,1000.0
+B. Meredith,United States,Seattle Sounders FC,GK ,27,1102,65.0,60.0,66.0,54.0,64.0,61,63,200000.0,1000.0
+B. Wilson,England,Oldham Athletic,GK ,24,1026,61.0,60.0,57.0,58.0,61.0,61,67,250000.0,3000.0
+R. ten Hove,Netherlands,Feyenoord,GK ,19,839,60.0,65.0,48.0,64.0,60.0,61,75,450000.0,1000.0
+B. Kennedy,Australia,Central Coast Mariners,GK ,30,1013,62.0,58.0,58.0,62.0,60.0,61,61,160000.0,1000.0
+O. De Wolf,Belgium,Sporting Lokeren,GK ,20,906,60.0,61.0,68.0,57.0,66.0,61,72,350000.0,2000.0
+A. Andersson,Sweden,Östersunds FK,GK ,26,971,60.0,65.0,56.0,60.0,60.0,61,66,240000.0,1000.0
+Juan Pérez,Spain,CA Osasuna,GK ,20,1014,60.0,64.0,55.0,60.0,66.0,61,74,400000.0,1000.0
+S. Ando,Japan,Kawasaki Frontale,GK ,26,1052,58.0,53.0,52.0,67.0,60.0,61,63,210000.0,1000.0
+L. De Bórtoli,Argentina,Temperley,GK ,28,1011,62.0,61.0,55.0,57.0,56.0,61,62,200000.0,2000.0
+K. Letheren,Wales,Plymouth Argyle,GK ,29,1063,61.0,58.0,59.0,58.0,61.0,61,63,200000.0,2000.0
+J. Klinsmann,United States,Hertha BSC Berlin,GK ,20,1000,59.0,58.0,65.0,63.0,66.0,61,76,450000.0,3000.0
+A. Falch,Norway,IFK Norrköping,GK ,25,1104,60.0,58.0,59.0,59.0,63.0,61,67,250000.0,1000.0
+R. Laidlaw,Scotland,Hibernian,GK ,24,856,63.0,59.0,58.0,62.0,59.0,61,67,250000.0,1000.0
+J. Kiassumbua,DR Congo,FC Lugano,GK ,25,962,67.0,50.0,49.0,57.0,68.0,61,65,230000.0,1000.0
+T. Königsmann,Germany,SpVgg Greuther Fürth,GK ,20,1123,59.0,63.0,64.0,51.0,70.0,61,73,350000.0,1000.0
+Campos,Spain,CD Numancia,GK ,22,943,63.0,60.0,65.0,57.0,65.0,61,70,290000.0,1000.0
+E. Edwards Jr.,United States,Orlando City Soccer Club,GK ,25,1055,58.0,64.0,60.0,65.0,57.0,61,67,250000.0,1000.0
+T. Casali,Austria,SV Mattersburg,GK ,21,871,63.0,57.0,59.0,58.0,64.0,61,67,250000.0,2000.0
+G. Morris,England,Crawley Town,GK ,33,1155,67.0,56.0,62.0,55.0,64.0,61,61,130000.0,2000.0
+T. Dähne,Germany,HJK Helsinki,GK ,23,1086,63.0,56.0,48.0,61.0,65.0,61,70,290000.0,1000.0
+Hwang ByeongGeun,Korea Republic,Jeonbuk Hyundai Motors,GK ,23,1005,63.0,58.0,56.0,58.0,60.0,60,69,240000.0,1000.0
+G. Alcalá,Mexico,Querétaro,GK ,24,1138,65.0,54.0,55.0,56.0,64.0,60,65,200000.0,1000.0
+S. Massolo,Italy,Virtus Entella,GK ,21,1064,59.0,57.0,55.0,57.0,66.0,60,73,325000.0,1000.0
+A. Kacou,Ivory Coast,Tours FC,GK ,21,883,60.0,58.0,57.0,58.0,62.0,60,69,240000.0,1000.0
+B. Makendzhiev,Bulgaria,,GK ,28,1032,61.0,54.0,60.0,69.0,58.0,60,60,0.0,0.0
+G. Singh Sandhu,India,,GK ,25,1037,63.0,59.0,59.0,58.0,60.0,60,65,0.0,0.0
+R. Ramírez,Argentina,Godoy Cruz,GK ,20,1022,63.0,57.0,58.0,57.0,62.0,60,72,290000.0,1000.0
+S. Farelli,Italy,Novara,GK ,34,1039,67.0,57.0,56.0,55.0,63.0,60,60,80000.0,1000.0
+B. Janssen,Netherlands,Sparta Rotterdam,GK ,22,866,63.0,58.0,65.0,63.0,59.0,60,67,210000.0,1000.0
+M. Crowe,Wales,Ipswich Town,GK ,21,1036,57.0,60.0,58.0,60.0,58.0,60,68,230000.0,2000.0
+S. Laiton,France,AJ Auxerre,GK ,17,1074,57.0,59.0,53.0,56.0,59.0,60,82,375000.0,1000.0
+Sillero,Spain,CF Reus Deportiu,GK ,23,1050,62.0,56.0,58.0,56.0,65.0,60,65,200000.0,1000.0
+T. Okubo,Japan,F.C. Tokyo,GK ,27,871,56.0,56.0,51.0,69.0,61.0,60,63,170000.0,1000.0
+F. Stritzel,Germany,SV Darmstadt 98,GK ,23,881,62.0,55.0,53.0,65.0,58.0,60,67,210000.0,2000.0
+Calzado,Spain,C.D. Leonesa S.A.D.,GK ,33,1259,58.0,62.0,61.0,55.0,59.0,60,60,100000.0,1000.0
+D. Gyollai,Hungary,Stoke City,GK ,20,1041,67.0,58.0,56.0,53.0,63.0,60,76,375000.0,4000.0
+T. Holý,Czech Republic,Gillingham,GK ,25,996,60.0,59.0,76.0,61.0,75.0,60,66,200000.0,1000.0
+D. Evtimov,Bulgaria,Nottingham Forest,GK ,23,963,59.0,62.0,58.0,60.0,56.0,60,68,230000.0,3000.0
+D. Phillips,England,Charlton Athletic,GK ,22,1047,64.0,53.0,52.0,59.0,65.0,60,72,290000.0,1000.0
+G. Yordan,Argentina,Vélez Sarsfield,GK ,23,1000,60.0,59.0,56.0,57.0,65.0,60,66,210000.0,1000.0
+D. Podleśny,Poland,Lechia Gdańsk,GK ,22,1002,59.0,63.0,69.0,56.0,55.0,60,67,210000.0,1000.0
+Choi Bong Jin,Korea Republic,GwangJu FC,GK ,25,1144,57.0,59.0,66.0,66.0,57.0,60,66,200000.0,1000.0
+J. Coleman,England,Huddersfield Town,GK ,21,1035,61.0,60.0,55.0,57.0,61.0,60,73,325000.0,3000.0
+G. Gómez,Argentina,Racing Club de Avellaneda,GK ,21,904,66.0,56.0,60.0,57.0,59.0,60,70,260000.0,1000.0
+D. Martínez,Colombia,Patriotas Boyacá FC,GK ,27,1021,59.0,55.0,61.0,58.0,61.0,60,64,180000.0,1000.0
+K. Yaşar,Turkey,Kasimpaşa SK,GK ,22,927,61.0,59.0,56.0,58.0,60.0,60,66,210000.0,1000.0
+R. Husić,Germany,VfR Aalen,GK ,21,1018,62.0,60.0,58.0,57.0,61.0,60,69,240000.0,1000.0
+J. Mosquera,Colombia,CPD Junior Barranquilla,GK ,25,1064,72.0,53.0,53.0,55.0,59.0,60,64,190000.0,1000.0
+O. Kudryk,Ukraine,Shakhtar Donetsk,GK ,20,853,58.0,56.0,49.0,64.0,63.0,60,70,260000.0,1000.0
+Javi Díaz,Spain,Sevilla FC,GK ,20,1125,67.0,57.0,56.0,58.0,59.0,60,72,290000.0,1000.0
+D. Alampasu,Nigeria,CD Feirense,GK ,20,829,62.0,58.0,58.0,60.0,59.0,60,69,240000.0,1000.0
+D. Reimann,Germany,Borussia Dortmund,GK ,20,989,62.0,60.0,66.0,52.0,64.0,60,74,375000.0,4000.0
+J. van der Sar,Netherlands,ADO Den Haag,GK ,19,1063,58.0,62.0,69.0,54.0,59.0,60,72,280000.0,1000.0
+G. Villar,Argentina,Bahía Blanca,GK ,22,847,64.0,57.0,61.0,57.0,59.0,60,68,230000.0,1000.0
+N. Temperini,Argentina,Newell's Old Boys,GK ,22,975,62.0,56.0,61.0,58.0,62.0,60,69,240000.0,2000.0
+Tanis,Spain,Real Valladolid,GK ,21,973,62.0,57.0,58.0,55.0,63.0,60,70,260000.0,1000.0
+A. Redmayne,Australia,Sydney FC,GK ,28,970,62.0,55.0,56.0,58.0,64.0,60,60,150000.0,1000.0
+M. Gliwa,Poland,Sandecja Nowy Sącz,GK ,29,967,60.0,57.0,52.0,59.0,64.0,60,60,140000.0,1000.0
+P. Farman,England,Lincoln City,GK ,27,1055,61.0,57.0,63.0,54.0,63.0,60,63,170000.0,2000.0
+L. Carević,Montenegro,FC Barcelona B,GK ,18,856,60.0,58.0,63.0,58.0,62.0,60,74,350000.0,1000.0
+A. Bouchard,France,Chamois Niortais FC,GK ,29,883,60.0,58.0,65.0,57.0,63.0,60,60,140000.0,1000.0
+L. Skowron,Poland,St. Patrick's Athletic,GK ,26,1025,58.0,60.0,48.0,53.0,69.0,60,65,190000.0,1000.0
+J. Tyson,Australia,Western Sydney Wanderers,GK ,27,1053,59.0,59.0,58.0,58.0,62.0,60,60,140000.0,1000.0
+F. Escales,France,Olympique de Marseille,GK ,21,953,64.0,59.0,60.0,61.0,58.0,60,73,325000.0,2000.0
+G. Doherty,Northern Ireland,Derry City,GK ,35,1076,63.0,57.0,65.0,57.0,63.0,60,60,50000.0,1000.0
+M. Bruhn,Denmark,FC Helsingør,GK ,26,948,61.0,58.0,43.0,61.0,59.0,60,65,190000.0,1000.0
+Tienza,Spain,Real Betis Balompié,GK ,20,931,67.0,65.0,55.0,57.0,59.0,60,70,260000.0,2000.0
+M. Al Wakid,Saudi Arabia,Al Hilal,GK ,25,1077,62.0,58.0,55.0,57.0,58.0,60,65,200000.0,4000.0
+H. Burgoyne,England,Wolverhampton Wanderers,GK ,20,963,63.0,59.0,58.0,59.0,62.0,60,74,375000.0,4000.0
+Valera,Spain,SD Huesca,GK ,20,1064,61.0,56.0,46.0,64.0,61.0,60,69,240000.0,1000.0
+M. Böcskör,Austria,SV Mattersburg,GK ,34,864,59.0,64.0,62.0,61.0,63.0,60,60,80000.0,3000.0
+R. Matthews,England,Norwich City,GK ,23,1064,63.0,58.0,61.0,59.0,61.0,60,69,240000.0,3000.0
+B. Allain,France,Dijon FCO,GK ,25,961,62.0,57.0,59.0,57.0,62.0,60,66,200000.0,2000.0
+M. Scannella,France,Bourg en Bresse Péronnas 01,GK ,30,1058,66.0,60.0,58.0,56.0,61.0,60,60,130000.0,1000.0
+P. Cherrie,Scotland,Bray Wanderers,GK ,33,998,60.0,56.0,58.0,59.0,61.0,60,60,100000.0,1000.0
+S. Nelson,England,Gillingham,GK ,35,1107,59.0,52.0,55.0,62.0,63.0,60,60,50000.0,1000.0
+D. Schmidt,Japan,Vegalta Sendai,GK ,25,870,57.0,65.0,57.0,58.0,63.0,60,64,190000.0,1000.0
+A. Al Fahmi,Saudi Arabia,Al Qadisiyah,GK ,26,1065,60.0,60.0,59.0,59.0,60.0,60,64,190000.0,2000.0
+P. Friis Jensen,Denmark,Silkeborg IF,GK ,29,936,60.0,59.0,56.0,56.0,63.0,60,62,170000.0,1000.0
+M. Aquino,Argentina,Arsenal de Sarandí,GK ,23,1056,62.0,55.0,68.0,58.0,62.0,60,69,240000.0,1000.0
+Dani Cárdenas,Spain,Levante UD,GK ,20,924,58.0,59.0,58.0,55.0,68.0,60,70,260000.0,2000.0
+Carlos Alves,Portugal,Rio Ave FC,GK ,19,1114,65.0,56.0,66.0,56.0,59.0,60,69,230000.0,1000.0
+S. Londoño,Colombia,Envigado FC,GK ,22,1038,63.0,58.0,53.0,57.0,62.0,60,70,260000.0,1000.0
+H. Shiota,Japan,Omiya Ardija,GK ,36,882,64.0,61.0,54.0,68.0,51.0,60,60,30000.0,1000.0
+L. O'Brien,England,Coventry City,GK ,25,1099,62.0,59.0,63.0,54.0,63.0,60,65,200000.0,2000.0
+M. Hauptmeijer,Netherlands,PEC Zwolle,GK ,20,995,58.0,60.0,59.0,62.0,65.0,60,70,260000.0,1000.0
+M. Funk,Germany,SpVgg Greuther Fürth,GK ,21,925,60.0,58.0,60.0,57.0,61.0,60,69,240000.0,1000.0
+Sergio García,Spain,Real Zaragoza,GK ,19,1062,59.0,63.0,54.0,61.0,57.0,60,71,270000.0,1000.0
+D. von Ballmoos,Switzerland,BSC Young Boys,GK ,22,1086,58.0,62.0,53.0,61.0,59.0,60,72,290000.0,2000.0
+A. Krysiak,Poland,Yeovil Town,GK ,27,1110,64.0,57.0,55.0,52.0,63.0,60,61,160000.0,1000.0
+S. Arnold,England,Gillingham,GK ,27,949,61.0,61.0,55.0,56.0,58.0,60,61,160000.0,1000.0
+L. Hägg-Johansson,Sweden,Kalmar FF,GK ,22,985,62.0,57.0,61.0,58.0,61.0,60,68,230000.0,1000.0
+I. Zaid,Saudi Arabia,Al Faisaly,GK ,27,1024,63.0,51.0,49.0,63.0,58.0,60,62,170000.0,3000.0
+M. Seidel,Germany,1. FC Magdeburg,GK ,22,1009,62.0,60.0,51.0,58.0,60.0,60,69,240000.0,1000.0
+B. Al Baqi,Saudi Arabia,Al Ahli,GK ,27,1039,59.0,57.0,55.0,64.0,58.0,60,62,170000.0,4000.0
+K. Inada,Japan,Albirex Niigata,GK ,32,832,54.0,63.0,65.0,60.0,54.0,60,60,120000.0,1000.0
+B. Gaye,Germany,DSC Arminia Bielefeld,GK ,19,805,64.0,56.0,52.0,54.0,65.0,60,74,375000.0,1000.0
+F. Costa,Argentina,Club Atlético Patronato,GK ,28,888,62.0,57.0,55.0,56.0,63.0,60,61,170000.0,1000.0
+J. Berner,United States,Colorado Rapids,GK ,26,1019,59.0,62.0,56.0,59.0,58.0,60,65,190000.0,1000.0
+Ricky Alonso,Spain,AD Alcorcón,GK ,25,1047,65.0,55.0,57.0,65.0,56.0,60,64,190000.0,1000.0
+L. Choutesiotis,Greece,Olympiakos CFP,GK ,22,1101,62.0,58.0,58.0,58.0,56.0,60,67,210000.0,1000.0
+A. Peláez,Mexico,Cruz Azul,GK ,23,1107,63.0,57.0,54.0,55.0,62.0,60,67,210000.0,3000.0
+A. Confente,Italy,Chievo Verona,GK ,19,912,65.0,61.0,50.0,47.0,73.0,60,74,375000.0,1000.0
+F. Çakır,Turkey,İstanbul Başakşehir FK,GK ,22,1083,59.0,60.0,59.0,58.0,59.0,60,69,240000.0,2000.0
+A. Hirzel,Switzerland,Hamburger SV,GK ,24,1056,59.0,58.0,56.0,57.0,60.0,60,64,190000.0,3000.0
+R. Fulton,Scotland,Hamilton Academical FC,GK ,21,1002,58.0,59.0,64.0,57.0,64.0,60,67,220000.0,1000.0
+David Gil,Spain,Cádiz C.F.,GK ,23,1137,62.0,60.0,64.0,57.0,63.0,60,65,200000.0,1000.0
+Casitas,Spain,UD Almería,GK ,21,991,65.0,63.0,58.0,55.0,57.0,60,69,240000.0,1000.0
+A. Swolfs,Belgium,KV Mechelen,GK ,19,1000,60.0,57.0,54.0,55.0,62.0,59,72,230000.0,1000.0
+I. Lučić,Austria,Bristol City,GK ,22,1012,62.0,50.0,60.0,59.0,58.0,59,68,180000.0,4000.0
+L. Burge,England,Coventry City,GK ,24,1031,65.0,56.0,41.0,54.0,63.0,59,63,140000.0,2000.0
+J. Urke,Norway,Aalesunds FK,GK ,26,956,64.0,59.0,58.0,53.0,60.0,59,64,150000.0,1000.0
+J. Valencia,Colombia,Águilas Doradas,GK ,24,1096,64.0,55.0,60.0,54.0,61.0,59,65,160000.0,1000.0
+T. Cottes,France,Toulouse FC,GK ,19,837,62.0,58.0,60.0,58.0,62.0,59,72,230000.0,1000.0
+M. Velazco,Argentina,Arsenal de Sarandí,GK ,22,890,59.0,56.0,65.0,60.0,58.0,59,67,170000.0,2000.0
+Song Yoo Gul,Korea Republic,Gangwon FC,GK ,32,1061,56.0,59.0,63.0,59.0,60.0,59,59,90000.0,1000.0
+R. Marcone,Romania,Vercelli,GK ,24,1048,56.0,57.0,59.0,61.0,58.0,59,66,160000.0,1000.0
+P. Menzel,Germany,VfL Wolfsburg,GK ,18,835,63.0,60.0,58.0,57.0,56.0,59,77,260000.0,2000.0
+J. Vickers,England,Lincoln City,GK ,21,1028,66.0,53.0,63.0,50.0,59.0,59,70,210000.0,1000.0
+A. Gambetta,France,RC Strasbourg,GK ,20,897,65.0,55.0,58.0,50.0,65.0,59,71,220000.0,2000.0
+L. Cichos,Germany,FSV Zwickau,GK ,21,876,60.0,59.0,62.0,59.0,57.0,59,69,190000.0,1000.0
+P. Pentz,Austria,FK Austria Wien,GK ,20,1102,61.0,58.0,57.0,55.0,58.0,59,66,160000.0,2000.0
+A. Guarnone,Italy,Milan,GK ,18,997,67.0,57.0,51.0,55.0,67.0,59,74,260000.0,3000.0
+L. Roberts,England,Walsall,GK ,22,1068,57.0,61.0,54.0,56.0,60.0,59,68,180000.0,1000.0
+J. Villalpando,Mexico,Lobos de la BUAP,GK ,32,1201,60.0,55.0,62.0,58.0,55.0,59,59,90000.0,1000.0
+J. Bekkema,Netherlands,SC Heerenveen,GK ,21,868,63.0,57.0,50.0,58.0,63.0,59,67,170000.0,1000.0
+L. Bätge,Germany,Eintracht Frankfurt,GK ,19,885,61.0,56.0,56.0,58.0,60.0,59,73,280000.0,1000.0
+F. Dmitrovic,Serbia,SCR Altach,GK ,21,936,61.0,59.0,53.0,58.0,63.0,59,70,210000.0,1000.0
+A. Larsen,Denmark,Lyngby BK,GK ,27,897,57.0,58.0,61.0,61.0,60.0,59,63,140000.0,1000.0
+Samu Casado,Spain,Málaga CF,GK ,20,1090,62.0,58.0,55.0,53.0,65.0,59,69,190000.0,2000.0
+H. Sandvik,Norway,FK Haugesund,GK ,27,1131,58.0,58.0,57.0,56.0,59.0,59,61,130000.0,1000.0
+F. Andersson,Sweden,Malmö FF,GK ,28,987,56.0,65.0,51.0,57.0,58.0,59,59,110000.0,1000.0
+A. Paroni,Italy,Virtus Entella,GK ,27,979,59.0,57.0,47.0,57.0,62.0,59,61,130000.0,1000.0
+A. Nurudeen,Ghana,KAS Eupen,GK ,18,860,64.0,59.0,58.0,57.0,61.0,59,76,260000.0,1000.0
+T. Roex,Netherlands,Roda JC Kerkrade,GK ,19,897,62.0,61.0,61.0,58.0,61.0,59,70,200000.0,1000.0
+A. Lamonge,France,FC Lorient,GK ,21,919,55.0,63.0,59.0,58.0,64.0,59,70,210000.0,1000.0
+E. Parish,England,Dundee FC,GK ,27,969,63.0,58.0,59.0,55.0,58.0,59,61,130000.0,1000.0
+L. Radliński,Poland,Sandecja Nowy Sącz,GK ,34,924,57.0,64.0,54.0,63.0,59.0,59,59,60000.0,1000.0
+L. Bossin,Republic of Ireland,Nottingham Forest,GK ,21,1041,63.0,57.0,51.0,52.0,62.0,59,71,220000.0,2000.0
+B. Lekström,Sweden,Hammarby IF,GK ,36,1017,58.0,59.0,56.0,60.0,58.0,59,59,20000.0,1000.0
+E. Dahlin,Sweden,IFK Göteborg,GK ,28,1020,55.0,57.0,57.0,56.0,62.0,59,61,130000.0,1000.0
+R. Gilmartin,Republic of Ireland,Colchester United,GK ,30,1034,67.0,54.0,54.0,54.0,61.0,59,59,100000.0,2000.0
+M. Netolitzky,Germany,Hallescher FC,GK ,23,1060,60.0,57.0,55.0,55.0,64.0,59,64,150000.0,1000.0
+D. Cornell,Wales,Northampton Town,GK ,26,1014,60.0,58.0,61.0,57.0,60.0,59,63,140000.0,1000.0
+A. Bodart,Belgium,Standard de Liège,GK ,19,855,63.0,59.0,57.0,54.0,62.0,59,72,230000.0,1000.0
+J. Flatt,England,Cheltenham Town,GK ,22,971,64.0,56.0,56.0,59.0,57.0,59,68,180000.0,4000.0
+K. Forenc,Poland,Zagłębie Lubin,GK ,24,1029,62.0,60.0,62.0,58.0,57.0,59,63,140000.0,1000.0
+S. Russell,England,Forest Green,GK ,34,1180,56.0,60.0,60.0,61.0,59.0,59,59,60000.0,2000.0
+F. Cambeses,Argentina,Banfield,GK ,20,1002,58.0,59.0,57.0,59.0,61.0,59,73,280000.0,1000.0
+E. Kronberg,United States,Montreal Impact,GK ,33,987,55.0,60.0,67.0,59.0,59.0,59,59,80000.0,1000.0
+K. Stamatopoulos,Canada,AIK Solna,GK ,37,1014,60.0,52.0,57.0,61.0,58.0,59,59,10000.0,1000.0
+J. Bouet,France,Amiens SC Football,GK ,33,866,59.0,65.0,63.0,59.0,58.0,59,59,80000.0,2000.0
+G. Caffa,Argentina,Corporación Club Deportivo Tuluá,GK ,36,824,57.0,58.0,53.0,60.0,60.0,59,59,20000.0,1000.0
+C. Månsson,Sweden,Kristiansund BK,GK ,36,1093,58.0,59.0,57.0,64.0,60.0,59,59,20000.0,1000.0
+R. Lainton,England,Port Vale,GK ,27,1016,60.0,57.0,41.0,59.0,61.0,59,61,130000.0,2000.0
+A. Gounet,France,US Quevilly-Rouen,GK ,28,1075,59.0,59.0,60.0,59.0,58.0,59,61,130000.0,1000.0
+G. Rogers,Republic of Ireland,Dundalk,GK ,35,1004,63.0,55.0,56.0,58.0,61.0,59,59,40000.0,1000.0
+A. Al Harbi,Saudi Arabia,Al Raed,GK ,22,997,63.0,58.0,52.0,54.0,58.0,59,67,170000.0,3000.0
+S. McGuinness,Republic of Ireland,Drogheda United,GK ,22,1089,60.0,58.0,58.0,58.0,60.0,59,69,190000.0,1000.0
+I. Gelios,Greece,FC Augsburg,GK ,25,1010,59.0,59.0,54.0,57.0,62.0,59,65,150000.0,2000.0
+R. Hironaga,Japan,Sanfrecce Hiroshima,GK ,27,878,62.0,59.0,59.0,56.0,59.0,59,60,120000.0,1000.0
+A. Zendejas,United States,Sporting Kansas City,GK ,21,1008,66.0,53.0,55.0,53.0,64.0,59,71,220000.0,1000.0
+D. Rogers,Republic of Ireland,Aberdeen,GK ,23,1037,61.0,57.0,61.0,55.0,64.0,59,68,180000.0,1000.0
+J. Wrąbel,Poland,Śląsk Wrocław,GK ,21,1003,61.0,57.0,53.0,54.0,61.0,59,69,190000.0,1000.0
+M. Uusitalo,Finland,HJK Helsinki,GK ,20,887,65.0,55.0,59.0,51.0,63.0,59,69,190000.0,1000.0
+M. Brunelli,Italy,Carpi,GK ,22,1047,63.0,52.0,51.0,50.0,69.0,59,65,160000.0,2000.0
+L. Jonsson,Sweden,IK Sirius,GK ,24,913,60.0,61.0,55.0,56.0,59.0,59,63,140000.0,1000.0
+J. Rasheed,Norway,BK Häcken,GK ,25,987,63.0,59.0,59.0,60.0,58.0,59,63,140000.0,1000.0
+B. Collins,England,Forest Green,GK ,20,1058,60.0,56.0,56.0,57.0,62.0,59,71,220000.0,1000.0
+E. Goshev,Russia,FC Rostov,GK ,20,1048,62.0,53.0,58.0,51.0,67.0,59,75,280000.0,2000.0
+L. Cháves,Argentina,Argentinos Juniors,GK ,21,1062,61.0,55.0,57.0,56.0,60.0,59,65,160000.0,1000.0
+E. Hedvall,Sweden,Östersunds FK,GK ,34,930,57.0,62.0,59.0,60.0,56.0,59,59,60000.0,1000.0
+L. Fasan,Italy,Bury,GK ,23,1064,57.0,59.0,58.0,57.0,63.0,59,64,150000.0,1000.0
+F. Pavoni,Italy,Chievo Verona,GK ,17,1016,65.0,59.0,51.0,55.0,65.0,59,74,250000.0,1000.0
+A. Al Saleh,Saudi Arabia,Ettifaq FC,GK ,27,1042,58.0,56.0,62.0,59.0,59.0,59,61,130000.0,2000.0
+S. Shearer,Scotland,Oxford United,GK ,36,1037,59.0,56.0,52.0,60.0,60.0,59,59,20000.0,1000.0
+D. Sugimoto,Japan,Yokohama F. Marinos,GK ,23,863,57.0,62.0,59.0,60.0,59.0,59,64,150000.0,1000.0
+Y. Diouf,France,ES Troyes AC,GK ,17,1011,59.0,61.0,59.0,60.0,59.0,59,80,280000.0,1000.0
+K. Kirihata,Japan,Kashiwa Reysol,GK ,30,788,52.0,57.0,62.0,69.0,53.0,59,59,100000.0,1000.0
+K. Tittel,Germany,Chemnitzer FC,GK ,23,871,64.0,60.0,60.0,49.0,61.0,59,64,150000.0,1000.0
+T. Sugiyama,Japan,Hokkaido Consadole Sapporo,GK ,36,925,54.0,60.0,63.0,63.0,51.0,59,59,20000.0,1000.0
+M. Engl,Germany,Rot-Weiß Erfurt,GK ,19,1108,61.0,52.0,60.0,58.0,60.0,59,72,230000.0,1000.0
+A. Maksimenko,Russia,Spartak Moscow,GK ,19,898,61.0,52.0,63.0,58.0,66.0,59,72,230000.0,2000.0
+R. Charles-Cook,England,Swindon Town,GK ,23,1091,65.0,58.0,60.0,49.0,61.0,59,68,180000.0,2000.0
+L. García,Mexico,Deportivo Toluca,GK ,24,1180,61.0,58.0,61.0,58.0,55.0,59,64,150000.0,1000.0
+J. Karlstrøm,Norway,Tromsø IL,GK ,20,894,60.0,58.0,57.0,57.0,60.0,59,70,210000.0,1000.0
+C. Riegler,Austria,SKN St. Pölten,GK ,25,939,60.0,57.0,59.0,56.0,59.0,58,62,120000.0,2000.0
+V. Myhra,Norway,Odds BK,GK ,20,1054,58.0,56.0,57.0,57.0,60.0,58,69,170000.0,1000.0
+G. Banguera,Colombia,Atlético Huila,GK ,21,948,64.0,45.0,55.0,54.0,66.0,58,68,160000.0,1000.0
+M. Roffo,Argentina,Boca Juniors,GK ,17,885,58.0,61.0,56.0,55.0,61.0,58,81,230000.0,1000.0
+Dani Hernández,Spain,AD Alcorcón,GK ,21,943,59.0,56.0,60.0,58.0,57.0,58,68,160000.0,1000.0
+L. Chiappero,Argentina,Defensa y Justicia,GK ,23,987,58.0,51.0,53.0,59.0,57.0,58,63,120000.0,1000.0
+L. Kelly,Scotland,Rangers,GK ,21,990,60.0,56.0,61.0,55.0,62.0,58,70,180000.0,4000.0
+I. Leschuk,Russia,Dinamo Moscow,GK ,21,855,63.0,56.0,50.0,50.0,62.0,58,67,150000.0,2000.0
+F. Hall,Bermuda,Limerick FC,GK ,32,1052,61.0,52.0,40.0,57.0,60.0,58,58,70000.0,1000.0
+A. Knezovic,Croatia,Kristiansund BK,GK ,24,888,56.0,60.0,52.0,60.0,59.0,58,65,130000.0,1000.0
+A. Torres,Mexico,Guadalajara,GK ,21,1111,62.0,57.0,53.0,50.0,58.0,58,69,170000.0,4000.0
+K. Le Roy,France,En Avant de Guingamp,GK ,19,837,58.0,58.0,59.0,59.0,59.0,58,68,150000.0,1000.0
+P. McLain,United States,Minnesota Thunder,GK ,28,1053,61.0,55.0,61.0,53.0,62.0,58,58,90000.0,1000.0
+T. Müller,Germany,Hallescher FC,GK ,19,986,58.0,56.0,54.0,54.0,60.0,58,70,170000.0,1000.0
+J. Bonham,Republic of Ireland,Carlisle United,GK ,23,1075,58.0,56.0,67.0,58.0,60.0,58,66,140000.0,4000.0
+L. Fernández,Mexico,Tigres U.A.N.L.,GK ,24,1015,57.0,61.0,58.0,49.0,64.0,58,66,140000.0,5000.0
+E. Gründemann,Germany,Hansa Rostock,GK ,18,812,56.0,57.0,58.0,58.0,62.0,58,78,210000.0,1000.0
+S. Cleveland,United States,Chicago Fire Soccer Club,GK ,23,1116,57.0,55.0,60.0,49.0,63.0,58,64,130000.0,1000.0
+M. Acton,Australia,Melbourne Victory,GK ,25,1022,61.0,54.0,56.0,53.0,62.0,58,63,120000.0,1000.0
+M. Brouwer,Netherlands,Heracles Almelo,GK ,24,934,62.0,57.0,57.0,53.0,59.0,58,63,120000.0,1000.0
+L. Ketterer,United States,Columbus Crew SC,GK ,23,971,54.0,57.0,55.0,65.0,52.0,58,63,120000.0,1000.0
+T. Doornbusch,Netherlands,SC Heerenveen,GK ,17,911,61.0,60.0,59.0,59.0,62.0,58,75,200000.0,1000.0
+P. Gallacher,Scotland,Heart of Midlothian,GK ,37,1022,55.0,60.0,53.0,56.0,57.0,58,58,10000.0,1000.0
+I. Rodríguez,Mexico,Puebla,GK ,24,1152,58.0,55.0,55.0,58.0,58.0,58,64,130000.0,1000.0
+Pablo Cacharrón,Spain,CD Lugo,GK ,20,1058,56.0,57.0,54.0,56.0,59.0,58,70,180000.0,1000.0
+B. Verbong,Netherlands,VVV-Venlo,GK ,17,869,61.0,59.0,60.0,52.0,58.0,58,70,150000.0,1000.0
+N. Kocik,France,Valenciennes FC,GK ,18,840,58.0,51.0,59.0,62.0,61.0,58,70,160000.0,1000.0
+V. Baume,Belgium,Sporting Charleroi,GK ,20,1052,59.0,55.0,57.0,52.0,64.0,58,69,170000.0,1000.0
+T. Demirtaş,Turkey,Gençlerbirliği SK,GK ,23,815,61.0,57.0,55.0,55.0,61.0,58,65,130000.0,2000.0
+T. Schützenauer,Austria,SK Sturm Graz,GK ,20,1002,58.0,55.0,60.0,58.0,56.0,58,66,140000.0,2000.0
+B. Derksen,Netherlands,Roda JC Kerkrade,GK ,18,860,59.0,60.0,59.0,56.0,60.0,58,68,140000.0,1000.0
+B. Bayazit,Netherlands,Vitesse,GK ,18,811,54.0,61.0,53.0,60.0,57.0,58,75,210000.0,1000.0
+J. Albrecht,Germany,SV Wehen Wiesbaden,GK ,18,865,58.0,58.0,59.0,55.0,57.0,58,73,210000.0,1000.0
+T. Wiesner,Germany,Fortuna Düsseldorf,GK ,20,967,61.0,57.0,56.0,53.0,59.0,58,72,230000.0,2000.0
+K. Matsui,Japan,Omiya Ardija,GK ,31,854,59.0,57.0,51.0,57.0,59.0,58,58,80000.0,1000.0
+M. Nardi,Italy,Parma,GK ,30,878,55.0,56.0,58.0,58.0,59.0,58,58,80000.0,1000.0
+Lee Jae Hyeong,Korea Republic,Jeonbuk Hyundai Motors,GK ,19,872,58.0,58.0,56.0,58.0,61.0,58,69,170000.0,1000.0
+M. Stryjek,Poland,Accrington Stanley,GK ,20,995,61.0,53.0,51.0,53.0,59.0,58,68,160000.0,1000.0
+L. Álvarez,Argentina,Chacarita Juniors,GK ,23,892,56.0,54.0,52.0,60.0,61.0,58,66,140000.0,1000.0
+L. Italiano,Australia,Wellington Phoenix,GK ,26,967,59.0,56.0,56.0,59.0,59.0,58,62,120000.0,1000.0
+J. Fryer,England,Stevenage,GK ,21,1028,69.0,54.0,57.0,53.0,61.0,58,70,180000.0,1000.0
+G. Poluzzi,Italy,Ferrara (SPAL),GK ,29,824,56.0,57.0,46.0,53.0,68.0,58,59,100000.0,2000.0
+F. Al Habib,Saudi Arabia,Al Shabab,GK ,19,861,57.0,64.0,49.0,53.0,62.0,58,67,140000.0,1000.0
+D. Nizic,Australia,Morecambe,GK ,22,1045,61.0,56.0,56.0,53.0,60.0,58,68,160000.0,1000.0
+T. Akmurzin,Russia,Rubin Kazan,GK ,19,1052,64.0,48.0,58.0,51.0,65.0,58,75,230000.0,2000.0
+G. Bokwé,Cameroon,,GK ,27,977,56.0,61.0,55.0,59.0,63.0,58,60,0.0,0.0
+R. Griffiths,England,Motherwell,GK ,21,1055,59.0,55.0,64.0,53.0,62.0,58,69,170000.0,1000.0
+A. Marfaing,France,Le Havre AC,GK ,21,1065,60.0,53.0,54.0,61.0,58.0,58,70,180000.0,1000.0
+H. Oka,Japan,Ventforet Kofu,GK ,29,951,58.0,46.0,53.0,64.0,60.0,58,59,100000.0,1000.0
+V. Noring,Sweden,Heart of Midlothian,GK ,26,985,58.0,59.0,53.0,56.0,58.0,58,60,110000.0,1000.0
+L. Saxton,England,GIF Sundsvall,GK ,27,938,57.0,59.0,60.0,56.0,55.0,58,59,100000.0,1000.0
+G. Legg,England,Reading,GK ,21,1189,57.0,55.0,44.0,60.0,62.0,58,68,160000.0,3000.0
+F. Adorni,Italy,Parma,GK ,17,862,59.0,59.0,50.0,53.0,58.0,58,73,200000.0,1000.0
+D. Pietrzkiewicz,Poland,Sandecja Nowy Sącz,GK ,29,973,56.0,56.0,49.0,56.0,64.0,58,59,100000.0,1000.0
+M. Peano,Argentina,Unión de Santa Fe,GK ,18,897,58.0,56.0,57.0,58.0,61.0,58,72,210000.0,1000.0
+M. Safonov,Russia,FC Krasnodar,GK ,18,843,59.0,65.0,64.0,52.0,61.0,58,77,210000.0,2000.0
+Gorka Giralt,Spain,Real Oviedo,GK ,21,923,61.0,58.0,46.0,59.0,56.0,58,68,160000.0,1000.0
+M. Šarkić,Montenegro,Wigan Athletic,GK ,19,959,59.0,60.0,56.0,62.0,60.0,58,72,230000.0,2000.0
+A. Chapman,England,Accrington Stanley,GK ,27,917,64.0,57.0,53.0,57.0,55.0,58,60,100000.0,1000.0
+F. Rossi,Italy,Atalanta,GK ,26,902,62.0,59.0,62.0,58.0,60.0,58,62,120000.0,3000.0
+T. Castella,Switzerland,FC Lausanne-Sports,GK ,24,1011,62.0,54.0,51.0,52.0,67.0,58,65,130000.0,1000.0
+F. Bonansea,Argentina,Belgrano de Córdoba,GK ,19,985,63.0,52.0,51.0,53.0,62.0,58,71,190000.0,1000.0
+L. Grill,Germany,1. FC Kaiserslautern,GK ,18,867,59.0,55.0,55.0,56.0,59.0,58,76,210000.0,1000.0
+L. Montipó,Italy,Novara,GK ,21,1023,57.0,54.0,52.0,58.0,59.0,58,68,160000.0,1000.0
+J. Gies,Germany,SV Meppen,GK ,22,848,57.0,59.0,55.0,53.0,64.0,58,64,130000.0,1000.0
+E. Louro,United States,New York Red Bulls,GK ,21,1017,59.0,56.0,62.0,59.0,59.0,58,65,130000.0,1000.0
+J. McDonnell,England,AFC Wimbledon,GK ,23,877,58.0,56.0,54.0,58.0,62.0,58,67,150000.0,1000.0
+N. Townsend,England,Barnsley,GK ,22,1061,54.0,61.0,44.0,61.0,57.0,58,67,150000.0,1000.0
+A. Pearce,Australia,Central Coast Mariners,GK ,20,1018,57.0,56.0,55.0,58.0,56.0,57,71,190000.0,1000.0
+M. Lansing,United States,Aalborg BK,GK ,23,1094,57.0,55.0,62.0,55.0,56.0,57,66,120000.0,1000.0
+C. Brown,United States,Houston Dynamo,GK ,25,996,51.0,58.0,67.0,51.0,64.0,57,63,100000.0,1000.0
+Y. Mersin,Turkey,Crawley Town,GK ,22,988,57.0,52.0,56.0,58.0,59.0,57,65,110000.0,1000.0
+E. Zharikov,Russia,FC Ural,GK ,19,1010,59.0,53.0,59.0,53.0,60.0,57,73,180000.0,1000.0
+J. Meneses,Colombia,CD America de Cali,GK ,33,870,56.0,60.0,57.0,58.0,58.0,57,57,50000.0,1000.0
+A. Timofeev,Russia,FC Ural,GK ,21,885,56.0,54.0,53.0,54.0,62.0,57,67,130000.0,2000.0
+M. O'Leary,England,Bristol City,GK ,20,1017,60.0,58.0,54.0,58.0,56.0,57,68,140000.0,3000.0
+F. Serraiocco,Italy,Carpi,GK ,23,1054,58.0,55.0,49.0,53.0,61.0,57,62,100000.0,1000.0
+C. Burton,England,Hull City,GK ,20,1022,58.0,56.0,54.0,55.0,60.0,57,69,150000.0,1000.0
+R. Cardozo,Paraguay,Águilas Doradas,GK ,28,851,55.0,57.0,58.0,60.0,57.0,57,58,80000.0,1000.0
+M. Köbbing,Germany,1. FC Heidenheim,GK ,20,910,62.0,58.0,53.0,52.0,57.0,57,70,160000.0,1000.0
+G. Sava,Romania,Dundalk,GK ,30,1064,59.0,56.0,55.0,58.0,57.0,57,57,70000.0,1000.0
+D. Margush,Australia,Adelaide United,GK ,19,852,55.0,57.0,52.0,57.0,58.0,57,71,180000.0,1000.0
+R. Jendrusch,Germany,FC Erzgebirge Aue,GK ,21,895,62.0,54.0,54.0,50.0,62.0,57,67,130000.0,1000.0
+M. Nilsson,Sweden,Halmstads BK,GK ,23,949,57.0,54.0,58.0,56.0,62.0,57,65,110000.0,1000.0
+M. Al Haidari,Saudi Arabia,Al Hilal,GK ,21,907,55.0,58.0,55.0,58.0,55.0,57,67,130000.0,3000.0
+R. Etheridge,England,Doncaster Rovers,GK ,22,1044,59.0,55.0,57.0,54.0,58.0,57,66,120000.0,1000.0
+T. Akahoshi,Japan,Sagan Tosu,GK ,33,852,54.0,53.0,54.0,61.0,62.0,57,57,50000.0,1000.0
+F. Dornebusch,Germany,VfL Bochum,GK ,22,1022,60.0,46.0,49.0,61.0,64.0,57,66,120000.0,2000.0
+L. Plogmann,Germany,Werder Bremen II,GK ,17,991,58.0,56.0,54.0,46.0,63.0,57,81,190000.0,1000.0
+N. Trott,England,West Ham United,GK ,18,900,57.0,58.0,61.0,54.0,60.0,57,75,170000.0,3000.0
+M. Pais,United States,Toronto FC,GK ,26,1133,55.0,55.0,59.0,59.0,58.0,57,62,100000.0,1000.0
+C. Mafoumbi,France,Blackpool,GK ,23,1055,61.0,51.0,57.0,50.0,62.0,57,63,100000.0,1000.0
+V. Karakuş,Turkey,Kayserispor,GK ,19,896,62.0,58.0,49.0,48.0,64.0,57,74,180000.0,1000.0
+F. Buntić,Croatia,FC Ingolstadt 04,GK ,20,811,57.0,55.0,56.0,56.0,56.0,57,71,190000.0,2000.0
+F. Sollacaro,France,AC Ajaccio,GK ,23,937,62.0,49.0,55.0,50.0,64.0,57,64,110000.0,1000.0
+S. Rodas,Colombia,Alianza Petrolera,GK ,27,1015,59.0,52.0,66.0,58.0,54.0,57,59,80000.0,1000.0
+A. Berezin,Russia,Arsenal Tula,GK ,24,1035,61.0,49.0,54.0,53.0,63.0,57,64,110000.0,2000.0
+O. Ottesen,Denmark,FC Midtjylland,GK ,18,911,53.0,54.0,58.0,56.0,60.0,57,67,120000.0,1000.0
+M. Kryczka,Poland,Wisła Płock,GK ,24,840,59.0,58.0,65.0,54.0,62.0,57,61,100000.0,1000.0
+S. Al Ghamdi,Saudi Arabia,Al Taawoun,GK ,25,1026,55.0,55.0,56.0,53.0,64.0,57,61,100000.0,2000.0
+F. Due,Denmark,Randers FC,GK ,24,984,55.0,50.0,61.0,55.0,60.0,57,63,100000.0,1000.0
+A. Shubin,Russia,FC Ural,GK ,20,1002,59.0,55.0,53.0,51.0,60.0,57,72,190000.0,2000.0
+K. Ishikawa,Japan,Vegalta Sendai,GK ,24,859,59.0,59.0,55.0,47.0,59.0,57,61,100000.0,1000.0
+T. Williams,New Zealand,,GK ,33,1025,57.0,53.0,63.0,56.0,60.0,57,57,0.0,0.0
+J. León,Mexico,Club América,GK ,21,902,63.0,52.0,60.0,53.0,62.0,57,68,140000.0,4000.0
+G. Banaziak,France,Amiens SC Football,GK ,20,867,59.0,58.0,59.0,58.0,59.0,57,69,150000.0,1000.0
+S. Collis,England,Rochdale,GK ,36,1038,61.0,55.0,60.0,57.0,51.0,57,57,10000.0,1000.0
+B. Austin,England,Tottenham Hotspur,GK ,18,838,62.0,50.0,46.0,57.0,61.0,57,77,170000.0,3000.0
+A. García,Colombia,Atlético Huila,GK ,23,840,63.0,48.0,55.0,48.0,62.0,57,65,110000.0,1000.0
+Manu Cedrón,Spain,CD Lugo,GK ,21,1134,65.0,55.0,54.0,49.0,58.0,57,67,130000.0,1000.0
+T. Figueroa,Argentina,Vélez Sarsfield,GK ,22,846,58.0,55.0,62.0,55.0,59.0,57,64,110000.0,1000.0
+A. Santopadre,Italy,Perugia,GK ,18,839,55.0,58.0,54.0,52.0,59.0,57,73,170000.0,1000.0
+A. Bass,England,Portsmouth,GK ,19,1132,58.0,52.0,51.0,51.0,59.0,57,69,140000.0,1000.0
+R. Suzuki,Japan,Gamba Osaka,GK ,23,933,60.0,63.0,55.0,49.0,60.0,57,63,100000.0,1000.0
+M. Sprang,Germany,FSV Zwickau,GK ,16,830,58.0,61.0,57.0,53.0,52.0,57,70,140000.0,1000.0
+C. Dawson,England,Sheffield Wednesday,GK ,21,1086,56.0,57.0,59.0,58.0,55.0,57,67,130000.0,4000.0
+G. Larsonneur,France,Stade Brestois 29,GK ,20,1033,59.0,54.0,57.0,53.0,59.0,57,70,160000.0,1000.0
+S. Custers,Netherlands,VVV-Venlo,GK ,17,847,57.0,56.0,54.0,56.0,58.0,57,72,170000.0,1000.0
+F. Pizzicanella,Argentina,Atlético Tucumán,GK ,21,869,56.0,58.0,60.0,52.0,55.0,57,65,120000.0,1000.0
+M. Maroši,Slovakia,Doncaster Rovers,GK ,23,1011,61.0,49.0,54.0,55.0,59.0,57,62,100000.0,1000.0
+P. Jensen,Denmark,FC Nordsjælland,GK ,19,875,55.0,55.0,56.0,57.0,59.0,57,64,100000.0,1000.0
+C. Day,England,Stevenage,GK ,41,825,51.0,52.0,45.0,60.0,52.0,57,57,10000.0,1000.0
+G. Murray,Republic of Ireland,Bohemian FC,GK ,23,1057,58.0,56.0,55.0,56.0,58.0,57,65,110000.0,1000.0
+W. Cuesta,Colombia,Deportes Tolima,GK ,24,1001,53.0,54.0,55.0,70.0,48.0,57,63,100000.0,1000.0
+L. Bilboe,England,Rotherham United,GK ,19,870,60.0,57.0,60.0,56.0,55.0,57,72,180000.0,1000.0
+K. Martin,Switzerland,FC Lausanne-Sports,GK ,22,915,60.0,53.0,48.0,54.0,62.0,56,67,120000.0,1000.0
+B. Lerch,Germany, SSV Jahn Regensburg,GK ,21,1039,57.0,56.0,53.0,51.0,60.0,56,66,110000.0,1000.0
+W. Brown,England,Oxford United,GK ,40,885,57.0,54.0,48.0,50.0,62.0,56,56,10000.0,1000.0
+S. Patton,Northern Ireland,Sligo Rovers,GK ,21,1033,57.0,52.0,57.0,52.0,58.0,56,63,90000.0,1000.0
+J. Kanayama,Japan,Hokkaido Consadole Sapporo,GK ,29,859,47.0,60.0,50.0,50.0,58.0,56,56,60000.0,1000.0
+C. Libertiaux,Belgium,Royal Excel Mouscron,GK ,19,870,52.0,57.0,59.0,56.0,62.0,56,68,120000.0,1000.0
+M. Schevenels,Belgium,Sint-Truidense VV,GK ,17,823,57.0,59.0,51.0,48.0,62.0,56,76,150000.0,1000.0
+D. Grange,France,Olympique Lyonnais,GK ,21,855,59.0,54.0,54.0,60.0,60.0,56,68,130000.0,4000.0
+N. Lemaître,France,Stade de Reims,GK ,20,924,61.0,52.0,56.0,54.0,59.0,56,68,130000.0,1000.0
+C. Gallagher,Republic of Ireland,Finn Harps,GK ,25,1075,59.0,51.0,44.0,54.0,61.0,56,60,80000.0,1000.0
+Y. Uekusa,Japan,Shimizu S-Pulse,GK ,34,1329,46.0,48.0,59.0,55.0,65.0,56,56,40000.0,1000.0
+V. Jovic,Bosnia Herzegovina,SV Sandhausen,GK ,19,1005,52.0,55.0,55.0,55.0,57.0,56,72,160000.0,1000.0
+W. Al Enazi,Saudi Arabia,Al Nassr,GK ,20,891,58.0,55.0,53.0,55.0,58.0,56,65,110000.0,3000.0
+A. Fagerström,Sweden,Örebro SK,GK ,25,875,59.0,55.0,56.0,54.0,55.0,56,60,80000.0,1000.0
+J. Orobio,Colombia,Atlético Bucaramanga,GK ,20,847,58.0,53.0,57.0,53.0,57.0,56,68,130000.0,1000.0
+Kim Tae Ho,Korea Republic,Jeonbuk Hyundai Motors,GK ,25,1040,59.0,47.0,54.0,57.0,59.0,56,62,90000.0,1000.0
+M. Bersano,United States,San Jose Earthquakes,GK ,24,1087,56.0,51.0,60.0,54.0,58.0,56,62,90000.0,1000.0
+T. Paterok,Germany,VfL Osnabrück,GK ,24,982,59.0,51.0,57.0,52.0,63.0,56,62,90000.0,1000.0
+J. Sievers,Germany,1. FC Kaiserslautern,GK ,22,950,60.0,52.0,49.0,54.0,57.0,56,66,110000.0,1000.0
+L. Malagón,Mexico,Monarcas Morelia,GK ,20,844,57.0,54.0,58.0,59.0,58.0,56,68,130000.0,1000.0
+M. Miño,Argentina,Rosario Central,GK ,19,846,61.0,56.0,49.0,46.0,58.0,56,73,160000.0,1000.0
+M. Iliadis,Greece,Salernitana,GK ,21,852,53.0,57.0,52.0,59.0,58.0,56,66,110000.0,1000.0
+M. Asiri,Saudi Arabia,Al Qadisiyah,GK ,24,993,54.0,56.0,51.0,56.0,57.0,56,60,80000.0,2000.0
+T. Te Duits,Netherlands,Excelsior,GK ,18,789,53.0,57.0,52.0,58.0,53.0,56,72,150000.0,1000.0
+D. Olsson,Sweden,IF Elfsborg,GK ,20,1033,55.0,58.0,55.0,54.0,53.0,56,68,130000.0,1000.0
+H. Isted,England,Luton Town,GK ,20,980,60.0,54.0,54.0,50.0,57.0,56,70,160000.0,2000.0
+A. Rawls,United States,New York City Football Club,GK ,25,1000,58.0,56.0,67.0,53.0,58.0,56,62,90000.0,1000.0
+Y. Kato,Japan,Omiya Ardija,GK ,19,856,54.0,58.0,53.0,58.0,59.0,56,72,160000.0,1000.0
+W. Percevaux,France,US Orléans Loiret Football,GK ,18,913,59.0,58.0,56.0,55.0,59.0,56,67,110000.0,1000.0
+J. Lumley,England,Queens Park Rangers,GK ,22,1035,56.0,59.0,56.0,50.0,56.0,56,65,110000.0,3000.0
+J. Pourtau,Argentina,Estudiantes de La Plata,GK ,17,854,56.0,58.0,55.0,53.0,62.0,56,75,150000.0,1000.0
+J. Maddison,England,Yeovil Town,GK ,22,981,62.0,46.0,54.0,48.0,65.0,56,66,110000.0,1000.0
+D. Mitov,Bulgaria,Cambridge United,GK ,20,1107,63.0,54.0,53.0,51.0,55.0,56,65,110000.0,2000.0
+K. Okanishi,Japan,Ventforet Kofu,GK ,26,956,59.0,55.0,53.0,55.0,54.0,56,60,80000.0,1000.0
+M. Nicolas,Germany,Borussia Mönchengladbach,GK ,19,918,61.0,57.0,54.0,49.0,53.0,56,74,160000.0,1000.0
+M. Layer,Germany,VfR Aalen,GK ,18,834,59.0,59.0,55.0,52.0,52.0,56,71,150000.0,1000.0
+S. Brodersen,Germany,FC St. Pauli,GK ,20,982,57.0,54.0,52.0,56.0,56.0,56,67,120000.0,1000.0
+H. Al Watyan,Saudi Arabia,Al Fateh,GK ,20,1036,55.0,58.0,47.0,52.0,58.0,56,68,130000.0,2000.0
+J. Hall,Australia,Western Sydney Wanderers,GK ,22,900,55.0,54.0,50.0,57.0,62.0,56,64,100000.0,1000.0
+E. Balcombe,England,Brentford,GK ,17,976,53.0,56.0,53.0,59.0,54.0,56,72,150000.0,2000.0
+M. Janssens,Belgium,Waasland-Beveren,GK ,19,982,60.0,55.0,51.0,49.0,58.0,56,69,140000.0,1000.0
+H. Nakabayashi,Japan,Sanfrecce Hiroshima,GK ,31,941,59.0,54.0,66.0,52.0,59.0,56,56,50000.0,1000.0
+I. Chicco,Argentina,Colon de Santa Fe,GK ,21,876,58.0,59.0,52.0,56.0,56.0,56,70,160000.0,1000.0
+H. Campbell,England,Burton Albion,GK ,21,1009,63.0,52.0,47.0,55.0,56.0,56,69,140000.0,1000.0
+J. Jiménez,Colombia,Envigado FC,GK ,21,1023,57.0,52.0,56.0,56.0,55.0,56,68,130000.0,1000.0
+S. Kawamata,Japan,Kashima Antlers,GK ,27,889,58.0,52.0,55.0,54.0,63.0,56,56,60000.0,1000.0
+L. Zigi,Ghana,FC Sochaux-Montbéliard,GK ,20,1051,58.0,47.0,47.0,56.0,61.0,56,73,160000.0,1000.0
+M. Ranmark,Norway,Molde FK,GK ,21,889,55.0,60.0,57.0,54.0,58.0,56,64,100000.0,1000.0
+N. Feely,Australia,Perth Glory,GK ,25,961,59.0,52.0,52.0,56.0,56.0,56,61,90000.0,1000.0
+M. Díaz,Argentina,Club Atlético Tigre,GK ,27,825,51.0,53.0,53.0,61.0,55.0,56,59,80000.0,2000.0
+R. Scully,Scotland,Partick Thistle F.C.,GK ,24,1012,59.0,53.0,50.0,54.0,57.0,56,64,100000.0,1000.0
+Y. Zummack,Germany,Sportfreunde Lotte,GK ,21,928,59.0,51.0,53.0,51.0,61.0,56,62,90000.0,1000.0
+Robert Sanchez,Spain,Brighton & Hove Albion,GK ,19,947,60.0,52.0,57.0,52.0,59.0,55,73,160000.0,2000.0
+Yun Pyeong Gook,Korea Republic,GwangJu FC,GK ,25,1049,57.0,50.0,53.0,52.0,56.0,55,60,80000.0,1000.0
+H. Fukushima,Japan,Urawa Red Diamonds,GK ,24,1112,56.0,52.0,64.0,52.0,57.0,55,62,90000.0,1000.0
+K. McIntosh,United States,Portland Timbers,GK ,23,1142,53.0,55.0,64.0,54.0,55.0,55,62,90000.0,1000.0
+N. Berchtold,Switzerland,FC Sion,GK ,17,853,59.0,59.0,55.0,49.0,54.0,55,77,160000.0,1000.0
+M. Cassara,France,GFC Ajaccio,GK ,25,809,54.0,59.0,51.0,58.0,52.0,55,60,80000.0,1000.0
+Marcos Lavín,Spain,Córdoba CF,GK ,20,858,54.0,63.0,51.0,48.0,54.0,55,66,120000.0,1000.0
+K. Chorążka,Poland,Wisła Kraków,GK ,18,817,58.0,55.0,48.0,52.0,60.0,55,74,150000.0,1000.0
+S. Hernández,Mexico,Club Atlas,GK ,20,898,55.0,55.0,56.0,57.0,56.0,55,68,140000.0,2000.0
+A. Kapp,United States,Minnesota Thunder,GK ,22,1157,58.0,55.0,63.0,49.0,54.0,55,64,100000.0,1000.0
+C. Winn,England,Galway United,GK ,25,1036,59.0,52.0,56.0,45.0,61.0,55,58,80000.0,1000.0
+R. Fitzsimons,Republic of Ireland,Notts County,GK ,23,957,56.0,52.0,51.0,51.0,53.0,55,65,110000.0,2000.0
+A. Palmer,England,West Bromwich Albion,GK ,20,910,62.0,49.0,58.0,50.0,57.0,55,65,110000.0,4000.0
+R. Boot,England,Port Vale,GK ,22,1123,55.0,53.0,51.0,53.0,54.0,55,65,110000.0,2000.0
+S. Rowley,England,Shrewsbury,GK ,20,1007,54.0,55.0,53.0,56.0,53.0,55,67,130000.0,1000.0
+O. Evans,Wales,Wigan Athletic,GK ,20,904,59.0,58.0,56.0,55.0,57.0,55,70,160000.0,1000.0
+C. Haas,Austria,SK Rapid Wien,GK ,24,826,52.0,55.0,60.0,57.0,54.0,55,58,80000.0,2000.0
+A. Galens,Belgium,KV Kortrijk,GK ,19,842,56.0,62.0,56.0,49.0,53.0,55,70,160000.0,1000.0
+J. Bruhns,Germany,SC Fortuna Köln,GK ,18,957,59.0,55.0,49.0,49.0,59.0,55,67,110000.0,1000.0
+V. Venditti,Italy,Ascoli,GK ,20,813,58.0,59.0,51.0,54.0,54.0,55,68,140000.0,1000.0
+K. Tanno,Japan,Cerezo Osaka,GK ,31,887,57.0,66.0,55.0,44.0,53.0,55,55,50000.0,1000.0
+A. Al Amri,Saudi Arabia,Al Ittihad,GK ,22,830,58.0,53.0,57.0,51.0,59.0,55,61,90000.0,3000.0
+M. Adamonis,Lithuania,Salernitana,GK ,20,836,60.0,59.0,54.0,52.0,50.0,55,69,160000.0,3000.0
+D. Vambolt,Russia,Amkar Perm,GK ,22,993,60.0,55.0,48.0,53.0,55.0,55,61,90000.0,2000.0
+Ahn Joon Soo,Korea Republic,Cerezo Osaka,GK ,19,849,56.0,50.0,59.0,59.0,58.0,55,70,160000.0,1000.0
+R. Sallinger,Austria,Wolfsberger AC,GK ,21,1022,58.0,52.0,53.0,51.0,58.0,55,67,130000.0,1000.0
+F. Urraburo,Argentina,San Martín de San Juan,GK ,26,810,51.0,52.0,58.0,60.0,53.0,55,59,80000.0,1000.0
+A. Henger,Poland,Pogoń Szczecin,GK ,21,1018,59.0,48.0,49.0,51.0,57.0,55,68,140000.0,1000.0
+C. Mosquera,Colombia,Tigres FC,GK ,22,827,51.0,62.0,59.0,47.0,59.0,55,61,90000.0,1000.0
+A. Al Meshaweh,Saudi Arabia,Al Raed,GK ,21,1009,59.0,52.0,55.0,51.0,54.0,55,65,110000.0,2000.0
+J. Hoekstra,Netherlands,FC Groningen,GK ,18,822,59.0,54.0,56.0,52.0,58.0,55,71,150000.0,1000.0
+Y. De Nayer,Belgium,SV Zulte-Waregem,GK ,18,853,57.0,57.0,52.0,52.0,55.0,55,70,150000.0,1000.0
+J. McKeown,Republic of Ireland,Grimsby Town,GK ,27,1013,59.0,48.0,57.0,48.0,59.0,55,56,70000.0,2000.0
+J. Tibbetts,England,Peterborough United,GK ,18,863,58.0,54.0,45.0,52.0,62.0,55,67,110000.0,1000.0
+J. Holmes,Australia,Bournemouth,GK ,20,983,53.0,54.0,56.0,55.0,54.0,55,71,160000.0,4000.0
+D. Coyne,Wales,Shrewsbury,GK ,43,1086,51.0,54.0,58.0,61.0,46.0,55,55,10000.0,1000.0
+K. Kakoi,Japan,Cerezo Osaka,GK ,26,1031,58.0,54.0,57.0,53.0,54.0,55,57,70000.0,1000.0
+R. Lovett,England,Cheltenham Town,GK ,20,819,57.0,56.0,53.0,55.0,56.0,55,66,120000.0,1000.0
+F. Ravaglia,Italy,Bologna,GK ,17,869,58.0,59.0,51.0,49.0,58.0,55,75,140000.0,2000.0
+R. Piscitelli,Italy,Benevento Calcio,GK ,23,866,51.0,53.0,49.0,61.0,57.0,55,63,100000.0,2000.0
+H. Takimoto,Japan,Kashiwa Reysol,GK ,20,804,58.0,53.0,51.0,50.0,58.0,55,69,160000.0,1000.0
+J. Walker,England,Lincoln City,GK ,43,1002,51.0,53.0,48.0,56.0,56.0,55,55,10000.0,1000.0
+J. Eastwood,England,Sheffield United,GK ,20,972,53.0,56.0,45.0,53.0,57.0,55,69,160000.0,3000.0
+S. Tarolli,Italy,Foggia,GK ,19,837,53.0,58.0,59.0,56.0,55.0,55,65,110000.0,1000.0
+E. Selen,Turkey,Evkur Yeni Malatyaspor,GK ,22,945,58.0,55.0,59.0,46.0,52.0,55,65,110000.0,1000.0
+Y. Gómez,Colombia,Independiente Medellín,GK ,17,875,56.0,58.0,51.0,56.0,52.0,55,73,140000.0,1000.0
+R. Källman,Finland,HJK Helsinki,GK ,18,975,59.0,53.0,51.0,52.0,57.0,54,70,110000.0,1000.0
+B. Killip,England,Grimsby Town,GK ,21,1015,54.0,52.0,54.0,52.0,51.0,54,65,90000.0,1000.0
+O. Øvretveit,Norway,Sandefjord Fotball,GK ,23,929,53.0,55.0,47.0,51.0,58.0,54,62,70000.0,1000.0
+R. Hanquinquant,France,US Quevilly-Rouen,GK ,18,830,55.0,50.0,54.0,52.0,55.0,54,64,80000.0,1000.0
+A. Chernov,Russia,FC Ufa,GK ,19,861,56.0,54.0,58.0,56.0,56.0,54,68,120000.0,1000.0
+A. Al Zahrani,Saudi Arabia,Al Raed,GK ,23,898,52.0,52.0,61.0,51.0,59.0,54,62,70000.0,2000.0
+D. Ermakov,Russia,FC Rostov,GK ,18,1004,55.0,49.0,53.0,47.0,57.0,54,65,80000.0,1000.0
+T. Bilic,Australia,Brisbane Roar,GK ,19,816,53.0,55.0,54.0,53.0,54.0,54,64,80000.0,1000.0
+D. Marzino,Switzerland,BSC Young Boys,GK ,20,1020,61.0,47.0,49.0,44.0,60.0,54,64,90000.0,1000.0
+C. Gregory,England,Shrewsbury,GK ,17,981,53.0,51.0,55.0,53.0,56.0,54,80,120000.0,1000.0
+L. Klante,Germany,SC Preußen Münster,GK ,18,916,57.0,54.0,52.0,50.0,57.0,54,72,110000.0,1000.0
+K. Rutlin,Norway,Sogndal,GK ,18,805,44.0,59.0,52.0,49.0,59.0,54,66,90000.0,1000.0
+B. Ozegovic,Austria,SCR Altach,GK ,17,858,59.0,53.0,54.0,54.0,56.0,54,66,80000.0,1000.0
+S. George,England,Carlisle United,GK ,19,853,56.0,52.0,48.0,53.0,55.0,54,68,120000.0,3000.0
+W. Eskelinen,Sweden,GIF Sundsvall,GK ,20,948,60.0,49.0,41.0,53.0,55.0,54,62,80000.0,1000.0
+J. Bittner,England,Newport County,GK ,35,928,49.0,54.0,50.0,57.0,52.0,54,54,20000.0,1000.0
+T. Ryan,Republic of Ireland,Huddersfield Town,GK ,20,1021,55.0,49.0,45.0,51.0,59.0,54,69,120000.0,3000.0
+D. Budzyński,Poland,Śląsk Wrocław,GK ,25,1074,56.0,49.0,52.0,47.0,63.0,54,57,60000.0,1000.0
+M. Olsen Pettersen,Norway,SK Brann,GK ,17,833,56.0,49.0,58.0,47.0,60.0,54,67,90000.0,1000.0
+D. Richards,Wales,Crewe Alexandra,GK ,23,957,53.0,52.0,51.0,53.0,54.0,54,59,70000.0,2000.0
+C. Addai,Ghana,Coventry City,GK ,19,761,51.0,51.0,48.0,57.0,60.0,54,70,120000.0,1000.0
+T. Krapikas,Lithuania,Sampdoria,GK ,18,833,55.0,53.0,54.0,55.0,56.0,54,64,80000.0,1000.0
+P. Ovchinnikov,Russia,CSKA Moscow,GK ,19,815,57.0,53.0,54.0,46.0,59.0,54,66,90000.0,2000.0
+J. Hamon,England,Exeter City,GK ,22,976,54.0,50.0,51.0,52.0,58.0,54,64,80000.0,1000.0
+B. Scott,United States,1. FC Köln,GK ,18,865,59.0,52.0,54.0,53.0,55.0,54,73,110000.0,1000.0
+O. Sail,New Zealand,Wellington Phoenix,GK ,21,985,56.0,50.0,51.0,54.0,51.0,54,63,80000.0,1000.0
+L. Andrenacci,Italy,Brescia,GK ,22,1002,54.0,53.0,54.0,47.0,58.0,54,61,70000.0,1000.0
+M. Bleve,Italy,Ternana,GK ,21,848,58.0,55.0,53.0,49.0,55.0,54,64,90000.0,1000.0
+O. Christensen,Denmark,Odense Boldklub,GK ,18,834,55.0,54.0,49.0,51.0,52.0,54,69,110000.0,1000.0
+J. Sneddon,Scotland,Partick Thistle F.C.,GK ,19,860,55.0,57.0,55.0,47.0,59.0,54,66,90000.0,1000.0
+J. Turner,England,Bolton Wanderers,GK ,18,841,56.0,57.0,52.0,54.0,53.0,54,77,130000.0,1000.0
+D. Węglarz,Poland,Jagiellonia Białystok,GK ,21,884,52.0,53.0,47.0,54.0,54.0,54,61,70000.0,1000.0
+S. Al Saleh,Saudi Arabia,Al Qadisiyah,GK ,25,998,52.0,50.0,53.0,55.0,57.0,54,59,60000.0,1000.0
+H. Girling,England,Millwall,GK ,19,926,54.0,52.0,51.0,55.0,56.0,54,66,90000.0,1000.0
+D. Hładun,Poland,Zagłębie Lubin,GK ,21,896,55.0,52.0,52.0,50.0,57.0,54,60,70000.0,1000.0
+E. Benedettini,San Marino,Novara,GK ,22,845,55.0,54.0,53.0,50.0,54.0,54,62,70000.0,1000.0
+T. Holland,Republic of Ireland,Limerick FC,GK ,19,989,53.0,49.0,46.0,53.0,57.0,54,68,120000.0,1000.0
+A. Wichne,Norway,Viking FK,GK ,20,1032,60.0,55.0,60.0,54.0,58.0,54,67,110000.0,1000.0
+R. Coulter,Republic of Ireland,Bray Wanderers,GK ,28,957,54.0,56.0,53.0,52.0,55.0,54,57,60000.0,1000.0
+E. Grimes,Republic of Ireland,Derry City,GK ,22,1012,54.0,52.0,52.0,49.0,54.0,54,63,80000.0,1000.0
+K. Singh,India,,GK ,31,1021,55.0,47.0,53.0,51.0,62.0,54,54,0.0,0.0
+W. Popp,Japan,Kawasaki Frontale,GK ,22,807,54.0,52.0,60.0,53.0,49.0,54,60,70000.0,1000.0
+L. Marson,Italy,Sassuolo,GK ,19,860,55.0,58.0,56.0,51.0,55.0,54,70,120000.0,1000.0
+A. Quintana,Colombia,Deportes Tolima,GK ,22,806,49.0,57.0,54.0,58.0,49.0,54,64,80000.0,1000.0
+A. Fantini,Japan,Sagan Tosu,GK ,19,908,58.0,49.0,54.0,56.0,48.0,54,68,120000.0,1000.0
+M. Arias,Colombia,Corporación Club Deportivo Tuluá,GK ,19,842,54.0,56.0,58.0,50.0,60.0,54,67,100000.0,1000.0
+H. Acevedo,Colombia,Asociacion Deportivo Cali,GK ,20,846,57.0,53.0,62.0,45.0,57.0,54,66,100000.0,1000.0
+J. Koivistoinen,Finland,HJK Helsinki,GK ,19,841,55.0,58.0,53.0,52.0,45.0,54,66,90000.0,1000.0
+B. Gómez,Colombia,Águilas Doradas,GK ,19,851,60.0,55.0,55.0,48.0,58.0,54,67,100000.0,1000.0
+F. Kraft,Germany,VfL Bochum,GK ,18,906,59.0,57.0,59.0,44.0,62.0,54,72,110000.0,1000.0
+P. O'Flaherty,England,Bournemouth,GK ,20,995,60.0,47.0,50.0,44.0,63.0,54,68,120000.0,4000.0
+J. Ngongo,Angola,Grasshopper Club Zürich,GK ,23,804,52.0,58.0,46.0,48.0,52.0,53,63,70000.0,2000.0
+I. Ünal,Turkey,Alanyaspor,GK ,19,825,52.0,54.0,49.0,47.0,57.0,53,66,90000.0,1000.0
+T. Takagiwa,Japan,Shimizu S-Pulse,GK ,22,811,55.0,60.0,54.0,54.0,50.0,53,61,70000.0,1000.0
+S. Sødergren,Norway,Aalesunds FK,GK ,20,1023,49.0,52.0,56.0,52.0,55.0,53,63,70000.0,1000.0
+Lee Yun Oh,Korea Republic,Vegalta Sendai,GK ,18,791,54.0,52.0,55.0,52.0,59.0,53,57,50000.0,1000.0
+H. Fossdal,Norway,FK Haugesund,GK ,18,1058,54.0,48.0,45.0,49.0,56.0,53,67,100000.0,1000.0
+T. Lijour,France,Stade Brestois 29,GK ,18,886,58.0,51.0,48.0,55.0,57.0,53,71,100000.0,1000.0
+Lee Hyun Woo,Korea Republic,Daegu FC,GK ,23,848,53.0,51.0,54.0,50.0,54.0,53,61,70000.0,1000.0
+C. Burns,England,Galway United,GK ,22,911,50.0,52.0,54.0,52.0,51.0,53,58,60000.0,1000.0
+V. De Lucia,Italy,Bari,GK ,21,1055,58.0,44.0,50.0,49.0,59.0,53,63,70000.0,1000.0
+A. Yiğiter,Turkey,Fenerbahçe SK,GK ,17,802,50.0,51.0,58.0,51.0,57.0,53,72,100000.0,2000.0
+L. Steacy,Republic of Ireland,Bray Wanderers,GK ,24,960,52.0,54.0,55.0,52.0,53.0,53,58,60000.0,1000.0
+N. Vidal,Colombia,CD America de Cali,GK ,20,795,62.0,54.0,53.0,42.0,53.0,53,63,70000.0,1000.0
+J. Dakir,Denmark,Randers FC,GK ,20,800,55.0,53.0,48.0,46.0,56.0,53,63,70000.0,1000.0
+T. Brinkmann,Germany,SC Paderborn 07,GK ,21,801,51.0,59.0,58.0,49.0,51.0,53,60,60000.0,1000.0
+D. Vásquez,Colombia,Patriotas Boyacá FC,GK ,19,859,55.0,52.0,52.0,57.0,53.0,53,68,100000.0,1000.0
+N. Hatta,Japan,Júbilo Iwata,GK ,31,802,54.0,48.0,45.0,55.0,54.0,53,53,40000.0,1000.0
+L. Coddington,England,Northampton Town,GK ,22,981,55.0,51.0,54.0,47.0,56.0,53,63,70000.0,1000.0
+J. McGuire,United States,Philadelphia Union,GK ,22,1093,49.0,52.0,69.0,51.0,54.0,53,61,70000.0,1000.0
+B. House,England,West Bromwich Albion,GK ,18,821,59.0,57.0,56.0,40.0,54.0,53,72,100000.0,2000.0
+G. Vicario,Italy,F.B.C. Unione Venezia,GK ,20,830,51.0,54.0,50.0,50.0,54.0,53,61,70000.0,1000.0
+L. Williams,England,Exeter City,GK ,18,771,55.0,51.0,45.0,54.0,54.0,53,70,100000.0,1000.0
+M. Urwin,England,Fleetwood Town,GK ,23,1050,55.0,45.0,51.0,53.0,58.0,53,62,70000.0,1000.0
+R. Iuliano,Italy,Avellino,GK ,33,1010,50.0,52.0,64.0,51.0,53.0,53,53,30000.0,1000.0
+A. Al Shehry,Saudi Arabia,Al Qadisiyah,GK ,21,831,55.0,45.0,51.0,51.0,59.0,53,60,60000.0,1000.0
+V. Lukichev,Russia,FC Tosno,GK ,25,839,49.0,55.0,59.0,53.0,59.0,53,57,50000.0,2000.0
+A. Long,France,FC Sochaux-Montbéliard,GK ,20,811,57.0,58.0,48.0,48.0,51.0,53,65,80000.0,1000.0
+A. Vaporakis,Denmark,FC Helsingør,GK ,22,891,58.0,44.0,50.0,55.0,52.0,53,63,70000.0,1000.0
+P. Burke,Republic of Ireland,Finn Harps,GK ,21,798,52.0,54.0,52.0,53.0,55.0,53,62,70000.0,1000.0
+D. Verwüster,Austria,FC Admira Wacker Mödling,GK ,19,893,52.0,47.0,52.0,53.0,60.0,53,66,90000.0,1000.0
+J. Caicedo,Colombia,Deportivo Pasto,GK ,22,821,55.0,50.0,56.0,54.0,57.0,53,61,70000.0,1000.0
+C. Ross,England,Barnet,GK ,27,794,50.0,59.0,46.0,50.0,54.0,53,54,50000.0,1000.0
+K. Yoshimaru,Japan,Vissel Kobe,GK ,21,777,57.0,52.0,50.0,50.0,54.0,53,57,60000.0,1000.0
+M. Mleczko,Poland,Lech Poznań,GK ,18,1009,56.0,55.0,57.0,56.0,44.0,53,68,100000.0,1000.0
+J. Lucero,Argentina,Temperley,GK ,22,822,61.0,44.0,52.0,51.0,55.0,53,61,70000.0,1000.0
+G. Coudert,France,Tours FC,GK ,18,823,55.0,55.0,50.0,50.0,52.0,53,65,80000.0,1000.0
+B. Moore,United States,Rochdale,GK ,25,1067,55.0,51.0,52.0,50.0,56.0,53,59,60000.0,1000.0
+K. Al Muqaytib,Saudi Arabia,Al Raed,GK ,25,1025,59.0,43.0,49.0,52.0,54.0,53,58,60000.0,2000.0
+V. Cabezas,Colombia,Deportivo Pasto,GK ,19,814,56.0,52.0,48.0,47.0,55.0,53,68,100000.0,1000.0
+N. Al Anazi,Saudi Arabia,Al Batin,GK ,28,821,53.0,60.0,45.0,49.0,50.0,53,56,50000.0,1000.0
+R. Miura,Japan,Júbilo Iwata,GK ,25,814,58.0,54.0,52.0,49.0,48.0,53,56,50000.0,1000.0
+R. Díaz,Mexico,Querétaro,GK ,21,820,57.0,54.0,52.0,45.0,59.0,53,61,70000.0,1000.0
+D. Borsellini,Italy,Udinese,GK ,18,833,57.0,56.0,56.0,49.0,51.0,53,73,100000.0,1000.0
+R. Schofield,England,Huddersfield Town,GK ,17,806,57.0,51.0,46.0,50.0,52.0,53,76,110000.0,2000.0
+N. Tzanev,New Zealand,AFC Wimbledon,GK ,20,1039,55.0,48.0,47.0,49.0,53.0,53,68,110000.0,1000.0
+J. Moreno,Colombia,CD Los Millionarios Bogota,GK ,17,868,52.0,50.0,59.0,44.0,58.0,53,72,100000.0,1000.0
+S. Enzler,Switzerland,FC Luzern,GK ,19,835,53.0,56.0,59.0,45.0,59.0,53,65,80000.0,1000.0
+B. Petersen,South Africa,Kaizer Chiefs,GK ,21,904,53.0,54.0,60.0,50.0,54.0,53,61,70000.0,1000.0
+M. Nilsson,Sweden,Malmö FF,GK ,18,799,52.0,56.0,55.0,47.0,54.0,53,65,80000.0,1000.0
+D. Rodríguez,Colombia,Corporación Club Deportivo Tuluá,GK ,20,769,51.0,58.0,53.0,49.0,57.0,53,64,80000.0,1000.0
+K. Karpieszuk,Poland,Jagiellonia Białystok,GK ,20,999,59.0,51.0,47.0,42.0,57.0,53,59,60000.0,1000.0
+G. Meli,Italy,Empoli,GK ,18,820,52.0,54.0,55.0,49.0,56.0,52,70,80000.0,1000.0
+Y. Nishibe,Japan,Shimizu S-Pulse,GK ,36,791,50.0,57.0,53.0,51.0,53.0,52,52,10000.0,1000.0
+M. Boney,England,Blackpool,GK ,19,1013,54.0,47.0,44.0,49.0,55.0,52,69,90000.0,1000.0
+Y. Al Sayyah,Saudi Arabia,Al Taawoun,GK ,21,983,49.0,54.0,52.0,50.0,54.0,52,62,60000.0,1000.0
+T. Omenås,Norway,Sogndal,GK ,25,861,57.0,49.0,46.0,51.0,53.0,52,52,40000.0,1000.0
+D. Thürkauf,Switzerland,Werder Bremen II,GK ,20,831,52.0,52.0,56.0,43.0,60.0,52,67,90000.0,1000.0
+N. Jørgensen,Denmark,Hobro IK,GK ,19,792,56.0,54.0,54.0,46.0,50.0,52,65,80000.0,1000.0
+A. Kappenberger,Denmark,FC Helsingør,GK ,20,772,52.0,53.0,52.0,42.0,55.0,52,66,90000.0,1000.0
+R. Robitsch,Austria,Wolfsberger AC,GK ,27,1045,56.0,48.0,50.0,47.0,50.0,52,55,40000.0,1000.0
+A. Maynard-Brewer,Australia,Charlton Athletic,GK ,18,853,54.0,46.0,56.0,55.0,47.0,52,75,100000.0,1000.0
+J. Muñoz,Mexico,Club León,GK ,20,833,45.0,58.0,51.0,54.0,53.0,52,61,60000.0,2000.0
+O. Hedvall,Denmark,Silkeborg IF,GK ,18,815,55.0,48.0,51.0,44.0,57.0,52,70,80000.0,1000.0
+K. Humeler,Argentina,Talleres de Cordoba,GK ,20,865,50.0,58.0,52.0,52.0,51.0,52,64,70000.0,1000.0
+R. Watson,England,Scunthorpe United,GK ,21,1051,51.0,47.0,47.0,50.0,56.0,52,64,70000.0,1000.0
+P. Born,Denmark,SønderjyskE,GK ,22,1016,53.0,47.0,51.0,48.0,56.0,52,61,60000.0,1000.0
+A. André Jr,France,Bristol Rovers,GK ,20,937,46.0,52.0,65.0,50.0,54.0,52,60,60000.0,1000.0
+Hugo,Spain,Albacete Balompié,GK ,23,826,46.0,56.0,48.0,46.0,58.0,52,61,60000.0,1000.0
+M. Hudson,England,Preston North End,GK ,18,972,51.0,53.0,48.0,48.0,51.0,52,70,80000.0,1000.0
+H. Hawsawi,Saudi Arabia,Al Fayha,GK ,20,896,54.0,51.0,53.0,51.0,53.0,52,67,90000.0,1000.0
+F. Hornung,Switzerland,FC Thun,GK ,21,991,60.0,46.0,52.0,47.0,52.0,52,65,80000.0,1000.0
+A. Whiteman,England,Tottenham Hotspur,GK ,18,840,56.0,51.0,46.0,51.0,54.0,52,75,100000.0,3000.0
+A. Al Basisi,Saudi Arabia,Ohod Club,GK ,39,1028,54.0,47.0,54.0,49.0,56.0,52,52,0.0,1000.0
+P. Jennings,England,St. Patrick's Athletic,GK ,37,1008,52.0,53.0,51.0,51.0,48.0,52,52,0.0,1000.0
+D. Agamez,Colombia,Jaguares Fútbol Club,GK ,18,830,56.0,51.0,59.0,46.0,59.0,52,67,80000.0,1000.0
+A. Wilk,Poland,Cracovia,GK ,19,1017,54.0,49.0,52.0,45.0,56.0,52,65,80000.0,1000.0
+M. Turner,United States,New England Revolution,GK ,23,1007,52.0,55.0,63.0,49.0,51.0,52,60,60000.0,1000.0
+H. Abdulmajeed,Saudi Arabia,Ohod Club,GK ,23,821,60.0,52.0,45.0,44.0,55.0,52,57,50000.0,2000.0
+M. Yıldız,Turkey,Medicana Sivasspor,GK ,21,985,57.0,47.0,50.0,46.0,48.0,52,60,60000.0,1000.0
+O. Snorre,Denmark,Lyngby BK,GK ,18,885,52.0,48.0,52.0,54.0,51.0,52,73,100000.0,1000.0
+G. Nyberg,Sweden,AIK Solna,GK ,19,788,55.0,49.0,53.0,53.0,56.0,52,60,50000.0,1000.0
+A. Singh,India,,GK ,24,1040,52.0,53.0,54.0,43.0,54.0,52,56,0.0,0.0
+S. Schmidt,Germany,FC Carl Zeiss Jena,GK ,20,927,54.0,52.0,50.0,50.0,52.0,52,64,70000.0,1000.0
+J. Freitag,Poland,Piast Gliwice,GK ,22,823,59.0,46.0,59.0,49.0,52.0,52,59,50000.0,1000.0
+G. Harada,Japan,Yokohama F. Marinos,GK ,19,849,56.0,53.0,48.0,50.0,53.0,52,67,90000.0,1000.0
+A. Smith,Republic of Ireland,Cork City,GK ,24,969,52.0,50.0,48.0,50.0,52.0,52,59,50000.0,1000.0
+S. Gessl,Austria,Karlsruher SC,GK ,21,847,63.0,59.0,42.0,42.0,47.0,52,64,70000.0,1000.0
+G. Kawanami,Japan,Albirex Niigata,GK ,26,800,54.0,59.0,52.0,46.0,49.0,52,56,50000.0,1000.0
+C. Sparrow,United States,Real Salt Lake,GK ,23,913,55.0,51.0,59.0,54.0,46.0,52,59,50000.0,1000.0
+B. Schipmann,Germany,Holstein Kiel,GK ,22,836,60.0,55.0,52.0,47.0,47.0,52,57,50000.0,1000.0
+M. Cooper,England,Plymouth Argyle,GK ,17,824,48.0,54.0,52.0,46.0,57.0,52,77,90000.0,1000.0
+A. Suzuki,Japan,Yokohama F. Marinos,GK ,30,825,49.0,51.0,58.0,52.0,58.0,52,52,30000.0,1000.0
+A. Gilardi,Italy,Vercelli,GK ,22,794,46.0,54.0,53.0,54.0,52.0,52,60,60000.0,1000.0
+A. Weidinger,Germany, SSV Jahn Regensburg,GK ,20,825,51.0,54.0,56.0,56.0,49.0,52,60,60000.0,1000.0
+A. Rivero,Argentina,Arsenal de Sarandí,GK ,19,799,59.0,48.0,53.0,48.0,49.0,52,64,70000.0,1000.0
+L. Clayton,England,Cheltenham Town,GK ,17,776,55.0,54.0,52.0,50.0,53.0,51,68,60000.0,1000.0
+D. Craddock,Republic of Ireland,Aberdeen,GK ,19,845,52.0,57.0,51.0,47.0,47.0,51,69,70000.0,1000.0
+T. McDermott,Republic of Ireland,Derry City,GK ,19,903,54.0,58.0,49.0,49.0,46.0,51,64,60000.0,1000.0
+J. Delianov,Australia,Melbourne City,GK ,17,810,52.0,54.0,55.0,50.0,51.0,51,74,70000.0,1000.0
+G. Chande,Switzerland,FC Basel,GK ,19,811,54.0,50.0,47.0,48.0,50.0,51,68,70000.0,1000.0
+H. González,Mexico,Club Tijuana,GK ,21,840,59.0,48.0,56.0,40.0,56.0,51,59,40000.0,1000.0
+J. Pryts Larsen,Denmark,Brøndby IF,GK ,19,786,50.0,49.0,56.0,52.0,50.0,51,62,50000.0,1000.0
+R. Diaz,United States,New York Red Bulls,GK ,25,1020,54.0,44.0,54.0,43.0,56.0,51,55,30000.0,1000.0
+J. Sims,England,Blackpool,GK ,17,794,46.0,48.0,53.0,53.0,52.0,51,72,70000.0,1000.0
+F. Cuevas,Colombia,CD Once Caldas Manizales,GK ,20,809,60.0,59.0,58.0,41.0,46.0,51,63,50000.0,1000.0
+K. Tokushige,Japan,Vissel Kobe,GK ,33,845,54.0,49.0,51.0,51.0,47.0,51,51,20000.0,1000.0
+K. Nasurov,Russia,Terek Grozny,GK ,17,812,54.0,54.0,46.0,45.0,58.0,51,72,70000.0,1000.0
+J. Knoll,Germany,Rot-Weiß Erfurt,GK ,17,1005,58.0,59.0,50.0,43.0,47.0,51,62,40000.0,1000.0
+L. Dias,France,Nîmes Olympique,GK ,18,823,58.0,46.0,48.0,45.0,55.0,51,71,60000.0,1000.0
+M. Agboola,England,Oxford United,GK ,18,845,49.0,53.0,58.0,44.0,55.0,51,66,60000.0,1000.0
+H. Pickering,England,Forest Green,GK ,19,841,52.0,51.0,57.0,50.0,51.0,51,66,70000.0,1000.0
+J. Dorangeon,France,La Berrichonne de Châteauroux,GK ,20,865,55.0,48.0,53.0,45.0,51.0,51,61,50000.0,1000.0
+N. Schmid,Austria,LASK Linz,GK ,20,908,45.0,57.0,59.0,50.0,47.0,51,65,70000.0,1000.0
+S. Tsuji,Japan,Sagan Tosu,GK ,19,810,48.0,52.0,53.0,51.0,56.0,51,67,70000.0,1000.0
+E. Alarcón,Argentina,Club Atlético Patronato,GK ,24,829,56.0,55.0,55.0,44.0,49.0,51,58,40000.0,1000.0
+K. Al Mozaibri,Saudi Arabia,Al Batin,GK ,26,887,61.0,49.0,56.0,46.0,49.0,51,56,30000.0,1000.0
+A. Romero,Mexico,Pachuca,GK ,19,802,56.0,48.0,53.0,48.0,51.0,51,66,70000.0,1000.0
+W. Jääskeläinen,Finland,Crewe Alexandra,GK ,18,910,58.0,48.0,48.0,43.0,52.0,51,70,60000.0,1000.0
+T. Saloni,Italy,La Spezia,GK ,20,776,52.0,53.0,49.0,51.0,49.0,51,62,50000.0,1000.0
+A. Viscovo,Italy,Crotone,GK ,18,755,58.0,46.0,57.0,52.0,47.0,51,70,60000.0,1000.0
+J. García,Mexico,Santos Laguna,GK ,19,823,47.0,56.0,54.0,44.0,52.0,50,66,50000.0,1000.0
+D. Berchtold,Switzerland,FC Lausanne-Sports,GK ,21,776,48.0,47.0,49.0,52.0,50.0,50,64,50000.0,1000.0
+C. Roberts,England,Preston North End,GK ,17,840,50.0,51.0,50.0,50.0,52.0,50,64,50000.0,1000.0
+L. Wackerle,Austria,SKN St. Pölten,GK ,21,831,48.0,49.0,55.0,46.0,58.0,50,59,30000.0,1000.0
+N. Mantl,Germany,SpVgg Unterhaching,GK ,17,807,53.0,50.0,46.0,45.0,58.0,50,72,50000.0,1000.0
+B. Kelly,Republic of Ireland,Dundalk,GK ,19,993,48.0,51.0,50.0,52.0,46.0,50,59,30000.0,1000.0
+R. Pasquel,Mexico,Deportivo Toluca,GK ,21,800,54.0,53.0,47.0,40.0,56.0,50,60,40000.0,1000.0
+M. Bobjerg,Denmark,AC Horsens,GK ,19,856,46.0,59.0,50.0,44.0,50.0,50,65,50000.0,1000.0
+D. Jamieson,Scotland,Hamilton Academical FC,GK ,26,876,56.0,54.0,55.0,46.0,44.0,50,54,30000.0,1000.0
+J. Granlund,Norway,Sandefjord Fotball,GK ,17,795,49.0,53.0,49.0,43.0,53.0,50,65,50000.0,1000.0
+M. Zamora,Mexico,Lobos de la BUAP,GK ,21,818,57.0,50.0,49.0,43.0,45.0,50,59,30000.0,1000.0
+F. Al Johani,Saudi Arabia,Ohod Club,GK ,24,812,59.0,45.0,47.0,42.0,54.0,50,53,30000.0,2000.0
+D. Sweeney,Republic of Ireland,Drogheda United,GK ,19,942,54.0,50.0,48.0,50.0,51.0,50,63,40000.0,1000.0
+D. Maekawa,Japan,Vissel Kobe,GK ,22,728,51.0,53.0,44.0,47.0,51.0,50,57,30000.0,1000.0
+Park Hyeong Min,Korea Republic,GwangJu FC,GK ,23,790,52.0,52.0,56.0,44.0,52.0,50,58,30000.0,1000.0
+K. Kurek,Poland,Piast Gliwice,GK ,19,813,48.0,50.0,47.0,49.0,50.0,50,66,50000.0,1000.0
+S. Hornby,England,Port Vale,GK ,22,941,54.0,48.0,48.0,47.0,51.0,50,60,40000.0,1000.0
+J. Walton,England,Barnsley,GK ,19,1012,52.0,47.0,46.0,46.0,49.0,50,67,50000.0,1000.0
+E. Ross,England,West Bromwich Albion,GK ,20,853,46.0,58.0,46.0,51.0,47.0,50,62,40000.0,4000.0
+O. Byrne,England,Cardiff City,GK ,19,818,48.0,50.0,54.0,47.0,57.0,50,67,50000.0,1000.0
+N. Krucker,Switzerland,FC St. Gallen,GK ,18,757,53.0,51.0,55.0,49.0,51.0,50,61,40000.0,1000.0
+M. Iversen,Denmark,Aalborg BK,GK ,18,1051,52.0,49.0,46.0,48.0,49.0,50,62,40000.0,1000.0
+F. Nørgaard,Denmark,AC Horsens,GK ,18,811,52.0,50.0,54.0,43.0,57.0,50,62,40000.0,1000.0
+M. Hamrol,Germany,Korona Kielce,GK ,23,770,51.0,49.0,51.0,50.0,54.0,50,56,30000.0,1000.0
+E. McGinty,Republic of Ireland,Sligo Rovers,GK ,17,912,51.0,47.0,47.0,49.0,50.0,50,67,50000.0,1000.0
+J. Tierney,Republic of Ireland,Galway United,GK ,18,793,54.0,47.0,52.0,43.0,54.0,50,60,30000.0,1000.0
+D. Adamov,Russia,FC Krasnodar,GK ,19,808,45.0,50.0,56.0,52.0,52.0,50,64,50000.0,1000.0
+K. Tomasik,Poland,Sandecja Nowy Sącz,GK ,17,755,50.0,47.0,55.0,43.0,54.0,49,64,50000.0,1000.0
+V. Paillon,France,ES Troyes AC,GK ,19,804,50.0,49.0,56.0,48.0,47.0,49,67,50000.0,1000.0
+T. McCarron,Republic of Ireland,Finn Harps,GK ,19,846,49.0,50.0,48.0,49.0,53.0,49,57,30000.0,1000.0
+W. Henry,England,Swindon Town,GK ,18,771,56.0,46.0,45.0,38.0,54.0,49,67,50000.0,1000.0
+D. Mackay,Scotland,Kilmarnock,GK ,20,976,48.0,50.0,47.0,48.0,48.0,49,59,40000.0,1000.0
+T. Trueba,Mexico,Puebla,GK ,21,826,49.0,51.0,51.0,42.0,51.0,49,57,30000.0,1000.0
+A. Giacomel,Italy,Empoli,GK ,18,755,45.0,55.0,48.0,45.0,56.0,49,64,50000.0,1000.0
+M. Bacon,England,Carlisle United,GK ,19,789,47.0,56.0,54.0,42.0,46.0,49,57,30000.0,1000.0
+M. Al Baqawi,Saudi Arabia,Al Taawoun,GK ,19,848,52.0,49.0,49.0,40.0,54.0,49,64,50000.0,1000.0
+L. Tigges,Germany,VfL Osnabrück,GK ,18,736,49.0,51.0,48.0,47.0,50.0,49,64,50000.0,1000.0
+S. Więckowicz,Poland,Arka Gdynia,GK ,17,794,51.0,61.0,51.0,43.0,48.0,49,70,50000.0,1000.0
+C. Veloz,Argentina,Gimnasia y Esgrima La Plata,GK ,19,1059,49.0,46.0,47.0,49.0,51.0,49,59,40000.0,1000.0
+N. Maher,England,Morecambe,GK ,18,851,53.0,50.0,49.0,47.0,51.0,49,57,30000.0,1000.0
+N. Bishop,England,Southend United,GK ,17,831,46.0,45.0,59.0,48.0,58.0,49,71,50000.0,1000.0
+M. Hurst,Scotland,St. Johnstone FC,GK ,21,991,45.0,49.0,50.0,50.0,45.0,48,58,40000.0,1000.0
+M. McElhinney,Republic of Ireland,Derry City,GK ,19,874,47.0,46.0,51.0,47.0,50.0,48,60,40000.0,1000.0
+A. Dillon,Republic of Ireland,Blackburn Rovers,GK ,20,833,51.0,45.0,53.0,48.0,44.0,48,61,50000.0,1000.0
+M. Cerofolini,Italy,Fiorentina,GK ,18,794,46.0,48.0,57.0,44.0,47.0,48,67,50000.0,2000.0
+K. Horgan,Republic of Ireland,Shamrock Rovers,GK ,20,936,45.0,48.0,46.0,47.0,48.0,48,58,40000.0,1000.0
+V. Soromytko,Russia,FC SKA-Energiya Khabarovsk,GK ,22,848,49.0,47.0,49.0,48.0,50.0,48,57,30000.0,2000.0
+A. Corasaniti,Italy,Cittadella,GK ,18,798,49.0,48.0,49.0,49.0,48.0,48,63,50000.0,1000.0
+A. Kelsey,England,Scunthorpe United,GK ,17,755,46.0,47.0,49.0,42.0,48.0,46,63,50000.0,1000.0
+B. Richardson,England,Wycombe Wanderers,GK ,47,832,39.0,50.0,39.0,50.0,37.0,46,46,0.0,1000.0
